@@ -1,0 +1,19 @@
+{
+  "name": "bettorman",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "fs-extra": "^11.1.1",
+    "puppeteer": "^19.11.1"
+  },
+  "type": "module",
+  "description": "",
+  "types": "module"
+}

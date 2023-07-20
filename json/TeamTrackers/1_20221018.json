@@ -1,0 +1,66 @@
+{
+  "Philadelphia 76ers": {
+    "games": [
+      {
+        "date": "2022-10-18T04:00:00.000Z",
+        "context": "A",
+        "outcome": "L",
+        "pointDifferential": -9,
+        "pointDifferentialRunning": -9,
+        "streaks": {
+          "general": 0,
+          "away": 0,
+          "home": 0
+        }
+      }
+    ]
+  },
+  "Boston Celtics": {
+    "games": [
+      {
+        "date": "2022-10-18T04:00:00.000Z",
+        "context": "H",
+        "outcome": "W",
+        "pointDifferential": 9,
+        "pointDifferentialRunning": 9,
+        "streaks": {
+          "general": 0,
+          "away": 0,
+          "home": 0
+        }
+      }
+    ]
+  },
+  "Los Angeles Lakers": {
+    "games": [
+      {
+        "date": "2022-10-18T04:00:00.000Z",
+        "context": "A",
+        "outcome": "L",
+        "pointDifferential": -14,
+        "pointDifferentialRunning": -14,
+        "streaks": {
+          "general": 0,
+          "away": 0,
+          "home": 0
+        }
+      }
+    ]
+  },
+  "Golden State Warriors": {
+    "games": [
+      {
+        "date": "2022-10-18T04:00:00.000Z",
+        "context": "H",
+        "outcome": "W",
+        "pointDifferential": 14,
+        "pointDifferentialRunning": 14,
+        "streaks": {
+          "general": 0,
+          "away": 0,
+          "home": 0
+        }
+      }
+    ]
+  }
+}

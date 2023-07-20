@@ -1,6 +1,7 @@
-export default async function buildGameDay(gamesObjectArray) {
+export default async function buildGameDayPredictions(gamesObjectArray, currentDate) {
     
     //build data object for each game, push to sameDayGames array
+    let weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
     let gameDay = {}
     gameDay.general = {}
     gameDay.general.date = currentDate

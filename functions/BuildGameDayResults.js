@@ -5,8 +5,18 @@ export default async function buildGameDayResults(page, gameDay, currentDate) {
     let currentYear = currentDate.getFullYear()
     let currentMonth = currentDate.getMonth() + 1
     let currentDay = currentDate.getDate()
+    let espnDate = ``
     
-    let espnDate = `${currentYear}${currentMonth}${currentDay}`
+    if(currentMonth < 10 || currentDay < 10){
+        if(currentMonth < 10 && currentDay < 10) { 
+            currentMonth = `0${currentMonth}`
+            currentDay = `0${currentDay}`
+        }
+        else if(currentMonth < 10) currentMonth = `0${currentMonth}`
+        else currentDay = `0${currentDay}`
+    }
+    
+    espnDate = `${currentYear}${currentMonth}${currentDay}`
     
     //Go to ESPN.com and add results data to games.
     await page.goto(`https://www.espn.com/nba/scoreboard/_/date/${espnDate}`, {
@@ -47,6 +57,9 @@ export default async function buildGameDayResults(page, gameDay, currentDate) {
             let espnGameData = gameInfoArray[j]
             if(espnGameData[6] == 'Trail Blazers') espnGameData[6] = 'Blazers'
             if(espnGameData[7] == 'Trail Blazers') espnGameData[7] = 'Blazers'
+            if(espnGameData[15] == 'Trail Blazers') espnGameData[15] = 'Blazers'
+            if(espnGameData[17] == 'Trail Blazers') espnGameData[17] = 'Blazers'
+            
             
             if(gameInfoArray[j].length != 24){
                 //OT Game

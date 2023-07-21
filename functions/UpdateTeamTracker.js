@@ -32,6 +32,9 @@ export default async function updateTeamTracker(gameDay, teamTracker, currentDat
             teamTracker[gameDay.sameDayGames[i].general.away].games[gameDay.sameDayGames[i].general.gameNumberAway - 2].pointDifferentialRunning + thisGameAway.pointDifferential
             : thisGameAway.pointDifferentialRunning = thisGameAway.pointDifferential
         
+        // if(currentDate.getDate() == 21){
+        //     console.log(JSON.stringify(gameDay.sameDayGames[i]))
+        // }
         teamTracker[gameDay.sameDayGames[i].general.home].games.length > 0 ?
         thisGameHome.pointDifferentialRunning = 
         teamTracker[gameDay.sameDayGames[i].general.home].games[gameDay.sameDayGames[i].general.gameNumberHome - 2].pointDifferentialRunning + thisGameHome.pointDifferential
@@ -43,7 +46,7 @@ export default async function updateTeamTracker(gameDay, teamTracker, currentDat
         
         teamTracker[gameDay.sameDayGames[i].general.home].games.length > 0 ?
         [thisGameHome.homestandIncluding, thisGameHome.roadTripIncluding] = 
-        [teamTracker[gameDay.sameDayGames[i].general.home].games[gameDay.sameDayGames[i].general.gameNumberAway - 2].homestandIncluding + 1, 0] : [1, 0]
+        [teamTracker[gameDay.sameDayGames[i].general.home].games[gameDay.sameDayGames[i].general.gameNumberHome - 2].homestandIncluding + 1, 0] : [1, 0]
         
         thisGameAway.streaks = {}
         thisGameHome.streaks = {}
@@ -96,7 +99,7 @@ export default async function updateTeamTracker(gameDay, teamTracker, currentDat
                     thisGameHome.streaks.away += 1 : thisGameHome.streaks.away = 1
                 } else {
                     thisGameHome.streaks.away = teamTracker[gameDay.sameDayGames[i].general.home].games[gameDay.sameDayGames[i].general.gameNumberHome - 2].streaks.away
-                    teamTracker[gameDay.sameDayGames[i].general.Home].games[gameDay.sameDayGames[i].general.gameNumberHome - 2].streaks.home > -1 ?
+                    teamTracker[gameDay.sameDayGames[i].general.home].games[gameDay.sameDayGames[i].general.gameNumberHome - 2].streaks.home > -1 ?
                     thisGameHome.streaks.home += 1 : thisGameHome.streaks.home = 1
                 }
         

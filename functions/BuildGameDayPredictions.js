@@ -4,7 +4,7 @@ export default async function buildGameDayPredictions(gamesObjectArray, currentD
     let weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
     let gameDay = {}
     gameDay.general = {}
-    gameDay.general.date = currentDate
+    gameDay.general.date = gamesObjectArray[0][0]
     gameDay.general.dayOfWeek = currentDate.getDay()
     gameDay.general.dayOfWeekName = weekdays[currentDate.getDay()]
     gameDay.sameDayGames = []

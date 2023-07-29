@@ -42,9 +42,17 @@ export default async function redditLogin(page, allGamedays, currentDateRightFor
         }
         
         //navigate to daily odds thread
-        await page.goto(dailyLink, {
-            waitUntil: 'domcontentloaded',
-        })
+        if(currentMonth == 2 && currentDay == 9 && currentYear == '23'){
+            //Thread for this date wasn't showing up on Reddit search for some reason
+            await page.goto('https://old.reddit.com/r/sportsbook/comments/10xk9cb/nba_daily_2923_thursday/', {
+                waitUntil: 'domcontentloaded',
+            })
+        } else {
+            await page.goto(dailyLink, {
+                waitUntil: 'domcontentloaded',
+            })
+        }
+        
 
         
 }

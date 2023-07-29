@@ -5,13 +5,13 @@ export default async function writeFiles(allGamedays, teamTracker, currentDate) 
     let currentDay = currentDate.getDate()
     
     let espnDate = `${currentYear}${currentMonth}${currentDay}`
-        let allGamedaysFile = `./json/Gamedays/${allGamedays.length}_${espnDate}.json`
+        let allGamedaysFile = `./json/Gamedays/Gamedays.json`
 
         fileSystem.outputFile(allGamedaysFile, JSON.stringify(allGamedays, null, 2), (error) => {
             if(error) console.log(error)
         })
 
-        let teamTrackerFile =  `./json/TeamTrackers/${allGamedays.length}_${espnDate}.json`
+        let teamTrackerFile =  `./json/TeamTrackers/TeamTracker.json`
         fileSystem.outputFile(teamTrackerFile, JSON.stringify(teamTracker, null, 2), (error) => {
             if(error) console.log(error)
         })

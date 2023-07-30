@@ -78,7 +78,7 @@ export default async function buildGameDayResults(page, gameDay, currentDate) {
                         }
                 
                         // Put actualGameData into gameDay.sameDayGames[i] object (remember OT is a special case)
-                        if(actualGameData[0].includes('/OT')){
+                        if(actualGameData[0].includes('OT')){
                             //Handle OT Games
                             gameDay.sameDayGames[i].actual.awayFirstQuarter = parseInt(actualGameData[11])
                             gameDay.sameDayGames[i].actual.awaySecondQuarter = parseInt(actualGameData[12])
@@ -208,7 +208,7 @@ export default async function buildGameDayResults(page, gameDay, currentDate) {
                             }
                         }
 
-                        //Over/Under ("Total") Results
+                        //#region Over/Under ("Total") Results
                         if(gameDay.sameDayGames[i].prediction.total > gameDay.sameDayGames[i].actual.total) {
                             gameDay.sameDayGames[i].results.total = {
                                 'result': 'Under',
@@ -231,8 +231,9 @@ export default async function buildGameDayResults(page, gameDay, currentDate) {
                             
                         }
                         gameDay.sameDayGames[i].results.total.resultDifference = gameDay.sameDayGames[i].actual.total - gameDay.sameDayGames[i].prediction.total
-                        
-                        //Spread Results
+                        //#endregion
+
+                        //#region Spread Results
                         if(gameDay.sameDayGames[i].actual.spread == gameDay.sameDayGames[i].prediction.spread){
                             // Push
                             console.log(`Push for Spread on ${gameDay.sameDayGames[i].general.date} ${gameDay.sameDayGames[i].general.away} @ ${gameDay.sameDayGames[i].general.home}`)
@@ -242,7 +243,7 @@ export default async function buildGameDayResults(page, gameDay, currentDate) {
                                 'payout': 'Money Back'
                                 }
                         }
-                        else if(gameDay.sameDayGames[i].results.moneyLineResult == 'Dog'){
+                        else if(gameDay.sameDayGames[i].results.moneyline.result == 'Dog'){
                             gameDay.sameDayGames[i].results.spread = {
                                 'winner': 'Dog', 
                                 'type': 'Upset',
@@ -262,7 +263,8 @@ export default async function buildGameDayResults(page, gameDay, currentDate) {
                                     'payout': gameDay.sameDayGames[i].prediction.dogSpreadPays
                                     }
                             }
-                        } 
+                        }
+                        //#endregion 
                 
                 
             }

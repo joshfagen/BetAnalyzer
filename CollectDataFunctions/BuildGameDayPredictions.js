@@ -24,7 +24,13 @@ export default async function buildGameDayPredictions(gamesObjectArray, currentD
             gameData.prediction.dog = 'A' : gameData.prediction.dog = 'H'
         gameData.prediction.awayML = parseInt(currentGame[2])
         gameData.prediction.homeML = parseInt(currentGame[7])
-        gameData.prediction.spread = parseFloat(currentGame[3].slice(1, currentGame[3].indexOf(' ')))
+        if(gameData.prediction.spread = parseFloat(currentGame[3].slice(1, currentGame[3].indexOf(' '))) == 'PK'){
+            gameData.prediction.spread = 0
+        }
+        else {
+            gameData.prediction.spread = parseFloat(currentGame[3].slice(1, currentGame[3].indexOf(' ')))
+        }
+        
         gameData.prediction.awaySpreadPays = parseInt(currentGame[3].slice(currentGame[3].indexOf(' ') + 1))
         gameData.prediction.homeSpreadPays = parseInt(currentGame[8].slice(currentGame[8].indexOf(' ') + 1))
         gameData.prediction.fav == 'H' ? 

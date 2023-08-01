@@ -32,7 +32,7 @@ export default async function buildGameDayPredictions(gamesObjectArray, currentD
             (gameData.prediction.dogSpreadPays = gameData.prediction.awaySpreadPays, gameData.prediction.favSpreadPays = gameData.prediction.homeSpreadPays)
         gameData.prediction.total = parseFloat(currentGame[4].slice(1, currentGame[4].indexOf(' ')))
         gameData.prediction.overPays = parseInt(currentGame[4].slice(currentGame[4].indexOf(' ') + 1))
-        gameData.prediction.underPays = parseInt(currentGame[4].slice(currentGame[9].indexOf(' ') + 1))
+        gameData.prediction.underPays = parseInt(currentGame[9].slice(currentGame[9].indexOf(' ') + 1))
         gameData.prediction.favScoreprediction = Math.round(gameData.prediction.total / 2 + gameData.prediction.spread / 2)
         gameData.prediction.dogScoreprediction = Math.round(gameData.prediction.total / 2 - gameData.prediction.spread / 2)
         gameData.prediction.predictionScore = `${gameData.prediction.favScoreprediction} - ${gameData.prediction.dogScoreprediction}`

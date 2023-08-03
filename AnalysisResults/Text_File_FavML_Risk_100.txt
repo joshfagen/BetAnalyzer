@@ -23,15 +23,15 @@ Daily Losses: 0 game(s) out of 2.
 ###########
 Overall Daily Performance: $95.83
 Running Profits/Losses: $95.83 
-Bankroll before Replenishment: $400.00
-Bankroll Replenished: $400.00
+Bankroll before Replenishment: $200.00
+Bankroll Replenished: $200.00
 Amount Injected Overall: $200.00
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 10/19. 12 Game(s)
 You need $1200.00. 
                             You currently have $1104.17 in your bankroll, and $95.83 in your profits.
                             $95.83 has been transferred from your profits to your bankroll,
-                            and $704.17 has been injected into the bankroll
+                            and $904.17 has been injected into the bankroll
 ###########
 Game #1/12: Washington Wizards @ Indiana Pacers
 Result: Win!!! Payout: $71.43
@@ -81,13 +81,13 @@ Daily Losses: 4 game(s) out of 12.
 ###########
 Overall Daily Performance: $36.95
 Running Profits/Losses: $132.79 
-Bankroll before Replenishment: $1504.17
-Bankroll Replenished: $1504.17
-Amount Injected Overall: $904.17
+Bankroll before Replenishment: $704.17
+Bankroll Replenished: $1104.17
+Amount Injected Overall: $1104.17
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 10/20. 2 Game(s)
 You need $200.00. 
-                            You currently have $1504.17 in your bankroll, and $132.79 in your profits.
+                            You currently have $1104.17 in your bankroll, and $169.74 in your profits.
                             $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/2: Milwaukee Bucks @ Philadelphia 76ers
@@ -108,13 +108,13 @@ Daily Losses: 1 game(s) out of 2.
 ###########
 Overall Daily Performance: $-48.72
 Running Profits/Losses: $84.07 
-Bankroll before Replenishment: $1404.17
-Bankroll Replenished: $1488.24
-Amount Injected Overall: $904.17
+Bankroll before Replenishment: $1004.17
+Bankroll Replenished: $1104.17
+Amount Injected Overall: $1104.17
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 10/21. 11 Game(s)
 You need $1100.00. 
-                            You currently have $1100.00 in your bankroll, and $0.00 in your profits.
+                            You currently have $1104.17 in your bankroll, and $35.35 in your profits.
                             $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/11: San Antonio Spurs @ Indiana Pacers
@@ -162,15 +162,14 @@ Daily Losses: 4 game(s) out of 11.
 ###########
 Overall Daily Performance: $-39.06
 Running Profits/Losses: $45.01 
-Bankroll before Replenishment: $700.00
-Bankroll Replenished: $745.01
-Amount Injected Overall: $515.93
+Bankroll before Replenishment: $704.17
+Bankroll Replenished: $1104.17
+Amount Injected Overall: $1104.17
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 10/22. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $0.00 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll,
-                            and $154.99 has been injected into the bankroll
+                            You currently have $1104.17 in your bankroll, and $5.95 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/9: San Antonio Spurs @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -211,13 +210,13 @@ Daily Losses: 2 game(s) out of 9.
 ###########
 Overall Daily Performance: $124.83
 Running Profits/Losses: $169.84 
-Bankroll before Replenishment: $854.99
-Bankroll Replenished: $1024.83
-Amount Injected Overall: $670.92
+Bankroll before Replenishment: $904.17
+Bankroll Replenished: $1104.17
+Amount Injected Overall: $1104.17
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 10/23. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $0.00 in your profits.
+                            You currently have $1104.17 in your bankroll, and $294.68 in your profits.
                             $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/7: Portland Trail Blazers @ Los Angeles Lakers
@@ -253,15 +252,14 @@ Daily Losses: 3 game(s) out of 7.
 ###########
 Overall Daily Performance: $-97.83
 Running Profits/Losses: $72.02 
-Bankroll before Replenishment: $400.00
-Bankroll Replenished: $472.02
-Amount Injected Overall: $346.09
+Bankroll before Replenishment: $804.17
+Bankroll Replenished: $1078.36
+Amount Injected Overall: $1104.17
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 10/24. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $0.00 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll,
-                            and $327.98 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/8: Indiana Pacers @ Philadelphia 76ers
 Result: Win!!! Payout: $13.33
@@ -299,14 +297,15 @@ Daily Losses: 6 game(s) out of 8.
 ###########
 Overall Daily Performance: $-550.95
 Running Profits/Losses: $-478.93 
-Bankroll before Replenishment: $527.98
-Bankroll Replenished: $527.98
-Amount Injected Overall: $674.07
+Bankroll before Replenishment: $200.00
+Bankroll Replenished: $249.05
+Amount Injected Overall: $825.81
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 10/25. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-478.93 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            $-478.93 has been transferred from your profits to your bankroll,
+                            and $250.95 has been injected into the bankroll
 ###########
 Game #1/5: Detroit Pistons @ Washington Wizards
 Result: Win!!! Payout: $46.51
@@ -336,14 +335,14 @@ Daily Losses: 3 game(s) out of 5.
 Overall Daily Performance: $-186.82
 Running Profits/Losses: $-665.76 
 Bankroll before Replenishment: $200.00
-Bankroll Replenished: $200.00
-Amount Injected Overall: $646.09
+Bankroll Replenished: $313.18
+Amount Injected Overall: $1076.76
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 10/26. 10 Game(s)
 You need $1000.00. 
                             You currently have $1000.00 in your bankroll, and $-665.76 in your profits.
                             $-665.76 has been transferred from your profits to your bankroll,
-                            and $800.00 has been injected into the bankroll
+                            and $686.82 has been injected into the bankroll
 ###########
 Game #1/10: Atlanta Hawks @ Detroit Pistons
 Result: Win!!! Payout: $31.15
@@ -387,13 +386,13 @@ Daily Losses: 1 game(s) out of 10.
 ###########
 Overall Daily Performance: $261.10
 Running Profits/Losses: $-404.66 
-Bankroll before Replenishment: $1034.24
-Bankroll Replenished: $1034.24
-Amount Injected Overall: $1446.09
+Bankroll before Replenishment: $900.00
+Bankroll Replenished: $1000.00
+Amount Injected Overall: $1763.58
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 10/27. 4 Game(s)
 You need $400.00. 
-                            You currently have $400.00 in your bankroll, and $-404.66 in your profits.
+                            You currently have $400.00 in your bankroll, and $-143.56 in your profits.
                             $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/4: Dallas Mavericks @ Brooklyn Nets
@@ -421,14 +420,14 @@ Daily Losses: 1 game(s) out of 4.
 Overall Daily Performance: $84.10
 Running Profits/Losses: $-320.56 
 Bankroll before Replenishment: $300.00
-Bankroll Replenished: $300.00
-Amount Injected Overall: $811.84
+Bankroll Replenished: $400.00
+Amount Injected Overall: $1163.58
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 10/28. 11 Game(s)
 You need $1100.00. 
-                            You currently have $1100.00 in your bankroll, and $-320.56 in your profits.
-                            $-320.56 has been transferred from your profits to your bankroll,
-                            and $800.00 has been injected into the bankroll
+                            You currently have $1100.00 in your bankroll, and $-236.46 in your profits.
+                            $-236.46 has been transferred from your profits to your bankroll,
+                            and $700.00 has been injected into the bankroll
 ###########
 Game #1/11: Atlanta Hawks @ Detroit Pistons
 Result: Win!!! Payout: $45.45
@@ -475,9 +474,9 @@ Daily Losses: 5 game(s) out of 11.
 ###########
 Overall Daily Performance: $-266.41
 Running Profits/Losses: $-586.97 
-Bankroll before Replenishment: $1079.44
-Bankroll Replenished: $1079.44
-Amount Injected Overall: $1611.84
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $833.59
+Amount Injected Overall: $1863.58
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 10/29. 7 Game(s)
 You need $700.00. 
@@ -518,14 +517,14 @@ Daily Losses: 5 game(s) out of 7.
 Overall Daily Performance: $-380.44
 Running Profits/Losses: $-967.41 
 Bankroll before Replenishment: $200.00
-Bankroll Replenished: $200.00
-Amount Injected Overall: $1232.40
+Bankroll Replenished: $319.56
+Amount Injected Overall: $1730.00
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 10/30. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-967.41 in your profits.
                             $-967.41 has been transferred from your profits to your bankroll,
-                            and $600.00 has been injected into the bankroll
+                            and $480.44 has been injected into the bankroll
 ###########
 Game #1/8: New Orleans Pelicans @ Los Angeles Clippers
 Result: Loss :(:(:( Loss: $100
@@ -563,15 +562,15 @@ Daily Losses: 4 game(s) out of 8.
 ###########
 Overall Daily Performance: $-281.68
 Running Profits/Losses: $-1249.09 
-Bankroll before Replenishment: $32.59
-Bankroll Replenished: $32.59
-Amount Injected Overall: $1832.40
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $518.32
+Amount Injected Overall: $2210.44
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 10/31. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-1249.09 in your profits.
                             $-1249.09 has been transferred from your profits to your bankroll,
-                            and $667.41 has been injected into the bankroll
+                            and $181.68 has been injected into the bankroll
 ###########
 Game #1/7: Sacramento Kings @ Charlotte Hornets
 Result: Win!!! Payout: $63.69
@@ -606,15 +605,14 @@ Daily Losses: 1 game(s) out of 7.
 ###########
 Overall Daily Performance: $174.84
 Running Profits/Losses: $-1074.25 
-Bankroll before Replenishment: $18.32
-Bankroll Replenished: $18.32
-Amount Injected Overall: $2499.81
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $700.00
+Amount Injected Overall: $2392.12
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 11/1. 4 Game(s)
 You need $400.00. 
-                            You currently have $400.00 in your bankroll, and $-1074.25 in your profits.
-                            $-1074.25 has been transferred from your profits to your bankroll,
-                            and $381.68 has been injected into the bankroll
+                            You currently have $400.00 in your bankroll, and $-899.41 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/4: Chicago Bulls @ Brooklyn Nets
 Result: Loss :(:(:( Loss: $100
@@ -640,15 +638,15 @@ Daily Losses: 2 game(s) out of 4.
 ###########
 Overall Daily Performance: $-75.66
 Running Profits/Losses: $-1149.91 
-Bankroll before Replenishment: $-492.57
-Bankroll Replenished: $-492.57
-Amount Injected Overall: $2881.50
+Bankroll before Replenishment: $200.00
+Bankroll Replenished: $324.34
+Amount Injected Overall: $2092.12
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 11/2. 11 Game(s)
 You need $1100.00. 
                             You currently have $1100.00 in your bankroll, and $-1149.91 in your profits.
                             $-1149.91 has been transferred from your profits to your bankroll,
-                            and $1592.57 has been injected into the bankroll
+                            and $775.66 has been injected into the bankroll
 ###########
 Game #1/11: Washington Wizards @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -695,9 +693,9 @@ Daily Losses: 4 game(s) out of 11.
 ###########
 Overall Daily Performance: $-117.17
 Running Profits/Losses: $-1267.08 
-Bankroll before Replenishment: $1142.66
-Bankroll Replenished: $1142.66
-Amount Injected Overall: $4474.06
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $982.83
+Amount Injected Overall: $2867.78
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 11/3. 2 Game(s)
 You need $200.00. 
@@ -723,14 +721,14 @@ Daily Losses: 1 game(s) out of 2.
 Overall Daily Performance: $-61.09
 Running Profits/Losses: $-1328.17 
 Bankroll before Replenishment: $100.00
-Bankroll Replenished: $100.00
-Amount Injected Overall: $3531.40
+Bankroll Replenished: $138.91
+Amount Injected Overall: $2084.95
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 11/4. 12 Game(s)
 You need $1200.00. 
                             You currently have $1200.00 in your bankroll, and $-1328.17 in your profits.
                             $-1328.17 has been transferred from your profits to your bankroll,
-                            and $1100.00 has been injected into the bankroll
+                            and $1061.09 has been injected into the bankroll
 ###########
 Game #1/12: New York Knicks @ Philadelphia 76ers
 Result: Win!!! Payout: $95.24
@@ -780,15 +778,14 @@ Daily Losses: 4 game(s) out of 12.
 ###########
 Overall Daily Performance: $26.13
 Running Profits/Losses: $-1302.04 
-Bankroll before Replenishment: $571.83
-Bankroll Replenished: $571.83
-Amount Injected Overall: $4631.40
+Bankroll before Replenishment: $800.00
+Bankroll Replenished: $1200.00
+Amount Injected Overall: $3146.04
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 11/5. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-1302.04 in your profits.
-                            $-1302.04 has been transferred from your profits to your bankroll,
-                            and $228.17 has been injected into the bankroll
+                            You currently have $800.00 in your bankroll, and $-1275.91 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/8: Sacramento Kings @ Orlando Magic
 Result: Win!!! Payout: $52.91
@@ -826,15 +823,14 @@ Daily Losses: 0 game(s) out of 8.
 ###########
 Overall Daily Performance: $364.35
 Running Profits/Losses: $-937.70 
-Bankroll before Replenishment: $-273.87
-Bankroll Replenished: $-273.87
-Amount Injected Overall: $4859.57
+Bankroll before Replenishment: $800.00
+Bankroll Replenished: $800.00
+Amount Injected Overall: $2746.04
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 11/6. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-937.70 in your profits.
-                            $-937.70 has been transferred from your profits to your bankroll,
-                            and $673.87 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/4: Cleveland Cavaliers @ Los Angeles Lakers
 Result: Win!!! Payout: $45.45
@@ -860,15 +856,15 @@ Daily Losses: 1 game(s) out of 4.
 ###########
 Overall Daily Performance: $27.27
 Running Profits/Losses: $-910.43 
-Bankroll before Replenishment: $36.17
-Bankroll Replenished: $36.17
-Amount Injected Overall: $5533.44
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $400.00
+Amount Injected Overall: $2346.04
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 11/7. 15 Game(s)
 You need $1500.00. 
-                            You currently have $1500.00 in your bankroll, and $-910.43 in your profits.
-                            $-910.43 has been transferred from your profits to your bankroll,
-                            and $1463.83 has been injected into the bankroll
+                            You currently have $1500.00 in your bankroll, and $-883.16 in your profits.
+                            $-883.16 has been transferred from your profits to your bankroll,
+                            and $1100.00 has been injected into the bankroll
 ###########
 Game #1/15: Washington Wizards @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -927,15 +923,15 @@ Daily Losses: 9 game(s) out of 15.
 ###########
 Overall Daily Performance: $-629.92
 Running Profits/Losses: $-1540.35 
-Bankroll before Replenishment: $1153.40
-Bankroll Replenished: $1153.40
-Amount Injected Overall: $6997.27
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $870.08
+Amount Injected Overall: $3446.04
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 11/9. 13 Game(s)
 You need $1300.00. 
                             You currently have $1300.00 in your bankroll, and $-1540.35 in your profits.
                             $-1540.35 has been transferred from your profits to your bankroll,
-                            and $146.60 has been injected into the bankroll
+                            and $429.92 has been injected into the bankroll
 ###########
 Game #1/13: Dallas Mavericks @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -988,15 +984,14 @@ Daily Losses: 4 game(s) out of 13.
 ###########
 Overall Daily Performance: $100.62
 Running Profits/Losses: $-1439.73 
-Bankroll before Replenishment: $-493.74
-Bankroll Replenished: $-493.74
-Amount Injected Overall: $7143.87
+Bankroll before Replenishment: $900.00
+Bankroll Replenished: $1300.00
+Amount Injected Overall: $3875.96
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 11/10. 4 Game(s)
 You need $400.00. 
-                            You currently have $400.00 in your bankroll, and $-1439.73 in your profits.
-                            $-1439.73 has been transferred from your profits to your bankroll,
-                            and $893.74 has been injected into the bankroll
+                            You currently have $400.00 in your bankroll, and $-1339.11 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/4: Dallas Mavericks @ Washington Wizards
 Result: Loss :(:(:( Loss: $100
@@ -1022,15 +1017,15 @@ Daily Losses: 3 game(s) out of 4.
 ###########
 Overall Daily Performance: $-281.10
 Running Profits/Losses: $-1720.83 
-Bankroll before Replenishment: $-445.99
-Bankroll Replenished: $-445.99
-Amount Injected Overall: $8037.62
+Bankroll before Replenishment: $100.00
+Bankroll Replenished: $118.90
+Amount Injected Overall: $2975.96
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 11/11. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-1720.83 in your profits.
                             $-1720.83 has been transferred from your profits to your bankroll,
-                            and $1245.99 has been injected into the bankroll
+                            and $681.10 has been injected into the bankroll
 ###########
 Game #1/8: Phoenix Suns @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -1068,15 +1063,14 @@ Daily Losses: 2 game(s) out of 8.
 ###########
 Overall Daily Performance: $135.72
 Running Profits/Losses: $-1585.11 
-Bankroll before Replenishment: $125.16
-Bankroll Replenished: $125.16
-Amount Injected Overall: $9283.60
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $800.00
+Amount Injected Overall: $3657.05
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 11/12. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-1585.11 in your profits.
-                            $-1585.11 has been transferred from your profits to your bankroll,
-                            and $674.84 has been injected into the bankroll
+                            You currently have $800.00 in your bankroll, and $-1449.38 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/8: Brooklyn Nets @ Los Angeles Clippers
 Result: Loss :(:(:( Loss: $100
@@ -1114,15 +1108,14 @@ Daily Losses: 2 game(s) out of 8.
 ###########
 Overall Daily Performance: $42.63
 Running Profits/Losses: $-1542.47 
-Bankroll before Replenishment: $-310.27
-Bankroll Replenished: $-310.27
-Amount Injected Overall: $9958.44
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $800.00
+Amount Injected Overall: $3657.05
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 11/13. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-1542.47 in your profits.
-                            $-1542.47 has been transferred from your profits to your bankroll,
-                            and $1010.27 has been injected into the bankroll
+                            You currently have $700.00 in your bankroll, and $-1499.84 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/7: Oklahoma City Thunder @ New York Knicks
 Result: Loss :(:(:( Loss: $100
@@ -1157,15 +1150,14 @@ Daily Losses: 3 game(s) out of 7.
 ###########
 Overall Daily Performance: $19.82
 Running Profits/Losses: $-1522.65 
-Bankroll before Replenishment: $-132.21
-Bankroll Replenished: $-132.21
-Amount Injected Overall: $10968.71
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $700.00
+Amount Injected Overall: $3557.05
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 11/14. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-1522.65 in your profits.
-                            $-1522.65 has been transferred from your profits to your bankroll,
-                            and $832.21 has been injected into the bankroll
+                            You currently have $700.00 in your bankroll, and $-1502.83 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/7: Toronto Raptors @ Detroit Pistons
 Result: Win!!! Payout: $54.95
@@ -1200,15 +1192,14 @@ Daily Losses: 1 game(s) out of 7.
 ###########
 Overall Daily Performance: $196.37
 Running Profits/Losses: $-1326.28 
-Bankroll before Replenishment: $-90.45
-Bankroll Replenished: $-90.45
-Amount Injected Overall: $11800.91
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $700.00
+Amount Injected Overall: $3557.05
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 11/15. 5 Game(s)
 You need $500.00. 
-                            You currently have $500.00 in your bankroll, and $-1326.28 in your profits.
-                            $-1326.28 has been transferred from your profits to your bankroll,
-                            and $590.45 has been injected into the bankroll
+                            You currently have $500.00 in your bankroll, and $-1129.91 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/5: Memphis Grizzlies @ New Orleans Pelicans
 Result: Loss :(:(:( Loss: $100
@@ -1237,15 +1228,15 @@ Daily Losses: 2 game(s) out of 5.
 ###########
 Overall Daily Performance: $-56.41
 Running Profits/Losses: $-1382.69 
-Bankroll before Replenishment: $-435.83
-Bankroll Replenished: $-435.83
-Amount Injected Overall: $12391.36
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $443.59
+Amount Injected Overall: $3357.05
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 11/16. 10 Game(s)
 You need $1000.00. 
                             You currently have $1000.00 in your bankroll, and $-1382.69 in your profits.
                             $-1382.69 has been transferred from your profits to your bankroll,
-                            and $1435.83 has been injected into the bankroll
+                            and $556.41 has been injected into the bankroll
 ###########
 Game #1/10: Minnesota Timberwolves @ Orlando Magic
 Result: Win!!! Payout: $30.30
@@ -1289,9 +1280,9 @@ Daily Losses: 5 game(s) out of 10.
 ###########
 Overall Daily Performance: $-157.20
 Running Profits/Losses: $-1539.88 
-Bankroll before Replenishment: $553.15
-Bankroll Replenished: $553.15
-Amount Injected Overall: $13827.19
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $842.80
+Amount Injected Overall: $3913.46
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 11/17. 3 Game(s)
 You need $300.00. 
@@ -1320,14 +1311,14 @@ Daily Losses: 1 game(s) out of 3.
 Overall Daily Performance: $-50.67
 Running Profits/Losses: $-1590.55 
 Bankroll before Replenishment: $200.00
-Bankroll Replenished: $200.00
-Amount Injected Overall: $13574.05
+Bankroll Replenished: $249.33
+Amount Injected Overall: $3370.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 11/18. 11 Game(s)
 You need $1100.00. 
                             You currently have $1100.00 in your bankroll, and $-1590.55 in your profits.
                             $-1590.55 has been transferred from your profits to your bankroll,
-                            and $900.00 has been injected into the bankroll
+                            and $850.67 has been injected into the bankroll
 ###########
 Game #1/11: Miami Heat @ Washington Wizards
 Result: Win!!! Payout: $30.58
@@ -1374,15 +1365,14 @@ Daily Losses: 3 game(s) out of 11.
 ###########
 Overall Daily Performance: $9.15
 Running Profits/Losses: $-1581.40 
-Bankroll before Replenishment: $109.45
-Bankroll Replenished: $109.45
-Amount Injected Overall: $14474.05
+Bankroll before Replenishment: $800.00
+Bankroll Replenished: $1100.00
+Amount Injected Overall: $4221.32
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 11/19. 5 Game(s)
 You need $500.00. 
-                            You currently have $500.00 in your bankroll, and $-1581.40 in your profits.
-                            $-1581.40 has been transferred from your profits to your bankroll,
-                            and $390.55 has been injected into the bankroll
+                            You currently have $500.00 in your bankroll, and $-1572.24 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/5: Toronto Raptors @ Atlanta Hawks
 Result: Win!!! Payout: $47.62
@@ -1411,15 +1401,15 @@ Daily Losses: 1 game(s) out of 5.
 ###########
 Overall Daily Performance: $70.00
 Running Profits/Losses: $-1511.40 
-Bankroll before Replenishment: $-790.85
-Bankroll Replenished: $-790.85
-Amount Injected Overall: $14864.60
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $500.00
+Amount Injected Overall: $3621.32
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 11/20. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-1511.40 in your profits.
-                            $-1511.40 has been transferred from your profits to your bankroll,
-                            and $1590.85 has been injected into the bankroll
+                            You currently have $800.00 in your bankroll, and $-1441.39 in your profits.
+                            $-1441.39 has been transferred from your profits to your bankroll,
+                            and $300.00 has been injected into the bankroll
 ###########
 Game #1/8: New York Knicks @ Phoenix Suns
 Result: Win!!! Payout: $41.67
@@ -1457,15 +1447,14 @@ Daily Losses: 1 game(s) out of 8.
 ###########
 Overall Daily Performance: $145.28
 Running Profits/Losses: $-1366.12 
-Bankroll before Replenishment: $779.45
-Bankroll Replenished: $779.45
-Amount Injected Overall: $16455.44
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $800.00
+Amount Injected Overall: $3921.32
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 11/21. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-1366.12 in your profits.
-                            $-1366.12 has been transferred from your profits to your bankroll,
-                            and $20.55 has been injected into the bankroll
+                            You currently have $800.00 in your bankroll, and $-1220.84 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/8: Atlanta Hawks @ Cleveland Cavaliers
 Result: Win!!! Payout: $62.89
@@ -1503,15 +1492,14 @@ Daily Losses: 2 game(s) out of 8.
 ###########
 Overall Daily Performance: $38.17
 Running Profits/Losses: $-1327.95 
-Bankroll before Replenishment: $-745.57
-Bankroll Replenished: $-745.57
-Amount Injected Overall: $16475.99
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $800.00
+Amount Injected Overall: $3921.32
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 11/22. 4 Game(s)
 You need $400.00. 
-                            You currently have $400.00 in your bankroll, and $-1327.95 in your profits.
-                            $-1327.95 has been transferred from your profits to your bankroll,
-                            and $1145.57 has been injected into the bankroll
+                            You currently have $400.00 in your bankroll, and $-1289.78 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/4: Brooklyn Nets @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -1537,15 +1525,15 @@ Daily Losses: 3 game(s) out of 4.
 ###########
 Overall Daily Performance: $-277.01
 Running Profits/Losses: $-1604.96 
-Bankroll before Replenishment: $-82.38
-Bankroll Replenished: $-82.38
-Amount Injected Overall: $17621.56
+Bankroll before Replenishment: $100.00
+Bankroll Replenished: $122.99
+Amount Injected Overall: $3521.32
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 11/23. 12 Game(s)
 You need $1200.00. 
                             You currently have $1200.00 in your bankroll, and $-1604.96 in your profits.
                             $-1604.96 has been transferred from your profits to your bankroll,
-                            and $1282.38 has been injected into the bankroll
+                            and $1077.01 has been injected into the bankroll
 ###########
 Game #1/12: Minnesota Timberwolves @ Indiana Pacers
 Result: Win!!! Payout: $76.92
@@ -1595,15 +1583,15 @@ Daily Losses: 2 game(s) out of 12.
 ###########
 Overall Daily Performance: $334.45
 Running Profits/Losses: $-1270.51 
-Bankroll before Replenishment: $677.42
-Bankroll Replenished: $677.42
-Amount Injected Overall: $18903.94
+Bankroll before Replenishment: $1000.00
+Bankroll Replenished: $1200.00
+Amount Injected Overall: $4598.33
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 11/25. 14 Game(s)
 You need $1400.00. 
-                            You currently have $1400.00 in your bankroll, and $-1270.51 in your profits.
-                            $-1270.51 has been transferred from your profits to your bankroll,
-                            and $722.58 has been injected into the bankroll
+                            You currently have $1400.00 in your bankroll, and $-936.05 in your profits.
+                            $-936.05 has been transferred from your profits to your bankroll,
+                            and $200.00 has been injected into the bankroll
 ###########
 Game #1/14: Minnesota Timberwolves @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -1659,15 +1647,14 @@ Daily Losses: 5 game(s) out of 14.
 ###########
 Overall Daily Performance: $-197.30
 Running Profits/Losses: $-1467.80 
-Bankroll before Replenishment: $352.07
-Bankroll Replenished: $352.07
-Amount Injected Overall: $19626.52
+Bankroll before Replenishment: $900.00
+Bankroll Replenished: $1202.70
+Amount Injected Overall: $4798.33
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 11/26. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-1467.80 in your profits.
-                            $-1467.80 has been transferred from your profits to your bankroll,
-                            and $47.93 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/4: Dallas Mavericks @ Toronto Raptors
 Result: Loss :(:(:( Loss: $100
@@ -1693,15 +1680,15 @@ Daily Losses: 2 game(s) out of 4.
 ###########
 Overall Daily Performance: $-58.86
 Running Profits/Losses: $-1526.66 
-Bankroll before Replenishment: $-1219.88
-Bankroll Replenished: $-1219.88
-Amount Injected Overall: $19674.45
+Bankroll before Replenishment: $200.00
+Bankroll Replenished: $341.14
+Amount Injected Overall: $3995.63
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 11/27. 9 Game(s)
 You need $900.00. 
                             You currently have $900.00 in your bankroll, and $-1526.66 in your profits.
                             $-1526.66 has been transferred from your profits to your bankroll,
-                            and $2119.88 has been injected into the bankroll
+                            and $558.86 has been injected into the bankroll
 ###########
 Game #1/9: Portland Trail Blazers @ Brooklyn Nets
 Result: Win!!! Payout: $32.26
@@ -1742,14 +1729,15 @@ Daily Losses: 2 game(s) out of 9.
 ###########
 Overall Daily Performance: $191.26
 Running Profits/Losses: $-1335.40 
-Bankroll before Replenishment: $1293.22
-Bankroll Replenished: $1293.22
-Amount Injected Overall: $21794.33
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $900.00
+Amount Injected Overall: $4554.49
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 11/28. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-1335.40 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            You currently have $1000.00 in your bankroll, and $-1144.14 in your profits.
+                            $-1144.14 has been transferred from your profits to your bankroll,
+                            and $100.00 has been injected into the bankroll
 ###########
 Game #1/10: Atlanta Hawks @ Philadelphia 76ers
 Result: Win!!! Payout: $74.07
@@ -1794,12 +1782,12 @@ Daily Losses: 3 game(s) out of 10.
 Overall Daily Performance: $10.95
 Running Profits/Losses: $-1324.45 
 Bankroll before Replenishment: $700.00
-Bankroll Replenished: $700.00
-Amount Injected Overall: $21501.11
+Bankroll Replenished: $1000.00
+Amount Injected Overall: $4654.49
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 11/29. 3 Game(s)
 You need $300.00. 
-                            You currently have $300.00 in your bankroll, and $-1324.45 in your profits.
+                            You currently have $300.00 in your bankroll, and $-1313.50 in your profits.
                             $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/3: New York Knicks @ Detroit Pistons
@@ -1824,14 +1812,14 @@ Daily Losses: 2 game(s) out of 3.
 Overall Daily Performance: $-147.37
 Running Profits/Losses: $-1471.82 
 Bankroll before Replenishment: $100.00
-Bankroll Replenished: $100.00
-Amount Injected Overall: $21101.11
+Bankroll Replenished: $152.63
+Amount Injected Overall: $3954.49
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 11/30. 13 Game(s)
 You need $1300.00. 
                             You currently have $1300.00 in your bankroll, and $-1471.82 in your profits.
                             $-1471.82 has been transferred from your profits to your bankroll,
-                            and $1200.00 has been injected into the bankroll
+                            and $1147.37 has been injected into the bankroll
 ###########
 Game #1/13: Philadelphia 76ers @ Cleveland Cavaliers
 Result: Win!!! Payout: $61.73
@@ -1884,13 +1872,13 @@ Daily Losses: 2 game(s) out of 13.
 ###########
 Overall Daily Performance: $282.07
 Running Profits/Losses: $-1189.75 
-Bankroll before Replenishment: $828.18
-Bankroll Replenished: $828.18
-Amount Injected Overall: $22301.11
+Bankroll before Replenishment: $1100.00
+Bankroll Replenished: $1300.00
+Amount Injected Overall: $5101.86
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 12/1. 1 Game(s)
 You need $100.00. 
-                            You currently have $100.00 in your bankroll, and $-1189.75 in your profits.
+                            You currently have $100.00 in your bankroll, and $-907.68 in your profits.
                             $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/1: Dallas Mavericks @ Detroit Pistons
@@ -1910,7 +1898,7 @@ Overall Daily Performance: $-100.00
 Running Profits/Losses: $-1289.75 
 Bankroll before Replenishment: $0.00
 Bankroll Replenished: $0.00
-Amount Injected Overall: $21572.93
+Amount Injected Overall: $3901.86
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 12/2. 11 Game(s)
 You need $1100.00. 
@@ -1963,15 +1951,14 @@ Daily Losses: 5 game(s) out of 11.
 ###########
 Overall Daily Performance: $-226.05
 Running Profits/Losses: $-1515.80 
-Bankroll before Replenishment: $410.25
-Bankroll Replenished: $410.25
-Amount Injected Overall: $22672.93
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $873.95
+Amount Injected Overall: $5001.86
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 12/3. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-1515.80 in your profits.
-                            $-1515.80 has been transferred from your profits to your bankroll,
-                            and $289.75 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/7: Dallas Mavericks @ New York Knicks
 Result: Win!!! Payout: $83.33
@@ -2006,15 +1993,15 @@ Daily Losses: 2 game(s) out of 7.
 ###########
 Overall Daily Performance: $56.88
 Running Profits/Losses: $-1458.92 
-Bankroll before Replenishment: $-726.05
-Bankroll Replenished: $-726.05
-Amount Injected Overall: $22962.68
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $700.00
+Amount Injected Overall: $4827.91
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 12/4. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-1458.92 in your profits.
-                            $-1458.92 has been transferred from your profits to your bankroll,
-                            and $1526.05 has been injected into the bankroll
+                            You currently have $800.00 in your bankroll, and $-1402.04 in your profits.
+                            $-1402.04 has been transferred from your profits to your bankroll,
+                            and $100.00 has been injected into the bankroll
 ###########
 Game #1/8: Denver Nuggets @ New Orleans Pelicans
 Result: Win!!! Payout: $74.07
@@ -2052,15 +2039,14 @@ Daily Losses: 2 game(s) out of 8.
 ###########
 Overall Daily Performance: $121.34
 Running Profits/Losses: $-1337.58 
-Bankroll before Replenishment: $667.13
-Bankroll Replenished: $667.13
-Amount Injected Overall: $24488.73
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $800.00
+Amount Injected Overall: $4927.91
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 12/5. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-1337.58 in your profits.
-                            $-1337.58 has been transferred from your profits to your bankroll,
-                            and $132.87 has been injected into the bankroll
+                            You currently have $800.00 in your bankroll, and $-1216.23 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/8: Milwaukee Bucks @ Orlando Magic
 Result: Win!!! Payout: $18.18
@@ -2098,15 +2084,14 @@ Daily Losses: 5 game(s) out of 8.
 ###########
 Overall Daily Performance: $-377.30
 Running Profits/Losses: $-1714.88 
-Bankroll before Replenishment: $-904.70
-Bankroll Replenished: $-904.70
-Amount Injected Overall: $24621.60
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $422.70
+Amount Injected Overall: $4927.91
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 12/6. 3 Game(s)
 You need $300.00. 
                             You currently have $300.00 in your bankroll, and $-1714.88 in your profits.
-                            $-1714.88 has been transferred from your profits to your bankroll,
-                            and $1204.70 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/3: Los Angeles Lakers @ Cleveland Cavaliers
 Result: Win!!! Payout: $45.45
@@ -2129,15 +2114,15 @@ Daily Losses: 2 game(s) out of 3.
 ###########
 Overall Daily Performance: $-154.55
 Running Profits/Losses: $-1869.42 
-Bankroll before Replenishment: $-410.17
-Bankroll Replenished: $-410.17
-Amount Injected Overall: $25826.31
+Bankroll before Replenishment: $100.00
+Bankroll Replenished: $145.45
+Amount Injected Overall: $4805.21
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 12/7. 11 Game(s)
 You need $1100.00. 
                             You currently have $1100.00 in your bankroll, and $-1869.42 in your profits.
                             $-1869.42 has been transferred from your profits to your bankroll,
-                            and $1510.17 has been injected into the bankroll
+                            and $954.55 has been injected into the bankroll
 ###########
 Game #1/11: Los Angeles Clippers @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -2184,13 +2169,13 @@ Daily Losses: 2 game(s) out of 11.
 ###########
 Overall Daily Performance: $142.42
 Running Profits/Losses: $-1727.00 
-Bankroll before Replenishment: $540.75
-Bankroll Replenished: $540.75
-Amount Injected Overall: $27336.48
+Bankroll before Replenishment: $900.00
+Bankroll Replenished: $1100.00
+Amount Injected Overall: $5759.75
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 12/8. 3 Game(s)
 You need $300.00. 
-                            You currently have $300.00 in your bankroll, and $-1727.00 in your profits.
+                            You currently have $300.00 in your bankroll, and $-1584.58 in your profits.
                             $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/3: Los Angeles Clippers @ Miami Heat
@@ -2215,14 +2200,14 @@ Daily Losses: 1 game(s) out of 3.
 Overall Daily Performance: $22.91
 Running Profits/Losses: $-1704.09 
 Bankroll before Replenishment: $200.00
-Bankroll Replenished: $200.00
-Amount Injected Overall: $27095.73
+Bankroll Replenished: $300.00
+Amount Injected Overall: $4959.75
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 12/9. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-1704.09 in your profits.
-                            $-1704.09 has been transferred from your profits to your bankroll,
-                            and $800.00 has been injected into the bankroll
+                            You currently have $1000.00 in your bankroll, and $-1681.17 in your profits.
+                            $-1681.17 has been transferred from your profits to your bankroll,
+                            and $700.00 has been injected into the bankroll
 ###########
 Game #1/10: Washington Wizards @ Indiana Pacers
 Result: Win!!! Payout: $57.14
@@ -2266,15 +2251,14 @@ Daily Losses: 3 game(s) out of 10.
 ###########
 Overall Daily Performance: $89.11
 Running Profits/Losses: $-1614.98 
-Bankroll before Replenishment: $-204.09
-Bankroll Replenished: $-204.09
-Amount Injected Overall: $27895.73
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $1000.00
+Amount Injected Overall: $5659.75
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 12/10. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-1614.98 in your profits.
-                            $-1614.98 has been transferred from your profits to your bankroll,
-                            and $1004.09 has been injected into the bankroll
+                            You currently have $800.00 in your bankroll, and $-1525.87 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/8: San Antonio Spurs @ Miami Heat
 Result: Loss :(:(:( Loss: $100
@@ -2312,15 +2296,14 @@ Daily Losses: 3 game(s) out of 8.
 ###########
 Overall Daily Performance: $-76.55
 Running Profits/Losses: $-1691.53 
-Bankroll before Replenishment: $-110.89
-Bankroll Replenished: $-110.89
-Amount Injected Overall: $28899.82
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $723.45
+Amount Injected Overall: $5459.75
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 12/11. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-1691.53 in your profits.
-                            $-1691.53 has been transferred from your profits to your bankroll,
-                            and $810.89 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/7: Phoenix Suns @ New Orleans Pelicans
 Result: Win!!! Payout: $55.56
@@ -2355,15 +2338,14 @@ Daily Losses: 2 game(s) out of 7.
 ###########
 Overall Daily Performance: $53.23
 Running Profits/Losses: $-1638.30 
-Bankroll before Replenishment: $-380.64
-Bankroll Replenished: $-380.64
-Amount Injected Overall: $29710.71
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $700.00
+Amount Injected Overall: $5436.30
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 12/12. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-1638.30 in your profits.
-                            $-1638.30 has been transferred from your profits to your bankroll,
-                            and $1080.64 has been injected into the bankroll
+                            You currently have $700.00 in your bankroll, and $-1585.07 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/7: Brooklyn Nets @ Washington Wizards
 Result: Win!!! Payout: $46.51
@@ -2398,15 +2380,14 @@ Daily Losses: 2 game(s) out of 7.
 ###########
 Overall Daily Performance: $19.23
 Running Profits/Losses: $-1619.07 
-Bankroll before Replenishment: $-57.66
-Bankroll Replenished: $-57.66
-Amount Injected Overall: $30791.34
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $700.00
+Amount Injected Overall: $5436.30
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 12/13. 5 Game(s)
 You need $500.00. 
-                            You currently have $500.00 in your bankroll, and $-1619.07 in your profits.
-                            $-1619.07 has been transferred from your profits to your bankroll,
-                            and $557.66 has been injected into the bankroll
+                            You currently have $500.00 in your bankroll, and $-1599.84 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/5: Sacramento Kings @ Philadelphia 76ers
 Result: Win!!! Payout: $60.61
@@ -2435,15 +2416,15 @@ Daily Losses: 2 game(s) out of 5.
 ###########
 Overall Daily Performance: $-9.79
 Running Profits/Losses: $-1628.86 
-Bankroll before Replenishment: $-761.41
-Bankroll Replenished: $-761.41
-Amount Injected Overall: $31349.01
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $490.21
+Amount Injected Overall: $5236.30
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 12/14. 10 Game(s)
 You need $1000.00. 
                             You currently have $1000.00 in your bankroll, and $-1628.86 in your profits.
                             $-1628.86 has been transferred from your profits to your bankroll,
-                            and $1761.41 has been injected into the bankroll
+                            and $509.79 has been injected into the bankroll
 ###########
 Game #1/10: Golden State Warriors @ Indiana Pacers
 Result: Loss :(:(:( Loss: $100
@@ -2487,9 +2468,9 @@ Daily Losses: 6 game(s) out of 10.
 ###########
 Overall Daily Performance: $-437.47
 Running Profits/Losses: $-2066.33 
-Bankroll before Replenishment: $532.55
-Bankroll Replenished: $532.55
-Amount Injected Overall: $33110.41
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $562.53
+Amount Injected Overall: $5746.09
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 12/15. 4 Game(s)
 You need $400.00. 
@@ -2521,14 +2502,14 @@ Daily Losses: 1 game(s) out of 4.
 Overall Daily Performance: $79.42
 Running Profits/Losses: $-1986.92 
 Bankroll before Replenishment: $300.00
-Bankroll Replenished: $300.00
-Amount Injected Overall: $32977.86
+Bankroll Replenished: $400.00
+Amount Injected Overall: $5583.57
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 12/16. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-1986.92 in your profits.
-                            $-1986.92 has been transferred from your profits to your bankroll,
-                            and $700.00 has been injected into the bankroll
+                            You currently have $1000.00 in your bankroll, and $-1907.50 in your profits.
+                            $-1907.50 has been transferred from your profits to your bankroll,
+                            and $600.00 has been injected into the bankroll
 ###########
 Game #1/10: Atlanta Hawks @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -2572,15 +2553,14 @@ Daily Losses: 5 game(s) out of 10.
 ###########
 Overall Daily Performance: $-262.73
 Running Profits/Losses: $-2249.64 
-Bankroll before Replenishment: $-786.92
-Bankroll Replenished: $-786.92
-Amount Injected Overall: $33677.86
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $737.27
+Amount Injected Overall: $6183.57
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 12/17. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-2249.64 in your profits.
-                            $-2249.64 has been transferred from your profits to your bankroll,
-                            and $1486.92 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/7: Washington Wizards @ Los Angeles Clippers
 Result: Win!!! Payout: $52.63
@@ -2615,15 +2595,14 @@ Daily Losses: 1 game(s) out of 7.
 ###########
 Overall Daily Performance: $218.77
 Running Profits/Losses: $-2030.88 
-Bankroll before Replenishment: $-162.73
-Bankroll Replenished: $-162.73
-Amount Injected Overall: $35164.78
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $700.00
+Amount Injected Overall: $6146.29
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 12/18. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-2030.88 in your profits.
-                            $-2030.88 has been transferred from your profits to your bankroll,
-                            and $862.73 has been injected into the bankroll
+                            You currently have $700.00 in your bankroll, and $-1812.11 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/7: Orlando Magic @ Boston Celtics
 Result: Loss :(:(:( Loss: $100
@@ -2658,15 +2637,15 @@ Daily Losses: 3 game(s) out of 7.
 ###########
 Overall Daily Performance: $-89.44
 Running Profits/Losses: $-2120.32 
-Bankroll before Replenishment: $-768.15
-Bankroll Replenished: $-768.15
-Amount Injected Overall: $36027.50
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $610.56
+Amount Injected Overall: $6146.29
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 12/19. 9 Game(s)
 You need $900.00. 
                             You currently have $900.00 in your bankroll, and $-2120.32 in your profits.
                             $-2120.32 has been transferred from your profits to your bankroll,
-                            and $1668.15 has been injected into the bankroll
+                            and $289.44 has been injected into the bankroll
 ###########
 Game #1/9: Utah Jazz @ Cleveland Cavaliers
 Result: Win!!! Payout: $37.04
@@ -2707,15 +2686,14 @@ Daily Losses: 5 game(s) out of 9.
 ###########
 Overall Daily Performance: $-380.03
 Running Profits/Losses: $-2500.34 
-Bankroll before Replenishment: $-52.17
-Bankroll Replenished: $-52.17
-Amount Injected Overall: $37695.65
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $519.97
+Amount Injected Overall: $6435.73
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 12/20. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-2500.34 in your profits.
-                            $-2500.34 has been transferred from your profits to your bankroll,
-                            and $552.17 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/5: Utah Jazz @ Detroit Pistons
 Result: Win!!! Payout: $71.43
@@ -2744,15 +2722,15 @@ Daily Losses: 1 game(s) out of 5.
 ###########
 Overall Daily Performance: $-36.69
 Running Profits/Losses: $-2537.03 
-Bankroll before Replenishment: $-1548.18
-Bankroll Replenished: $-1548.18
-Amount Injected Overall: $38247.82
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $463.31
+Amount Injected Overall: $6415.76
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 12/21. 11 Game(s)
 You need $1100.00. 
                             You currently have $1100.00 in your bankroll, and $-2537.03 in your profits.
                             $-2537.03 has been transferred from your profits to your bankroll,
-                            and $2648.18 has been injected into the bankroll
+                            and $636.69 has been injected into the bankroll
 ###########
 Game #1/11: Detroit Pistons @ Philadelphia 76ers
 Result: Win!!! Payout: $15.38
@@ -2799,9 +2777,9 @@ Daily Losses: 3 game(s) out of 11.
 ###########
 Overall Daily Performance: $-72.82
 Running Profits/Losses: $-2609.85 
-Bankroll before Replenishment: $911.15
-Bankroll Replenished: $911.15
-Amount Injected Overall: $40896.00
+Bankroll before Replenishment: $800.00
+Bankroll Replenished: $1027.18
+Amount Injected Overall: $7052.44
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 12/22. 2 Game(s)
 You need $200.00. 
@@ -2828,7 +2806,7 @@ Overall Daily Performance: $63.11
 Running Profits/Losses: $-2546.74 
 Bankroll before Replenishment: $200.00
 Bankroll Replenished: $200.00
-Amount Injected Overall: $40184.85
+Amount Injected Overall: $6225.27
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 12/23. 14 Game(s)
 You need $1400.00. 
@@ -2890,15 +2868,14 @@ Daily Losses: 6 game(s) out of 14.
 ###########
 Overall Daily Performance: $-224.88
 Running Profits/Losses: $-2771.62 
-Bankroll before Replenishment: $-546.74
-Bankroll Replenished: $-546.74
-Amount Injected Overall: $41384.85
+Bankroll before Replenishment: $800.00
+Bankroll Replenished: $1175.12
+Amount Injected Overall: $7425.27
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 12/25. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-2771.62 in your profits.
-                            $-2771.62 has been transferred from your profits to your bankroll,
-                            and $1046.74 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/5: Philadelphia 76ers @ New York Knicks
 Result: Win!!! Payout: $75.76
@@ -2927,15 +2904,15 @@ Daily Losses: 1 game(s) out of 5.
 ###########
 Overall Daily Performance: $117.40
 Running Profits/Losses: $-2654.23 
-Bankroll before Replenishment: $-1324.88
-Bankroll Replenished: $-1324.88
-Amount Injected Overall: $42431.59
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $500.00
+Amount Injected Overall: $6750.15
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 12/26. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-2654.23 in your profits.
-                            $-2654.23 has been transferred from your profits to your bankroll,
-                            and $2024.88 has been injected into the bankroll
+                            You currently have $700.00 in your bankroll, and $-2536.83 in your profits.
+                            $-2536.83 has been transferred from your profits to your bankroll,
+                            and $200.00 has been injected into the bankroll
 ###########
 Game #1/7: Los Angeles Clippers @ Detroit Pistons
 Result: Win!!! Payout: $50.00
@@ -2970,15 +2947,15 @@ Daily Losses: 4 game(s) out of 7.
 ###########
 Overall Daily Performance: $-224.86
 Running Profits/Losses: $-2879.09 
-Bankroll before Replenishment: $-329.35
-Bankroll Replenished: $-329.35
-Amount Injected Overall: $44456.47
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $475.14
+Amount Injected Overall: $6950.15
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 12/27. 10 Game(s)
 You need $1000.00. 
                             You currently have $1000.00 in your bankroll, and $-2879.09 in your profits.
                             $-2879.09 has been transferred from your profits to your bankroll,
-                            and $1329.35 has been injected into the bankroll
+                            and $524.86 has been injected into the bankroll
 ###########
 Game #1/10: Los Angeles Lakers @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -3022,15 +2999,15 @@ Daily Losses: 5 game(s) out of 10.
 ###########
 Overall Daily Performance: $-293.28
 Running Profits/Losses: $-3172.37 
-Bankroll before Replenishment: $-1049.74
-Bankroll Replenished: $-1049.74
-Amount Injected Overall: $45785.82
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $706.72
+Amount Injected Overall: $7475.01
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 12/28. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-3172.37 in your profits.
                             $-3172.37 has been transferred from your profits to your bankroll,
-                            and $1849.74 has been injected into the bankroll
+                            and $93.28 has been injected into the bankroll
 ###########
 Game #1/8: Phoenix Suns @ Washington Wizards
 Result: Loss :(:(:( Loss: $100
@@ -3068,15 +3045,15 @@ Daily Losses: 4 game(s) out of 8.
 ###########
 Overall Daily Performance: $-228.88
 Running Profits/Losses: $-3401.26 
-Bankroll before Replenishment: $-922.63
-Bankroll Replenished: $-922.63
-Amount Injected Overall: $47635.56
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $571.12
+Amount Injected Overall: $7568.29
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 12/29. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-3401.26 in your profits.
                             $-3401.26 has been transferred from your profits to your bankroll,
-                            and $1522.63 has been injected into the bankroll
+                            and $28.88 has been injected into the bankroll
 ###########
 Game #1/6: Cleveland Cavaliers @ Indiana Pacers
 Result: Loss :(:(:( Loss: $100
@@ -3108,15 +3085,15 @@ Daily Losses: 2 game(s) out of 6.
 ###########
 Overall Daily Performance: $-11.00
 Running Profits/Losses: $-3412.25 
-Bankroll before Replenishment: $-1478.63
-Bankroll Replenished: $-1478.63
-Amount Injected Overall: $49158.19
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $589.00
+Amount Injected Overall: $7597.18
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 12/30. 9 Game(s)
 You need $900.00. 
                             You currently have $900.00 in your bankroll, and $-3412.25 in your profits.
                             $-3412.25 has been transferred from your profits to your bankroll,
-                            and $2378.63 has been injected into the bankroll
+                            and $311.00 has been injected into the bankroll
 ###########
 Game #1/9: Washington Wizards @ Orlando Magic
 Result: Win!!! Payout: $52.63
@@ -3157,15 +3134,14 @@ Daily Losses: 3 game(s) out of 9.
 ###########
 Overall Daily Performance: $12.89
 Running Profits/Losses: $-3399.37 
-Bankroll before Replenishment: $-433.62
-Bankroll Replenished: $-433.62
-Amount Injected Overall: $51536.82
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $900.00
+Amount Injected Overall: $7908.17
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 12/31. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-3399.37 in your profits.
-                            $-3399.37 has been transferred from your profits to your bankroll,
-                            and $1333.62 has been injected into the bankroll
+                            You currently have $900.00 in your bankroll, and $-3386.48 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/9: Los Angeles Clippers @ Indiana Pacers
 Result: Loss :(:(:( Loss: $100
@@ -3206,15 +3182,14 @@ Daily Losses: 3 game(s) out of 9.
 ###########
 Overall Daily Performance: $34.49
 Running Profits/Losses: $-3364.88 
-Bankroll before Replenishment: $-1465.74
-Bankroll Replenished: $-1465.74
-Amount Injected Overall: $52870.44
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $900.00
+Amount Injected Overall: $7908.17
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 1/1. 3 Game(s)
 You need $300.00. 
-                            You currently have $300.00 in your bankroll, and $-3364.88 in your profits.
-                            $-3364.88 has been transferred from your profits to your bankroll,
-                            and $1765.74 has been injected into the bankroll
+                            You currently have $300.00 in your bankroll, and $-3330.39 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/3: Boston Celtics @ Denver Nuggets
 Result: Loss :(:(:( Loss: $100
@@ -3237,15 +3212,15 @@ Daily Losses: 2 game(s) out of 3.
 ###########
 Overall Daily Performance: $-142.86
 Running Profits/Losses: $-3507.73 
-Bankroll before Replenishment: $-1499.14
-Bankroll Replenished: $-1499.14
-Amount Injected Overall: $54636.18
+Bankroll before Replenishment: $100.00
+Bankroll Replenished: $157.14
+Amount Injected Overall: $7308.17
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 1/2. 11 Game(s)
 You need $1100.00. 
                             You currently have $1100.00 in your bankroll, and $-3507.73 in your profits.
                             $-3507.73 has been transferred from your profits to your bankroll,
-                            and $2599.14 has been injected into the bankroll
+                            and $942.86 has been injected into the bankroll
 ###########
 Game #1/11: Phoenix Suns @ New York Knicks
 Result: Win!!! Payout: $72.46
@@ -3292,15 +3267,14 @@ Daily Losses: 4 game(s) out of 11.
 ###########
 Overall Daily Performance: $-56.23
 Running Profits/Losses: $-3563.97 
-Bankroll before Replenishment: $-208.60
-Bankroll Replenished: $-208.60
-Amount Injected Overall: $57235.32
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $1043.77
+Amount Injected Overall: $8251.03
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 1/3. 3 Game(s)
 You need $300.00. 
                             You currently have $300.00 in your bankroll, and $-3563.97 in your profits.
-                            $-3563.97 has been transferred from your profits to your bankroll,
-                            and $508.60 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/3: Washington Wizards @ Milwaukee Bucks
 Result: Win!!! Payout: $37.31
@@ -3323,15 +3297,15 @@ Daily Losses: 2 game(s) out of 3.
 ###########
 Overall Daily Performance: $-162.69
 Running Profits/Losses: $-3726.65 
-Bankroll before Replenishment: $-2955.37
-Bankroll Replenished: $-2955.37
-Amount Injected Overall: $57743.92
+Bankroll before Replenishment: $100.00
+Bankroll Replenished: $137.31
+Amount Injected Overall: $7507.26
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 1/4. 12 Game(s)
 You need $1200.00. 
                             You currently have $1200.00 in your bankroll, and $-3726.65 in your profits.
                             $-3726.65 has been transferred from your profits to your bankroll,
-                            and $4155.37 has been injected into the bankroll
+                            and $1062.69 has been injected into the bankroll
 ###########
 Game #1/12: Phoenix Suns @ Cleveland Cavaliers
 Result: Win!!! Payout: $48.78
@@ -3381,9 +3355,9 @@ Daily Losses: 7 game(s) out of 12.
 ###########
 Overall Daily Performance: $-501.50
 Running Profits/Losses: $-4228.15 
-Bankroll before Replenishment: $928.72
-Bankroll Replenished: $928.72
-Amount Injected Overall: $61899.29
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $698.50
+Amount Injected Overall: $8569.95
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 1/5. 4 Game(s)
 You need $400.00. 
@@ -3416,7 +3390,7 @@ Overall Daily Performance: $195.13
 Running Profits/Losses: $-4033.02 
 Bankroll before Replenishment: $400.00
 Bankroll Replenished: $400.00
-Amount Injected Overall: $61370.57
+Amount Injected Overall: $8271.45
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 1/6. 11 Game(s)
 You need $1100.00. 
@@ -3469,15 +3443,14 @@ Daily Losses: 7 game(s) out of 11.
 ###########
 Overall Daily Performance: $-474.56
 Running Profits/Losses: $-4507.58 
-Bankroll before Replenishment: $-2933.02
-Bankroll Replenished: $-2933.02
-Amount Injected Overall: $62070.57
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $625.44
+Amount Injected Overall: $8971.45
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 1/7. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-4507.58 in your profits.
-                            $-4507.58 has been transferred from your profits to your bankroll,
-                            and $3433.02 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/5: Boston Celtics @ San Antonio Spurs
 Result: Win!!! Payout: $8.00
@@ -3506,15 +3479,15 @@ Daily Losses: 3 game(s) out of 5.
 ###########
 Overall Daily Performance: $-264.60
 Running Profits/Losses: $-4772.18 
-Bankroll before Replenishment: $-874.56
-Bankroll Replenished: $-874.56
-Amount Injected Overall: $65503.59
+Bankroll before Replenishment: $200.00
+Bankroll Replenished: $235.40
+Amount Injected Overall: $8846.01
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 1/8. 9 Game(s)
 You need $900.00. 
                             You currently have $900.00 in your bankroll, and $-4772.18 in your profits.
                             $-4772.18 has been transferred from your profits to your bankroll,
-                            and $1774.56 has been injected into the bankroll
+                            and $664.60 has been injected into the bankroll
 ###########
 Game #1/9: Philadelphia 76ers @ Detroit Pistons
 Result: Win!!! Payout: $46.51
@@ -3555,15 +3528,14 @@ Daily Losses: 1 game(s) out of 9.
 ###########
 Overall Daily Performance: $338.91
 Running Profits/Losses: $-4433.27 
-Bankroll before Replenishment: $-2197.62
-Bankroll Replenished: $-2197.62
-Amount Injected Overall: $67278.15
+Bankroll before Replenishment: $800.00
+Bankroll Replenished: $900.00
+Amount Injected Overall: $9510.61
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 1/9. 6 Game(s)
 You need $600.00. 
-                            You currently have $600.00 in your bankroll, and $-4433.27 in your profits.
-                            $-4433.27 has been transferred from your profits to your bankroll,
-                            and $2797.62 has been injected into the bankroll
+                            You currently have $600.00 in your bankroll, and $-4094.35 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/6: New Orleans Pelicans @ Washington Wizards
 Result: Win!!! Payout: $-100.00
@@ -3595,15 +3567,15 @@ Daily Losses: 0 game(s) out of 6.
 ###########
 Overall Daily Performance: $91.26
 Running Profits/Losses: $-4342.00 
-Bankroll before Replenishment: $-1035.64
-Bankroll Replenished: $-1035.64
-Amount Injected Overall: $70075.77
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $600.00
+Amount Injected Overall: $9210.61
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 1/10. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-4342.00 in your profits.
                             $-4342.00 has been transferred from your profits to your bankroll,
-                            and $1735.64 has been injected into the bankroll
+                            and $100.00 has been injected into the bankroll
 ###########
 Game #1/7: Detroit Pistons @ Philadelphia 76ers
 Result: Win!!! Payout: $6.20
@@ -3638,15 +3610,15 @@ Daily Losses: 5 game(s) out of 7.
 ###########
 Overall Daily Performance: $-459.90
 Running Profits/Losses: $-4801.91 
-Bankroll before Replenishment: $-2406.36
-Bankroll Replenished: $-2406.36
-Amount Injected Overall: $71811.41
+Bankroll before Replenishment: $200.00
+Bankroll Replenished: $240.10
+Amount Injected Overall: $9310.61
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 1/11. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-4801.91 in your profits.
                             $-4801.91 has been transferred from your profits to your bankroll,
-                            and $3206.36 has been injected into the bankroll
+                            and $559.90 has been injected into the bankroll
 ###########
 Game #1/8: Minnesota Timberwolves @ Detroit Pistons
 Result: Loss :(:(:( Loss: $100
@@ -3684,15 +3656,14 @@ Daily Losses: 2 game(s) out of 8.
 ###########
 Overall Daily Performance: $-9.79
 Running Profits/Losses: $-4811.70 
-Bankroll before Replenishment: $-995.55
-Bankroll Replenished: $-995.55
-Amount Injected Overall: $75017.77
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $790.21
+Amount Injected Overall: $9870.51
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 1/12. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-4811.70 in your profits.
-                            $-4811.70 has been transferred from your profits to your bankroll,
-                            and $1595.55 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/6: Oklahoma City Thunder @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -3724,15 +3695,15 @@ Daily Losses: 1 game(s) out of 6.
 ###########
 Overall Daily Performance: $221.74
 Running Profits/Losses: $-4589.96 
-Bankroll before Replenishment: $-2716.15
-Bankroll Replenished: $-2716.15
-Amount Injected Overall: $76613.32
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $600.00
+Amount Injected Overall: $9680.30
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 1/13. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-4589.96 in your profits.
-                            $-4589.96 has been transferred from your profits to your bankroll,
-                            and $3616.15 has been injected into the bankroll
+                            You currently have $900.00 in your bankroll, and $-4368.22 in your profits.
+                            $-4368.22 has been transferred from your profits to your bankroll,
+                            and $300.00 has been injected into the bankroll
 ###########
 Game #1/9: Atlanta Hawks @ Indiana Pacers
 Result: Win!!! Payout: $60.98
@@ -3773,15 +3744,14 @@ Daily Losses: 2 game(s) out of 9.
 ###########
 Overall Daily Performance: $111.04
 Running Profits/Losses: $-4478.92 
-Bankroll before Replenishment: $-273.81
-Bankroll Replenished: $-273.81
-Amount Injected Overall: $80229.47
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $900.00
+Amount Injected Overall: $9980.30
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 1/14. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-4478.92 in your profits.
-                            $-4478.92 has been transferred from your profits to your bankroll,
-                            and $973.81 has been injected into the bankroll
+                            You currently have $700.00 in your bankroll, and $-4367.88 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/7: Milwaukee Bucks @ Miami Heat
 Result: Win!!! Payout: $56.18
@@ -3816,15 +3786,15 @@ Daily Losses: 2 game(s) out of 7.
 ###########
 Overall Daily Performance: $18.09
 Running Profits/Losses: $-4460.83 
-Bankroll before Replenishment: $-3005.11
-Bankroll Replenished: $-3005.11
-Amount Injected Overall: $81203.28
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $700.00
+Amount Injected Overall: $9780.30
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 1/15. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-4460.83 in your profits.
-                            $-4460.83 has been transferred from your profits to your bankroll,
-                            and $3805.11 has been injected into the bankroll
+                            You currently have $800.00 in your bankroll, and $-4442.75 in your profits.
+                            $-4442.75 has been transferred from your profits to your bankroll,
+                            and $100.00 has been injected into the bankroll
 ###########
 Game #1/8: New York Knicks @ Detroit Pistons
 Result: Win!!! Payout: $28.17
@@ -3862,15 +3832,15 @@ Daily Losses: 2 game(s) out of 8.
 ###########
 Overall Daily Performance: $-23.66
 Running Profits/Losses: $-4484.49 
-Bankroll before Replenishment: $-55.72
-Bankroll Replenished: $-55.72
-Amount Injected Overall: $85008.39
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $776.34
+Amount Injected Overall: $9880.30
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 1/16. 9 Game(s)
 You need $900.00. 
                             You currently have $900.00 in your bankroll, and $-4484.49 in your profits.
                             $-4484.49 has been transferred from your profits to your bankroll,
-                            and $955.72 has been injected into the bankroll
+                            and $123.66 has been injected into the bankroll
 ###########
 Game #1/9: Boston Celtics @ Charlotte Hornets
 Result: Win!!! Payout: $28.17
@@ -3911,15 +3881,14 @@ Daily Losses: 3 game(s) out of 9.
 ###########
 Overall Daily Performance: $-72.33
 Running Profits/Losses: $-4556.82 
-Bankroll before Replenishment: $-2928.77
-Bankroll Replenished: $-2928.77
-Amount Injected Overall: $85964.11
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $827.67
+Amount Injected Overall: $10003.97
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 1/17. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-4556.82 in your profits.
-                            $-4556.82 has been transferred from your profits to your bankroll,
-                            and $3328.77 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/4: Toronto Raptors @ Milwaukee Bucks
 Result: Loss :(:(:( Loss: $100
@@ -3945,15 +3914,15 @@ Daily Losses: 2 game(s) out of 4.
 ###########
 Overall Daily Performance: $-254.13
 Running Profits/Losses: $-4810.95 
-Bankroll before Replenishment: $-1028.05
-Bankroll Replenished: $-1028.05
-Amount Injected Overall: $89292.88
+Bankroll before Replenishment: $200.00
+Bankroll Replenished: $200.00
+Amount Injected Overall: $9576.29
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 1/18. 9 Game(s)
 You need $900.00. 
                             You currently have $900.00 in your bankroll, and $-4810.95 in your profits.
                             $-4810.95 has been transferred from your profits to your bankroll,
-                            and $1928.05 has been injected into the bankroll
+                            and $700.00 has been injected into the bankroll
 ###########
 Game #1/9: Atlanta Hawks @ Dallas Mavericks
 Result: Loss :(:(:( Loss: $100
@@ -3994,15 +3963,14 @@ Daily Losses: 3 game(s) out of 9.
 ###########
 Overall Daily Performance: $-24.70
 Running Profits/Losses: $-4835.65 
-Bankroll before Replenishment: $-2282.90
-Bankroll Replenished: $-2282.90
-Amount Injected Overall: $91220.93
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $875.30
+Amount Injected Overall: $10276.29
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 1/19. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-4835.65 in your profits.
-                            $-4835.65 has been transferred from your profits to your bankroll,
-                            and $2782.90 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/5: Chicago Bulls @ Detroit Pistons
 Result: Win!!! Payout: $33.90
@@ -4031,15 +3999,15 @@ Daily Losses: 2 game(s) out of 5.
 ###########
 Overall Daily Performance: $-49.52
 Running Profits/Losses: $-4885.17 
-Bankroll before Replenishment: $-1752.75
-Bankroll Replenished: $-1752.75
-Amount Injected Overall: $94003.83
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $450.48
+Amount Injected Overall: $9900.99
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 1/20. 9 Game(s)
 You need $900.00. 
                             You currently have $900.00 in your bankroll, and $-4885.17 in your profits.
                             $-4885.17 has been transferred from your profits to your bankroll,
-                            and $2652.75 has been injected into the bankroll
+                            and $449.52 has been injected into the bankroll
 ###########
 Game #1/9: New Orleans Pelicans @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -4080,15 +4048,15 @@ Daily Losses: 5 game(s) out of 9.
 ###########
 Overall Daily Performance: $-311.29
 Running Profits/Losses: $-5196.46 
-Bankroll before Replenishment: $-1832.42
-Bankroll Replenished: $-1832.42
-Amount Injected Overall: $96656.58
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $588.71
+Amount Injected Overall: $10350.51
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 1/21. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-5196.46 in your profits.
                             $-5196.46 has been transferred from your profits to your bankroll,
-                            and $2532.42 has been injected into the bankroll
+                            and $111.29 has been injected into the bankroll
 ###########
 Game #1/7: Boston Celtics @ Toronto Raptors
 Result: Win!!! Payout: $62.50
@@ -4123,15 +4091,14 @@ Daily Losses: 2 game(s) out of 7.
 ###########
 Overall Daily Performance: $68.38
 Running Profits/Losses: $-5128.08 
-Bankroll before Replenishment: $-2164.04
-Bankroll Replenished: $-2164.04
-Amount Injected Overall: $99189.00
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $700.00
+Amount Injected Overall: $10461.80
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 1/22. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-5128.08 in your profits.
-                            $-5128.08 has been transferred from your profits to your bankroll,
-                            and $2864.04 has been injected into the bankroll
+                            You currently have $700.00 in your bankroll, and $-5059.69 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/7: Los Angeles Clippers @ Dallas Mavericks
 Result: Loss :(:(:( Loss: $100
@@ -4166,15 +4133,15 @@ Daily Losses: 5 game(s) out of 7.
 ###########
 Overall Daily Performance: $-390.84
 Running Profits/Losses: $-5518.91 
-Bankroll before Replenishment: $-2064.03
-Bankroll Replenished: $-2064.03
-Amount Injected Overall: $102053.04
+Bankroll before Replenishment: $200.00
+Bankroll Replenished: $309.16
+Amount Injected Overall: $10461.80
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 1/23. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-5518.91 in your profits.
                             $-5518.91 has been transferred from your profits to your bankroll,
-                            and $2764.03 has been injected into the bankroll
+                            and $390.84 has been injected into the bankroll
 ###########
 Game #1/7: Boston Celtics @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -4209,15 +4176,15 @@ Daily Losses: 3 game(s) out of 7.
 ###########
 Overall Daily Performance: $-168.88
 Running Profits/Losses: $-5687.79 
-Bankroll before Replenishment: $-2354.88
-Bankroll Replenished: $-2354.88
-Amount Injected Overall: $104817.07
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $531.12
+Amount Injected Overall: $10852.64
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 1/24. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-5687.79 in your profits.
                             $-5687.79 has been transferred from your profits to your bankroll,
-                            and $3054.88 has been injected into the bankroll
+                            and $168.88 has been injected into the bankroll
 ###########
 Game #1/7: Chicago Bulls @ Indiana Pacers
 Result: Loss :(:(:( Loss: $100
@@ -4252,15 +4219,15 @@ Daily Losses: 3 game(s) out of 7.
 ###########
 Overall Daily Performance: $-75.51
 Running Profits/Losses: $-5763.31 
-Bankroll before Replenishment: $-2232.92
-Bankroll Replenished: $-2232.92
-Amount Injected Overall: $107871.95
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $624.49
+Amount Injected Overall: $11021.52
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 1/25. 10 Game(s)
 You need $1000.00. 
                             You currently have $1000.00 in your bankroll, and $-5763.31 in your profits.
                             $-5763.31 has been transferred from your profits to your bankroll,
-                            and $3232.92 has been injected into the bankroll
+                            and $375.51 has been injected into the bankroll
 ###########
 Game #1/10: Indiana Pacers @ Orlando Magic
 Result: Win!!! Payout: $50.00
@@ -4304,15 +4271,14 @@ Daily Losses: 2 game(s) out of 10.
 ###########
 Overall Daily Performance: $217.81
 Running Profits/Losses: $-5545.50 
-Bankroll before Replenishment: $-1730.39
-Bankroll Replenished: $-1730.39
-Amount Injected Overall: $111104.87
+Bankroll before Replenishment: $800.00
+Bankroll Replenished: $1000.00
+Amount Injected Overall: $11397.03
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 1/26. 6 Game(s)
 You need $600.00. 
-                            You currently have $600.00 in your bankroll, and $-5545.50 in your profits.
-                            $-5545.50 has been transferred from your profits to your bankroll,
-                            and $2330.39 has been injected into the bankroll
+                            You currently have $600.00 in your bankroll, and $-5327.69 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/6: Chicago Bulls @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -4344,15 +4310,15 @@ Daily Losses: 4 game(s) out of 6.
 ###########
 Overall Daily Performance: $-359.70
 Running Profits/Losses: $-5905.20 
-Bankroll before Replenishment: $-3015.11
-Bankroll Replenished: $-3015.11
-Amount Injected Overall: $113435.26
+Bankroll before Replenishment: $200.00
+Bankroll Replenished: $240.30
+Amount Injected Overall: $10997.03
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 1/27. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-5905.20 in your profits.
                             $-5905.20 has been transferred from your profits to your bankroll,
-                            and $3515.11 has been injected into the bankroll
+                            and $259.70 has been injected into the bankroll
 ###########
 Game #1/5: Milwaukee Bucks @ Indiana Pacers
 Result: Win!!! Payout: $39.22
@@ -4381,15 +4347,15 @@ Daily Losses: 2 game(s) out of 5.
 ###########
 Overall Daily Performance: $-75.39
 Running Profits/Losses: $-5980.59 
-Bankroll before Replenishment: $-2090.09
-Bankroll Replenished: $-2090.09
-Amount Injected Overall: $116950.37
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $424.61
+Amount Injected Overall: $11256.73
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 1/28. 11 Game(s)
 You need $1100.00. 
                             You currently have $1100.00 in your bankroll, and $-5980.59 in your profits.
                             $-5980.59 has been transferred from your profits to your bankroll,
-                            and $3190.09 has been injected into the bankroll
+                            and $675.39 has been injected into the bankroll
 ###########
 Game #1/11: Denver Nuggets @ Philadelphia 76ers
 Result: Win!!! Payout: $68.97
@@ -4436,15 +4402,14 @@ Daily Losses: 5 game(s) out of 11.
 ###########
 Overall Daily Performance: $-158.20
 Running Profits/Losses: $-6138.79 
-Bankroll before Replenishment: $-2190.50
-Bankroll Replenished: $-2190.50
-Amount Injected Overall: $120140.45
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $941.80
+Amount Injected Overall: $11932.12
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 1/29. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-6138.79 in your profits.
-                            $-6138.79 has been transferred from your profits to your bankroll,
-                            and $2590.50 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/4: Miami Heat @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -4470,15 +4435,15 @@ Daily Losses: 1 game(s) out of 4.
 ###########
 Overall Daily Performance: $-35.60
 Running Profits/Losses: $-6174.39 
-Bankroll before Replenishment: $-3248.29
-Bankroll Replenished: $-3248.29
-Amount Injected Overall: $122730.96
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $364.40
+Amount Injected Overall: $11390.32
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 1/30. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-6174.39 in your profits.
                             $-6174.39 has been transferred from your profits to your bankroll,
-                            and $4048.29 has been injected into the bankroll
+                            and $435.60 has been injected into the bankroll
 ###########
 Game #1/8: Orlando Magic @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -4516,15 +4481,14 @@ Daily Losses: 1 game(s) out of 8.
 ###########
 Overall Daily Performance: $263.57
 Running Profits/Losses: $-5910.82 
-Bankroll before Replenishment: $-1426.10
-Bankroll Replenished: $-1426.10
-Amount Injected Overall: $126779.24
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $800.00
+Amount Injected Overall: $11825.92
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 1/31. 5 Game(s)
 You need $500.00. 
-                            You currently have $500.00 in your bankroll, and $-5910.82 in your profits.
-                            $-5910.82 has been transferred from your profits to your bankroll,
-                            and $1926.10 has been injected into the bankroll
+                            You currently have $500.00 in your bankroll, and $-5647.25 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/5: Miami Heat @ Cleveland Cavaliers
 Result: Loss :(:(:( Loss: $100
@@ -4553,15 +4517,15 @@ Daily Losses: 2 game(s) out of 5.
 ###########
 Overall Daily Performance: $-86.07
 Running Profits/Losses: $-5996.89 
-Bankroll before Replenishment: $-3684.72
-Bankroll Replenished: $-3684.72
-Amount Injected Overall: $128705.35
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $413.93
+Amount Injected Overall: $11525.92
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 2/1. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-5996.89 in your profits.
                             $-5996.89 has been transferred from your profits to your bankroll,
-                            and $4484.72 has been injected into the bankroll
+                            and $386.07 has been injected into the bankroll
 ###########
 Game #1/8: Portland Trail Blazers @ Memphis Grizzlies
 Result: Loss :(:(:( Loss: $100
@@ -4599,15 +4563,14 @@ Daily Losses: 3 game(s) out of 8.
 ###########
 Overall Daily Performance: $-42.71
 Running Profits/Losses: $-6039.60 
-Bankroll before Replenishment: $-1012.17
-Bankroll Replenished: $-1012.17
-Amount Injected Overall: $133190.06
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $757.29
+Amount Injected Overall: $11911.99
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 2/2. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-6039.60 in your profits.
-                            $-6039.60 has been transferred from your profits to your bankroll,
-                            and $1712.17 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/7: Los Angeles Lakers @ Indiana Pacers
 Result: Win!!! Payout: $62.50
@@ -4642,15 +4605,15 @@ Daily Losses: 1 game(s) out of 7.
 ###########
 Overall Daily Performance: $179.93
 Running Profits/Losses: $-5859.67 
-Bankroll before Replenishment: $-3727.43
-Bankroll Replenished: $-3727.43
-Amount Injected Overall: $134902.23
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $700.00
+Amount Injected Overall: $11854.70
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 2/3. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-5859.67 in your profits.
-                            $-5859.67 has been transferred from your profits to your bankroll,
-                            and $4527.43 has been injected into the bankroll
+                            You currently have $800.00 in your bankroll, and $-5679.74 in your profits.
+                            $-5679.74 has been transferred from your profits to your bankroll,
+                            and $100.00 has been injected into the bankroll
 ###########
 Game #1/8: Sacramento Kings @ Indiana Pacers
 Result: Loss :(:(:( Loss: $100
@@ -4688,15 +4651,15 @@ Daily Losses: 5 game(s) out of 8.
 ###########
 Overall Daily Performance: $-348.48
 Running Profits/Losses: $-6208.15 
-Bankroll before Replenishment: $-1032.24
-Bankroll Replenished: $-1032.24
-Amount Injected Overall: $139429.66
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $451.52
+Amount Injected Overall: $11954.70
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 2/4. 9 Game(s)
 You need $900.00. 
                             You currently have $900.00 in your bankroll, and $-6208.15 in your profits.
                             $-6208.15 has been transferred from your profits to your bankroll,
-                            and $1932.24 has been injected into the bankroll
+                            and $448.48 has been injected into the bankroll
 ###########
 Game #1/9: Washington Wizards @ Brooklyn Nets
 Result: Loss :(:(:( Loss: $100
@@ -4737,15 +4700,14 @@ Daily Losses: 2 game(s) out of 9.
 ###########
 Overall Daily Performance: $100.00
 Running Profits/Losses: $-6108.16 
-Bankroll before Replenishment: $-3575.91
-Bankroll Replenished: $-3575.91
-Amount Injected Overall: $141361.90
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $900.00
+Amount Injected Overall: $12403.18
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 2/5. 6 Game(s)
 You need $600.00. 
-                            You currently have $600.00 in your bankroll, and $-6108.16 in your profits.
-                            $-6108.16 has been transferred from your profits to your bankroll,
-                            and $4175.91 has been injected into the bankroll
+                            You currently have $600.00 in your bankroll, and $-6008.16 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/6: Orlando Magic @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -4777,15 +4739,15 @@ Daily Losses: 3 game(s) out of 6.
 ###########
 Overall Daily Performance: $-315.83
 Running Profits/Losses: $-6423.99 
-Bankroll before Replenishment: $-1632.24
-Bankroll Replenished: $-1632.24
-Amount Injected Overall: $145537.82
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $300.00
+Amount Injected Overall: $12103.18
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 2/6. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-6423.99 in your profits.
                             $-6423.99 has been transferred from your profits to your bankroll,
-                            and $2432.24 has been injected into the bankroll
+                            and $500.00 has been injected into the bankroll
 ###########
 Game #1/8: Cleveland Cavaliers @ Washington Wizards
 Result: Win!!! Payout: $60.61
@@ -4823,15 +4785,14 @@ Daily Losses: 1 game(s) out of 8.
 ###########
 Overall Daily Performance: $192.79
 Running Profits/Losses: $-6231.20 
-Bankroll before Replenishment: $-3291.74
-Bankroll Replenished: $-3291.74
-Amount Injected Overall: $147970.06
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $800.00
+Amount Injected Overall: $12603.18
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 2/7. 6 Game(s)
 You need $600.00. 
-                            You currently have $600.00 in your bankroll, and $-6231.20 in your profits.
-                            $-6231.20 has been transferred from your profits to your bankroll,
-                            and $3891.74 has been injected into the bankroll
+                            You currently have $600.00 in your bankroll, and $-6038.41 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/6: New York Knicks @ Orlando Magic
 Result: Win!!! Payout: $83.33
@@ -4863,15 +4824,15 @@ Daily Losses: 2 game(s) out of 6.
 ###########
 Overall Daily Performance: $-24.83
 Running Profits/Losses: $-6256.03 
-Bankroll before Replenishment: $-1939.45
-Bankroll Replenished: $-1939.45
-Amount Injected Overall: $151861.80
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $575.17
+Amount Injected Overall: $12403.18
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 2/8. 9 Game(s)
 You need $900.00. 
                             You currently have $900.00 in your bankroll, and $-6256.03 in your profits.
                             $-6256.03 has been transferred from your profits to your bankroll,
-                            and $2839.45 has been injected into the bankroll
+                            and $324.83 has been injected into the bankroll
 ###########
 Game #1/9: Detroit Pistons @ Cleveland Cavaliers
 Result: Win!!! Payout: $25.32
@@ -4912,15 +4873,14 @@ Daily Losses: 2 game(s) out of 9.
 ###########
 Overall Daily Performance: $106.23
 Running Profits/Losses: $-6149.79 
-Bankroll before Replenishment: $-2716.57
-Bankroll Replenished: $-2716.57
-Amount Injected Overall: $154701.26
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $900.00
+Amount Injected Overall: $12728.01
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 2/9. 4 Game(s)
 You need $400.00. 
-                            You currently have $400.00 in your bankroll, and $-6149.79 in your profits.
-                            $-6149.79 has been transferred from your profits to your bankroll,
-                            and $3116.57 has been injected into the bankroll
+                            You currently have $400.00 in your bankroll, and $-6043.56 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/4: Denver Nuggets @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -4946,15 +4906,15 @@ Daily Losses: 2 game(s) out of 4.
 ###########
 Overall Daily Performance: $-142.56
 Running Profits/Losses: $-6292.36 
-Bankroll before Replenishment: $-2833.22
-Bankroll Replenished: $-2833.22
-Amount Injected Overall: $157817.83
+Bankroll before Replenishment: $200.00
+Bankroll Replenished: $257.44
+Amount Injected Overall: $12228.01
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 2/10. 11 Game(s)
 You need $1100.00. 
                             You currently have $1100.00 in your bankroll, and $-6292.36 in your profits.
                             $-6292.36 has been transferred from your profits to your bankroll,
-                            and $3933.22 has been injected into the bankroll
+                            and $842.56 has been injected into the bankroll
 ###########
 Game #1/11: Phoenix Suns @ Indiana Pacers
 Result: Loss :(:(:( Loss: $100
@@ -5001,15 +4961,14 @@ Daily Losses: 4 game(s) out of 11.
 ###########
 Overall Daily Performance: $-104.08
 Running Profits/Losses: $-6396.44 
-Bankroll before Replenishment: $-1659.14
-Bankroll Replenished: $-1659.14
-Amount Injected Overall: $161751.05
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $995.92
+Amount Injected Overall: $13070.58
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 2/11. 9 Game(s)
 You need $900.00. 
                             You currently have $900.00 in your bankroll, and $-6396.44 in your profits.
-                            $-6396.44 has been transferred from your profits to your bankroll,
-                            and $2559.14 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/9: Philadelphia 76ers @ Brooklyn Nets
 Result: Win!!! Payout: $68.97
@@ -5050,15 +5009,14 @@ Daily Losses: 2 game(s) out of 9.
 ###########
 Overall Daily Performance: $125.08
 Running Profits/Losses: $-6271.37 
-Bankroll before Replenishment: $-3137.30
-Bankroll Replenished: $-3137.30
-Amount Injected Overall: $164310.19
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $900.00
+Amount Injected Overall: $12974.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 2/12. 2 Game(s)
 You need $200.00. 
-                            You currently have $200.00 in your bankroll, and $-6271.37 in your profits.
-                            $-6271.37 has been transferred from your profits to your bankroll,
-                            and $3337.30 has been injected into the bankroll
+                            You currently have $200.00 in your bankroll, and $-6146.29 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/2: Memphis Grizzlies @ Boston Celtics
 Result: Win!!! Payout: $62.50
@@ -5078,15 +5036,15 @@ Daily Losses: 0 game(s) out of 2.
 ###########
 Overall Daily Performance: $78.50
 Running Profits/Losses: $-6192.87 
-Bankroll before Replenishment: $-2734.06
-Bankroll Replenished: $-2734.06
-Amount Injected Overall: $167647.49
+Bankroll before Replenishment: $200.00
+Bankroll Replenished: $200.00
+Amount Injected Overall: $12274.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 2/13. 11 Game(s)
 You need $1100.00. 
                             You currently have $1100.00 in your bankroll, and $-6192.87 in your profits.
                             $-6192.87 has been transferred from your profits to your bankroll,
-                            and $3834.06 has been injected into the bankroll
+                            and $900.00 has been injected into the bankroll
 ###########
 Game #1/11: Houston Rockets @ Philadelphia 76ers
 Result: Win!!! Payout: $10.00
@@ -5133,15 +5091,14 @@ Daily Losses: 4 game(s) out of 11.
 ###########
 Overall Daily Performance: $5.93
 Running Profits/Losses: $-6186.94 
-Bankroll before Replenishment: $-1658.80
-Bankroll Replenished: $-1658.80
-Amount Injected Overall: $171481.55
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $1100.00
+Amount Injected Overall: $13174.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 2/14. 5 Game(s)
 You need $500.00. 
-                            You currently have $500.00 in your bankroll, and $-6186.94 in your profits.
-                            $-6186.94 has been transferred from your profits to your bankroll,
-                            and $2158.80 has been injected into the bankroll
+                            You currently have $500.00 in your bankroll, and $-6181.01 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/5: Boston Celtics @ Milwaukee Bucks
 Result: Win!!! Payout: $20.96
@@ -5170,15 +5127,15 @@ Daily Losses: 0 game(s) out of 5.
 ###########
 Overall Daily Performance: $234.19
 Running Profits/Losses: $-5952.75 
-Bankroll before Replenishment: $-3528.14
-Bankroll Replenished: $-3528.14
-Amount Injected Overall: $173640.36
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $500.00
+Amount Injected Overall: $12574.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 2/15. 10 Game(s)
 You need $1000.00. 
                             You currently have $1000.00 in your bankroll, and $-5952.75 in your profits.
                             $-5952.75 has been transferred from your profits to your bankroll,
-                            and $4528.14 has been injected into the bankroll
+                            and $500.00 has been injected into the bankroll
 ###########
 Game #1/10: San Antonio Spurs @ Charlotte Hornets
 Result: Win!!! Payout: $52.63
@@ -5222,15 +5179,14 @@ Daily Losses: 2 game(s) out of 10.
 ###########
 Overall Daily Performance: $144.69
 Running Profits/Losses: $-5808.06 
-Bankroll before Replenishment: $-624.61
-Bankroll Replenished: $-624.61
-Amount Injected Overall: $178168.49
+Bankroll before Replenishment: $800.00
+Bankroll Replenished: $1000.00
+Amount Injected Overall: $13074.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 2/16. 3 Game(s)
 You need $300.00. 
-                            You currently have $300.00 in your bankroll, and $-5808.06 in your profits.
-                            $-5808.06 has been transferred from your profits to your bankroll,
-                            and $924.61 has been injected into the bankroll
+                            You currently have $300.00 in your bankroll, and $-5663.38 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/3: Milwaukee Bucks @ Chicago Bulls
 Result: Win!!! Payout: $35.71
@@ -5253,15 +5209,15 @@ Daily Losses: 1 game(s) out of 3.
 ###########
 Overall Daily Performance: $25.80
 Running Profits/Losses: $-5782.26 
-Bankroll before Replenishment: $-4683.45
-Bankroll Replenished: $-4683.45
-Amount Injected Overall: $179093.10
+Bankroll before Replenishment: $200.00
+Bankroll Replenished: $300.00
+Amount Injected Overall: $12374.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 2/23. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-5782.26 in your profits.
-                            $-5782.26 has been transferred from your profits to your bankroll,
-                            and $5583.45 has been injected into the bankroll
+                            You currently have $900.00 in your bankroll, and $-5756.45 in your profits.
+                            $-5756.45 has been transferred from your profits to your bankroll,
+                            and $600.00 has been injected into the bankroll
 ###########
 Game #1/9: Boston Celtics @ Indiana Pacers
 Result: Win!!! Payout: $28.57
@@ -5302,15 +5258,14 @@ Daily Losses: 2 game(s) out of 9.
 ###########
 Overall Daily Performance: $46.76
 Running Profits/Losses: $-5735.50 
-Bankroll before Replenishment: $501.19
-Bankroll Replenished: $501.19
-Amount Injected Overall: $184676.56
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $900.00
+Amount Injected Overall: $12974.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 2/24. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-5735.50 in your profits.
-                            $-5735.50 has been transferred from your profits to your bankroll,
-                            and $298.81 has been injected into the bankroll
+                            You currently have $800.00 in your bankroll, and $-5688.73 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/8: New York Knicks @ Washington Wizards
 Result: Win!!! Payout: $100.00
@@ -5348,15 +5303,14 @@ Daily Losses: 1 game(s) out of 8.
 ###########
 Overall Daily Performance: $277.62
 Running Profits/Losses: $-5457.88 
-Bankroll before Replenishment: $-4736.69
-Bankroll Replenished: $-4736.69
-Amount Injected Overall: $184975.36
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $800.00
+Amount Injected Overall: $12874.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 2/25. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-5457.88 in your profits.
-                            $-5457.88 has been transferred from your profits to your bankroll,
-                            and $5436.69 has been injected into the bankroll
+                            You currently have $700.00 in your bankroll, and $-5180.26 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/7: Toronto Raptors @ Detroit Pistons
 Result: Win!!! Payout: $31.25
@@ -5391,15 +5345,15 @@ Daily Losses: 2 game(s) out of 7.
 ###########
 Overall Daily Performance: $60.75
 Running Profits/Losses: $-5397.13 
-Bankroll before Replenishment: $478.81
-Bankroll Replenished: $478.81
-Amount Injected Overall: $190412.05
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $700.00
+Amount Injected Overall: $12774.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 2/26. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-5397.13 in your profits.
-                            $-5397.13 has been transferred from your profits to your bankroll,
-                            and $421.19 has been injected into the bankroll
+                            You currently have $900.00 in your bankroll, and $-5336.38 in your profits.
+                            $-5336.38 has been transferred from your profits to your bankroll,
+                            and $200.00 has been injected into the bankroll
 ###########
 Game #1/9: Phoenix Suns @ Milwaukee Bucks
 Result: Win!!! Payout: $68.03
@@ -5440,15 +5394,14 @@ Daily Losses: 1 game(s) out of 9.
 ###########
 Overall Daily Performance: $295.65
 Running Profits/Losses: $-5101.48 
-Bankroll before Replenishment: $-4175.94
-Bankroll Replenished: $-4175.94
-Amount Injected Overall: $190833.24
+Bankroll before Replenishment: $800.00
+Bankroll Replenished: $900.00
+Amount Injected Overall: $12974.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 2/27. 4 Game(s)
 You need $400.00. 
-                            You currently have $400.00 in your bankroll, and $-5101.48 in your profits.
-                            $-5101.48 has been transferred from your profits to your bankroll,
-                            and $4575.94 has been injected into the bankroll
+                            You currently have $400.00 in your bankroll, and $-4805.84 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/4: Miami Heat @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -5474,15 +5427,15 @@ Daily Losses: 3 game(s) out of 4.
 ###########
 Overall Daily Performance: $-265.52
 Running Profits/Losses: $-5367.00 
-Bankroll before Replenishment: $-425.54
-Bankroll Replenished: $-425.54
-Amount Injected Overall: $195409.18
+Bankroll before Replenishment: $100.00
+Bankroll Replenished: $134.48
+Amount Injected Overall: $12474.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 2/28. 10 Game(s)
 You need $1000.00. 
                             You currently have $1000.00 in your bankroll, and $-5367.00 in your profits.
                             $-5367.00 has been transferred from your profits to your bankroll,
-                            and $1425.54 has been injected into the bankroll
+                            and $865.52 has been injected into the bankroll
 ###########
 Game #1/10: Los Angeles Lakers @ Memphis Grizzlies
 Result: Win!!! Payout: $25.00
@@ -5526,15 +5479,15 @@ Daily Losses: 4 game(s) out of 10.
 ###########
 Overall Daily Performance: $-137.55
 Running Profits/Losses: $-5504.56 
-Bankroll before Replenishment: $-3341.46
-Bankroll Replenished: $-3341.46
-Amount Injected Overall: $196834.72
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $862.45
+Amount Injected Overall: $13340.18
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 3/1. 9 Game(s)
 You need $900.00. 
                             You currently have $900.00 in your bankroll, and $-5504.56 in your profits.
                             $-5504.56 has been transferred from your profits to your bankroll,
-                            and $4241.46 has been injected into the bankroll
+                            and $37.55 has been injected into the bankroll
 ###########
 Game #1/9: Phoenix Suns @ Charlotte Hornets
 Result: Win!!! Payout: $19.23
@@ -5575,15 +5528,14 @@ Daily Losses: 3 game(s) out of 9.
 ###########
 Overall Daily Performance: $-115.28
 Running Profits/Losses: $-5619.84 
-Bankroll before Replenishment: $-663.10
-Bankroll Replenished: $-663.10
-Amount Injected Overall: $201076.18
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $784.72
+Amount Injected Overall: $13377.73
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 3/2. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-5619.84 in your profits.
-                            $-5619.84 has been transferred from your profits to your bankroll,
-                            and $1063.10 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/4: Toronto Raptors @ Washington Wizards
 Result: Loss :(:(:( Loss: $100
@@ -5609,15 +5561,15 @@ Daily Losses: 3 game(s) out of 4.
 ###########
 Overall Daily Performance: $-235.06
 Running Profits/Losses: $-5854.90 
-Bankroll before Replenishment: $-4456.74
-Bankroll Replenished: $-4456.74
-Amount Injected Overall: $202139.28
+Bankroll before Replenishment: $100.00
+Bankroll Replenished: $164.94
+Amount Injected Overall: $12993.01
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 3/3. 10 Game(s)
 You need $1000.00. 
                             You currently have $1000.00 in your bankroll, and $-5854.90 in your profits.
                             $-5854.90 has been transferred from your profits to your bankroll,
-                            and $5456.74 has been injected into the bankroll
+                            and $835.06 has been injected into the bankroll
 ###########
 Game #1/10: Orlando Magic @ Charlotte Hornets
 Result: Win!!! Payout: $59.52
@@ -5661,15 +5613,14 @@ Daily Losses: 2 game(s) out of 10.
 ###########
 Overall Daily Performance: $66.88
 Running Profits/Losses: $-5788.03 
-Bankroll before Replenishment: $401.84
-Bankroll Replenished: $401.84
-Amount Injected Overall: $207596.02
+Bankroll before Replenishment: $800.00
+Bankroll Replenished: $1000.00
+Amount Injected Overall: $13828.08
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 3/4. 6 Game(s)
 You need $600.00. 
-                            You currently have $600.00 in your bankroll, and $-5788.03 in your profits.
-                            $-5788.03 has been transferred from your profits to your bankroll,
-                            and $198.16 has been injected into the bankroll
+                            You currently have $600.00 in your bankroll, and $-5721.15 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/6: Toronto Raptors @ Washington Wizards
 Result: Win!!! Payout: $68.97
@@ -5701,15 +5652,15 @@ Daily Losses: 2 game(s) out of 6.
 ###########
 Overall Daily Performance: $40.69
 Running Profits/Losses: $-5747.34 
-Bankroll before Replenishment: $-5189.86
-Bankroll Replenished: $-5189.86
-Amount Injected Overall: $207794.18
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $600.00
+Amount Injected Overall: $13428.08
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 3/5. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-5747.34 in your profits.
-                            $-5747.34 has been transferred from your profits to your bankroll,
-                            and $6189.86 has been injected into the bankroll
+                            You currently have $1000.00 in your bankroll, and $-5706.65 in your profits.
+                            $-5706.65 has been transferred from your profits to your bankroll,
+                            and $400.00 has been injected into the bankroll
 ###########
 Game #1/10: Phoenix Suns @ Dallas Mavericks
 Result: Win!!! Payout: $75.76
@@ -5753,9 +5704,9 @@ Daily Losses: 4 game(s) out of 10.
 ###########
 Overall Daily Performance: $-124.35
 Running Profits/Losses: $-5871.69 
-Bankroll before Replenishment: $1042.52
-Bankroll Replenished: $1042.52
-Amount Injected Overall: $213984.04
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $875.65
+Amount Injected Overall: $13828.08
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 3/6. 6 Game(s)
 You need $600.00. 
@@ -5794,7 +5745,7 @@ Overall Daily Performance: $292.42
 Running Profits/Losses: $-5579.28 
 Bankroll before Replenishment: $600.00
 Bankroll Replenished: $600.00
-Amount Injected Overall: $213541.52
+Amount Injected Overall: $13552.43
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 3/7. 8 Game(s)
 You need $800.00. 
@@ -5838,15 +5789,15 @@ Daily Losses: 4 game(s) out of 8.
 ###########
 Overall Daily Performance: $-241.91
 Running Profits/Losses: $-5821.18 
-Bankroll before Replenishment: $-4979.28
-Bankroll Replenished: $-4979.28
-Amount Injected Overall: $213741.52
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $558.09
+Amount Injected Overall: $13752.43
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 3/8. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-5821.18 in your profits.
                             $-5821.18 has been transferred from your profits to your bankroll,
-                            and $5679.28 has been injected into the bankroll
+                            and $141.91 has been injected into the bankroll
 ###########
 Game #1/7: Atlanta Hawks @ Washington Wizards
 Result: Win!!! Payout: $69.93
@@ -5881,15 +5832,14 @@ Daily Losses: 2 game(s) out of 7.
 ###########
 Overall Daily Performance: $65.73
 Running Profits/Losses: $-5755.45 
-Bankroll before Replenishment: $358.09
-Bankroll Replenished: $358.09
-Amount Injected Overall: $219420.80
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $700.00
+Amount Injected Overall: $13894.34
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 3/9. 6 Game(s)
 You need $600.00. 
-                            You currently have $600.00 in your bankroll, and $-5755.45 in your profits.
-                            $-5755.45 has been transferred from your profits to your bankroll,
-                            and $241.91 has been injected into the bankroll
+                            You currently have $600.00 in your bankroll, and $-5689.72 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/6: Houston Rockets @ Indiana Pacers
 Result: Win!!! Payout: $21.74
@@ -5921,15 +5871,15 @@ Daily Losses: 2 game(s) out of 6.
 ###########
 Overall Daily Performance: $-6.88
 Running Profits/Losses: $-5762.33 
-Bankroll before Replenishment: $-5113.55
-Bankroll Replenished: $-5113.55
-Amount Injected Overall: $219662.70
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $593.12
+Amount Injected Overall: $13794.34
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 3/10. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-5762.33 in your profits.
                             $-5762.33 has been transferred from your profits to your bankroll,
-                            and $5713.55 has been injected into the bankroll
+                            and $6.88 has been injected into the bankroll
 ###########
 Game #1/6: Portland Trail Blazers @ Philadelphia 76ers
 Result: Win!!! Payout: $30.30
@@ -5961,15 +5911,15 @@ Daily Losses: 3 game(s) out of 6.
 ###########
 Overall Daily Performance: $-118.28
 Running Profits/Losses: $-5880.61 
-Bankroll before Replenishment: $251.22
-Bankroll Replenished: $251.22
-Amount Injected Overall: $225376.25
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $481.72
+Amount Injected Overall: $13801.21
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 3/11. 10 Game(s)
 You need $1000.00. 
                             You currently have $1000.00 in your bankroll, and $-5880.61 in your profits.
                             $-5880.61 has been transferred from your profits to your bankroll,
-                            and $748.78 has been injected into the bankroll
+                            and $518.28 has been injected into the bankroll
 ###########
 Game #1/10: New York Knicks @ Los Angeles Clippers
 Result: Win!!! Payout: $48.31
@@ -6013,15 +5963,14 @@ Daily Losses: 2 game(s) out of 10.
 ###########
 Overall Daily Performance: $266.18
 Running Profits/Losses: $-5614.43 
-Bankroll before Replenishment: $-4331.83
-Bankroll Replenished: $-4331.83
-Amount Injected Overall: $226125.03
+Bankroll before Replenishment: $800.00
+Bankroll Replenished: $1000.00
+Amount Injected Overall: $14319.50
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 3/12. 6 Game(s)
 You need $600.00. 
-                            You currently have $600.00 in your bankroll, and $-5614.43 in your profits.
-                            $-5614.43 has been transferred from your profits to your bankroll,
-                            and $4931.83 has been injected into the bankroll
+                            You currently have $600.00 in your bankroll, and $-5348.26 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/6: Brooklyn Nets @ Denver Nuggets
 Result: Loss :(:(:( Loss: $100
@@ -6053,15 +6002,15 @@ Daily Losses: 2 game(s) out of 6.
 ###########
 Overall Daily Performance: $-20.32
 Running Profits/Losses: $-5634.75 
-Bankroll before Replenishment: $-282.60
-Bankroll Replenished: $-282.60
-Amount Injected Overall: $231056.86
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $579.68
+Amount Injected Overall: $13919.50
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 3/13. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-5634.75 in your profits.
                             $-5634.75 has been transferred from your profits to your bankroll,
-                            and $982.60 has been injected into the bankroll
+                            and $120.32 has been injected into the bankroll
 ###########
 Game #1/7: Indiana Pacers @ Detroit Pistons
 Result: Loss :(:(:( Loss: $100
@@ -6096,15 +6045,15 @@ Daily Losses: 3 game(s) out of 7.
 ###########
 Overall Daily Performance: $-98.43
 Running Profits/Losses: $-5733.18 
-Bankroll before Replenishment: $-4252.15
-Bankroll Replenished: $-4252.15
-Amount Injected Overall: $232039.47
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $601.57
+Amount Injected Overall: $14039.81
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 3/14. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-5733.18 in your profits.
                             $-5733.18 has been transferred from your profits to your bankroll,
-                            and $5052.15 has been injected into the bankroll
+                            and $198.43 has been injected into the bankroll
 ###########
 Game #1/8: Detroit Pistons @ Washington Wizards
 Result: Win!!! Payout: $11.11
@@ -6142,15 +6091,15 @@ Daily Losses: 4 game(s) out of 8.
 ###########
 Overall Daily Performance: $-192.90
 Running Profits/Losses: $-5926.08 
-Bankroll before Replenishment: $-281.03
-Bankroll Replenished: $-281.03
-Amount Injected Overall: $237091.62
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $607.10
+Amount Injected Overall: $14238.24
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 3/15. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-5926.08 in your profits.
                             $-5926.08 has been transferred from your profits to your bankroll,
-                            and $981.03 has been injected into the bankroll
+                            and $92.90 has been injected into the bankroll
 ###########
 Game #1/7: Memphis Grizzlies @ Miami Heat
 Result: Win!!! Payout: $54.05
@@ -6185,15 +6134,14 @@ Daily Losses: 1 game(s) out of 7.
 ###########
 Overall Daily Performance: $291.36
 Running Profits/Losses: $-5634.72 
-Bankroll before Replenishment: $-4345.05
-Bankroll Replenished: $-4345.05
-Amount Injected Overall: $238072.65
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $700.00
+Amount Injected Overall: $14331.14
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 3/16. 5 Game(s)
 You need $500.00. 
-                            You currently have $500.00 in your bankroll, and $-5634.72 in your profits.
-                            $-5634.72 has been transferred from your profits to your bankroll,
-                            and $4845.05 has been injected into the bankroll
+                            You currently have $500.00 in your bankroll, and $-5343.35 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/5: Denver Nuggets @ Detroit Pistons
 Result: Win!!! Payout: $6.67
@@ -6222,15 +6170,15 @@ Daily Losses: 2 game(s) out of 5.
 ###########
 Overall Daily Performance: $-124.76
 Running Profits/Losses: $-5759.47 
-Bankroll before Replenishment: $-489.67
-Bankroll Replenished: $-489.67
-Amount Injected Overall: $242917.70
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $375.24
+Amount Injected Overall: $14131.14
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 3/17. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-5759.47 in your profits.
                             $-5759.47 has been transferred from your profits to your bankroll,
-                            and $1289.67 has been injected into the bankroll
+                            and $424.76 has been injected into the bankroll
 ###########
 Game #1/8: Philadelphia 76ers @ Charlotte Hornets
 Result: Win!!! Payout: $20.00
@@ -6268,15 +6216,14 @@ Daily Losses: 2 game(s) out of 8.
 ###########
 Overall Daily Performance: $68.18
 Running Profits/Losses: $-5691.29 
-Bankroll before Replenishment: $-3869.81
-Bankroll Replenished: $-3869.81
-Amount Injected Overall: $244207.37
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $800.00
+Amount Injected Overall: $14555.90
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 3/18. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-5691.29 in your profits.
-                            $-5691.29 has been transferred from your profits to your bankroll,
-                            and $4669.81 has been injected into the bankroll
+                            You currently have $800.00 in your bankroll, and $-5623.11 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/8: Denver Nuggets @ New York Knicks
 Result: Loss :(:(:( Loss: $100
@@ -6314,15 +6261,15 @@ Daily Losses: 5 game(s) out of 8.
 ###########
 Overall Daily Performance: $-377.22
 Running Profits/Losses: $-6068.52 
-Bankroll before Replenishment: $-721.49
-Bankroll Replenished: $-721.49
-Amount Injected Overall: $248877.17
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $422.78
+Amount Injected Overall: $14555.90
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 3/19. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-6068.52 in your profits.
                             $-6068.52 has been transferred from your profits to your bankroll,
-                            and $1521.49 has been injected into the bankroll
+                            and $377.22 has been injected into the bankroll
 ###########
 Game #1/8: Denver Nuggets @ Brooklyn Nets
 Result: Win!!! Payout: $66.67
@@ -6360,15 +6307,14 @@ Daily Losses: 2 game(s) out of 8.
 ###########
 Overall Daily Performance: $57.50
 Running Profits/Losses: $-6011.02 
-Bankroll before Replenishment: $-3947.03
-Bankroll Replenished: $-3947.03
-Amount Injected Overall: $250398.66
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $800.00
+Amount Injected Overall: $14933.12
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 3/20. 6 Game(s)
 You need $600.00. 
-                            You currently have $600.00 in your bankroll, and $-6011.02 in your profits.
-                            $-6011.02 has been transferred from your profits to your bankroll,
-                            and $4547.03 has been injected into the bankroll
+                            You currently have $600.00 in your bankroll, and $-5953.51 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/6: Chicago Bulls @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -6400,15 +6346,15 @@ Daily Losses: 4 game(s) out of 6.
 ###########
 Overall Daily Performance: $-329.29
 Running Profits/Losses: $-6340.31 
-Bankroll before Replenishment: $-1263.99
-Bankroll Replenished: $-1263.99
-Amount Injected Overall: $254945.69
+Bankroll before Replenishment: $200.00
+Bankroll Replenished: $270.71
+Amount Injected Overall: $14733.12
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 3/21. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-6340.31 in your profits.
                             $-6340.31 has been transferred from your profits to your bankroll,
-                            and $1863.99 has been injected into the bankroll
+                            and $329.29 has been injected into the bankroll
 ###########
 Game #1/6: Washington Wizards @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -6440,15 +6386,15 @@ Daily Losses: 2 game(s) out of 6.
 ###########
 Overall Daily Performance: $-67.38
 Running Profits/Losses: $-6407.69 
-Bankroll before Replenishment: $-4076.32
-Bankroll Replenished: $-4076.32
-Amount Injected Overall: $256809.68
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $532.62
+Amount Injected Overall: $15062.41
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 3/22. 10 Game(s)
 You need $1000.00. 
                             You currently have $1000.00 in your bankroll, and $-6407.69 in your profits.
                             $-6407.69 has been transferred from your profits to your bankroll,
-                            and $5076.32 has been injected into the bankroll
+                            and $467.38 has been injected into the bankroll
 ###########
 Game #1/10: Denver Nuggets @ Washington Wizards
 Result: Win!!! Payout: $26.67
@@ -6492,15 +6438,14 @@ Daily Losses: 2 game(s) out of 10.
 ###########
 Overall Daily Performance: $217.30
 Running Profits/Losses: $-6190.39 
-Bankroll before Replenishment: $-531.37
-Bankroll Replenished: $-531.37
-Amount Injected Overall: $261886.00
+Bankroll before Replenishment: $800.00
+Bankroll Replenished: $1000.00
+Amount Injected Overall: $15529.80
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 3/23. 4 Game(s)
 You need $400.00. 
-                            You currently have $400.00 in your bankroll, and $-6190.39 in your profits.
-                            $-6190.39 has been transferred from your profits to your bankroll,
-                            and $931.37 has been injected into the bankroll
+                            You currently have $400.00 in your bankroll, and $-5973.09 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/4: New York Knicks @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -6526,15 +6471,15 @@ Daily Losses: 1 game(s) out of 4.
 ###########
 Overall Daily Performance: $32.83
 Running Profits/Losses: $-6157.56 
-Bankroll before Replenishment: $-4959.02
-Bankroll Replenished: $-4959.02
-Amount Injected Overall: $262817.37
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $400.00
+Amount Injected Overall: $14929.80
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 3/24. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-6157.56 in your profits.
-                            $-6157.56 has been transferred from your profits to your bankroll,
-                            and $5959.02 has been injected into the bankroll
+                            You currently have $1000.00 in your bankroll, and $-6124.73 in your profits.
+                            $-6124.73 has been transferred from your profits to your bankroll,
+                            and $600.00 has been injected into the bankroll
 ###########
 Game #1/10: San Antonio Spurs @ Washington Wizards
 Result: Win!!! Payout: $26.67
@@ -6578,13 +6523,13 @@ Daily Losses: 1 game(s) out of 10.
 ###########
 Overall Daily Performance: $195.31
 Running Profits/Losses: $-5962.25 
-Bankroll before Replenishment: $701.46
-Bankroll Replenished: $701.46
-Amount Injected Overall: $268776.38
+Bankroll before Replenishment: $900.00
+Bankroll Replenished: $1000.00
+Amount Injected Overall: $15529.80
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 3/25. 6 Game(s)
 You need $600.00. 
-                            You currently have $600.00 in your bankroll, and $-5962.25 in your profits.
+                            You currently have $600.00 in your bankroll, and $-5766.95 in your profits.
                             $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/6: Indiana Pacers @ Atlanta Hawks
@@ -6618,14 +6563,14 @@ Daily Losses: 3 game(s) out of 6.
 Overall Daily Performance: $-195.28
 Running Profits/Losses: $-6157.53 
 Bankroll before Replenishment: $300.00
-Bankroll Replenished: $300.00
-Amount Injected Overall: $268674.93
+Bankroll Replenished: $404.72
+Amount Injected Overall: $15129.80
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 3/26. 9 Game(s)
 You need $900.00. 
                             You currently have $900.00 in your bankroll, and $-6157.53 in your profits.
                             $-6157.53 has been transferred from your profits to your bankroll,
-                            and $600.00 has been injected into the bankroll
+                            and $495.28 has been injected into the bankroll
 ###########
 Game #1/9: Dallas Mavericks @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -6666,15 +6611,15 @@ Daily Losses: 4 game(s) out of 9.
 ###########
 Overall Daily Performance: $-274.47
 Running Profits/Losses: $-6432.00 
-Bankroll before Replenishment: $-5057.53
-Bankroll Replenished: $-5057.53
-Amount Injected Overall: $269274.93
+Bankroll before Replenishment: $500.00
+Bankroll Replenished: $625.53
+Amount Injected Overall: $15625.07
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 3/27. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-6432.00 in your profits.
                             $-6432.00 has been transferred from your profits to your bankroll,
-                            and $5857.53 has been injected into the bankroll
+                            and $174.47 has been injected into the bankroll
 ###########
 Game #1/8: Dallas Mavericks @ Indiana Pacers
 Result: Win!!! Payout: $35.97
@@ -6712,15 +6657,14 @@ Daily Losses: 1 game(s) out of 8.
 ###########
 Overall Daily Performance: $108.53
 Running Profits/Losses: $-6323.47 
-Bankroll before Replenishment: $125.53
-Bankroll Replenished: $125.53
-Amount Injected Overall: $275132.46
+Bankroll before Replenishment: $700.00
+Bankroll Replenished: $800.00
+Amount Injected Overall: $15799.55
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 3/28. 6 Game(s)
 You need $600.00. 
-                            You currently have $600.00 in your bankroll, and $-6323.47 in your profits.
-                            $-6323.47 has been transferred from your profits to your bankroll,
-                            and $474.47 has been injected into the bankroll
+                            You currently have $600.00 in your bankroll, and $-6214.94 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/6: Boston Celtics @ Washington Wizards
 Result: Loss :(:(:( Loss: $100
@@ -6752,15 +6696,15 @@ Daily Losses: 2 game(s) out of 6.
 ###########
 Overall Daily Performance: $-25.00
 Running Profits/Losses: $-6348.47 
-Bankroll before Replenishment: $-5449.00
-Bankroll Replenished: $-5449.00
-Amount Injected Overall: $275606.93
+Bankroll before Replenishment: $400.00
+Bankroll Replenished: $575.00
+Amount Injected Overall: $15599.55
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 3/29. 10 Game(s)
 You need $1000.00. 
                             You currently have $1000.00 in your bankroll, and $-6348.47 in your profits.
                             $-6348.47 has been transferred from your profits to your bankroll,
-                            and $6449.00 has been injected into the bankroll
+                            and $425.00 has been injected into the bankroll
 ###########
 Game #1/10: Milwaukee Bucks @ Indiana Pacers
 Result: Win!!! Payout: $14.29
@@ -6804,13 +6748,13 @@ Daily Losses: 1 game(s) out of 10.
 ###########
 Overall Daily Performance: $229.89
 Running Profits/Losses: $-6118.58 
-Bankroll before Replenishment: $1000.53
-Bankroll Replenished: $1000.53
-Amount Injected Overall: $282055.93
+Bankroll before Replenishment: $900.00
+Bankroll Replenished: $1000.00
+Amount Injected Overall: $16024.55
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 3/30. 2 Game(s)
 You need $200.00. 
-                            You currently have $200.00 in your bankroll, and $-6118.58 in your profits.
+                            You currently have $200.00 in your bankroll, and $-5888.69 in your profits.
                             $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/2: Boston Celtics @ Milwaukee Bucks
@@ -6833,7 +6777,7 @@ Overall Daily Performance: $-200.00
 Running Profits/Losses: $-6318.58 
 Bankroll before Replenishment: $0.00
 Bankroll Replenished: $0.00
-Amount Injected Overall: $281255.40
+Amount Injected Overall: $15224.55
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 3/31. 13 Game(s)
 You need $1300.00. 
@@ -6892,15 +6836,14 @@ Daily Losses: 3 game(s) out of 13.
 ###########
 Overall Daily Performance: $31.24
 Running Profits/Losses: $-6287.34 
-Bankroll before Replenishment: $-4018.58
-Bankroll Replenished: $-4018.58
-Amount Injected Overall: $282555.40
+Bankroll before Replenishment: $1000.00
+Bankroll Replenished: $1300.00
+Amount Injected Overall: $16524.55
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 4/1. 2 Game(s)
 You need $200.00. 
-                            You currently have $200.00 in your bankroll, and $-6287.34 in your profits.
-                            $-6287.34 has been transferred from your profits to your bankroll,
-                            and $4218.58 has been injected into the bankroll
+                            You currently have $200.00 in your bankroll, and $-6256.11 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/2: Dallas Mavericks @ Miami Heat
 Result: Loss :(:(:( Loss: $100
@@ -6920,15 +6863,15 @@ Daily Losses: 1 game(s) out of 2.
 ###########
 Overall Daily Performance: $-45.95
 Running Profits/Losses: $-6333.29 
-Bankroll before Replenishment: $-1968.76
-Bankroll Replenished: $-1968.76
-Amount Injected Overall: $286773.98
+Bankroll before Replenishment: $100.00
+Bankroll Replenished: $154.05
+Amount Injected Overall: $15424.55
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 4/2. 13 Game(s)
 You need $1300.00. 
                             You currently have $1300.00 in your bankroll, and $-6333.29 in your profits.
                             $-6333.29 has been transferred from your profits to your bankroll,
-                            and $3268.76 has been injected into the bankroll
+                            and $1145.95 has been injected into the bankroll
 ###########
 Game #1/13: Toronto Raptors @ Charlotte Hornets
 Result: Win!!! Payout: $6.67
@@ -6981,15 +6924,15 @@ Daily Losses: 4 game(s) out of 13.
 ###########
 Overall Daily Performance: $-135.12
 Running Profits/Losses: $-6468.41 
-Bankroll before Replenishment: $-2164.53
-Bankroll Replenished: $-2164.53
-Amount Injected Overall: $290042.75
+Bankroll before Replenishment: $900.00
+Bankroll Replenished: $1164.88
+Amount Injected Overall: $16570.49
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 4/4. 13 Game(s)
 You need $1300.00. 
                             You currently have $1300.00 in your bankroll, and $-6468.41 in your profits.
                             $-6468.41 has been transferred from your profits to your bankroll,
-                            and $3464.53 has been injected into the bankroll
+                            and $135.12 has been injected into the bankroll
 ###########
 Game #1/13: Cleveland Cavaliers @ Orlando Magic
 Result: Win!!! Payout: $60.61
@@ -7042,15 +6985,14 @@ Daily Losses: 3 game(s) out of 13.
 ###########
 Overall Daily Performance: $-32.25
 Running Profits/Losses: $-6500.66 
-Bankroll before Replenishment: $-2003.88
-Bankroll Replenished: $-2003.88
-Amount Injected Overall: $293507.27
+Bankroll before Replenishment: $1000.00
+Bankroll Replenished: $1267.75
+Amount Injected Overall: $16705.61
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 4/5. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-6500.66 in your profits.
-                            $-6500.66 has been transferred from your profits to your bankroll,
-                            and $2803.88 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/8: Brooklyn Nets @ Detroit Pistons
 Result: Win!!! Payout: $16.39
@@ -7088,15 +7030,14 @@ Daily Losses: 2 game(s) out of 8.
 ###########
 Overall Daily Performance: $7.06
 Running Profits/Losses: $-6493.60 
-Bankroll before Replenishment: $-3096.78
-Bankroll Replenished: $-3096.78
-Amount Injected Overall: $296311.16
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $800.00
+Amount Injected Overall: $16237.86
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 4/6. 5 Game(s)
 You need $500.00. 
-                            You currently have $500.00 in your bankroll, and $-6493.60 in your profits.
-                            $-6493.60 has been transferred from your profits to your bankroll,
-                            and $3596.78 has been injected into the bankroll
+                            You currently have $500.00 in your bankroll, and $-6486.54 in your profits.
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/5: Cleveland Cavaliers @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -7125,15 +7066,15 @@ Daily Losses: 2 game(s) out of 5.
 ###########
 Overall Daily Performance: $-111.74
 Running Profits/Losses: $-6605.34 
-Bankroll before Replenishment: $-2596.82
-Bankroll Replenished: $-2596.82
-Amount Injected Overall: $299907.94
+Bankroll before Replenishment: $300.00
+Bankroll Replenished: $388.26
+Amount Injected Overall: $15937.86
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 4/7. 11 Game(s)
 You need $1100.00. 
                             You currently have $1100.00 in your bankroll, and $-6605.34 in your profits.
                             $-6605.34 has been transferred from your profits to your bankroll,
-                            and $3696.82 has been injected into the bankroll
+                            and $711.74 has been injected into the bankroll
 ###########
 Game #1/11: Houston Rockets @ Charlotte Hornets
 Result: Win!!! Payout: $50.00
@@ -7180,15 +7121,14 @@ Daily Losses: 5 game(s) out of 11.
 ###########
 Overall Daily Performance: $-339.20
 Running Profits/Losses: $-6944.54 
-Bankroll before Replenishment: $-2308.52
-Bankroll Replenished: $-2308.52
-Amount Injected Overall: $303604.76
+Bankroll before Replenishment: $600.00
+Bankroll Replenished: $760.80
+Amount Injected Overall: $16649.61
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 4/8. 3 Game(s)
 You need $300.00. 
                             You currently have $300.00 in your bankroll, and $-6944.54 in your profits.
-                            $-6944.54 has been transferred from your profits to your bankroll,
-                            and $2608.52 has been injected into the bankroll
+                            $0.00 has been transferred from your profits to your bankroll
 ###########
 Game #1/3: Denver Nuggets @ Utah Jazz
 Result: Loss :(:(:( Loss: $100
@@ -7211,15 +7151,15 @@ Daily Losses: 1 game(s) out of 3.
 ###########
 Overall Daily Performance: $-88.33
 Running Profits/Losses: $-7032.87 
-Bankroll before Replenishment: $-4136.02
-Bankroll Replenished: $-4136.02
-Amount Injected Overall: $306213.28
+Bankroll before Replenishment: $200.00
+Bankroll Replenished: $211.67
+Amount Injected Overall: $16188.80
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 4/9. 15 Game(s)
 You need $1500.00. 
                             You currently have $1500.00 in your bankroll, and $-7032.87 in your profits.
                             $-7032.87 has been transferred from your profits to your bankroll,
-                            and $5636.02 has been injected into the bankroll
+                            and $1288.33 has been injected into the bankroll
 ###########
 Game #1/15: Philadelphia 76ers @ Brooklyn Nets
 Result: Win!!! Payout: $-100.00
@@ -7278,7 +7218,7 @@ Daily Losses: 4 game(s) out of 15.
 ###########
 Overall Daily Performance: $-73.01
 Running Profits/Losses: $-7105.88 
-Bankroll before Replenishment: $-296.86
-Bankroll Replenished: $-296.86
-Amount Injected Overall: $311849.29
+Bankroll before Replenishment: $1100.00
+Bankroll Replenished: $1426.99
+Amount Injected Overall: $17477.14
 --------------------------------------------------------------------------------------------------------

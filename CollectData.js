@@ -9,6 +9,7 @@ import buildGameDayResults from "./CollectDataFunctions/BuildGameDayResults.js";
 import updateTeamTracker from "./CollectDataFunctions/updateTeamTracker.js";
 import writeFiles from "./CollectDataFunctions/WriteFiles.js";
 import skipDates from "./CollectDataFunctions/SkipDates.js";
+
 export default async function collectData(){
 
     // Start Puppeteer Session and get starting and ending dates for a given season. (In the future, this will go in a for loop)

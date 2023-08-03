@@ -203,7 +203,7 @@ export default async function buildGameDayResults(page, gameDay, currentDate) {
                                 gameDay.sameDayGames[i].results.moneyline = {
                                     'winner': 'A',
                                     'result': 'Fav',
-                                    'payout': gameDay.sameDayGames[i].prediction.homeML
+                                    'payout': gameDay.sameDayGames[i].prediction.awayML
                                 }
                             }
                         }

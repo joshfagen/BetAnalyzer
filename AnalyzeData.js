@@ -51,8 +51,6 @@ export default async function analyzeData(){
                             You currently have $${bankroll.toFixed(2)} in your bankroll, and $${profits.toFixed(2)} in your profits.
                             $${profits.toFixed(2)} has been transferred from your profits to your bankroll,
                             and $${amountInjectedDaily.toFixed(2)} has been injected into the bankroll`
-                bankroll += profits + amountInjectedDaily
-                profits = 0
             }  else {
                 textFile += `You need $${amountNeeded.toFixed(2)}. 
                             You currently have $${bankroll.toFixed(2)} in your bankroll, and $${profits.toFixed(2)} in your profits.

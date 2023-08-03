@@ -113,6 +113,15 @@ export default async function analyzeData(){
             textFile += `Bankroll before Replenishment: $${bankroll.toFixed(2)}`
             textFile += '\n'
             // Replenish Bankroll??
+            if(dailyLosses > 0 && profits > 0){
+                if(profits > dailyLosses) {
+                    bankroll += dailyLosses
+                    profits -= dailyLosses
+                } else {
+                    bankroll += profits
+                    profits = 0
+                }
+            }
             textFile += `Bankroll Replenished: $${bankroll.toFixed(2)}`
             textFile += '\n'
             textFile += `Amount Injected Overall: $${amountInjectedTotal.toFixed(2)}`

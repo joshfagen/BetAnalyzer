@@ -1,9 +1,9 @@
 --------------------------------------------------------------------------------------------------------
 Tuesday: 10/18. 2 Game(s)
 You need $200.00. 
-                            You currently have $200.00 in your bankroll, and $0.00 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll,
-                            and $200.00 has been injected into the bankroll
+                    You currently have $0.00 in your bankroll, 
+                    and $0.00 in total returns.
+                    $200.00 has been injected into the bankroll, bringing it to $200.00.
 ###########
 Game #1/2: Philadelphia 76ers @ Boston Celtics
 Result: Win!!! Payout: $62.50
@@ -29,9 +29,10 @@ Amount Injected Overall: $200.00
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 10/19. 12 Game(s)
 You need $1200.00. 
-                            You currently have $1104.17 in your bankroll, and $95.83 in your profits.
-                            $95.83 has been transferred from your profits to your bankroll,
-                            and $904.17 has been injected into the bankroll
+                    You currently have $200.00 in your bankroll
+                    and $95.83 in your profits, making a total of $295.83
+                    $95.83 has been transferred from your profits to your bankroll,
+                    and $904.17 has been injected into the bankroll, bringing it to $1200.00.
 ###########
 Game #1/12: Washington Wizards @ Indiana Pacers
 Result: Win!!! Payout: $71.43
@@ -88,7 +89,8 @@ Amount Injected Overall: $1104.17
 Thursday: 10/20. 2 Game(s)
 You need $200.00. 
                             You currently have $1104.17 in your bankroll, and $169.74 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $1273.91
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $1104.17
 ###########
 Game #1/2: Milwaukee Bucks @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -115,7 +117,8 @@ Amount Injected Overall: $1104.17
 Friday: 10/21. 11 Game(s)
 You need $1100.00. 
                             You currently have $1104.17 in your bankroll, and $35.35 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $1139.52
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $1104.17
 ###########
 Game #1/11: San Antonio Spurs @ Indiana Pacers
 Result: Loss :(:(:( Loss: $100
@@ -169,7 +172,8 @@ Amount Injected Overall: $1104.17
 Saturday: 10/22. 9 Game(s)
 You need $900.00. 
                             You currently have $1104.17 in your bankroll, and $5.95 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $1110.12
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $1104.17
 ###########
 Game #1/9: San Antonio Spurs @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -217,7 +221,8 @@ Amount Injected Overall: $1104.17
 Sunday: 10/23. 7 Game(s)
 You need $700.00. 
                             You currently have $1104.17 in your bankroll, and $294.68 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $1398.84
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $1104.17
 ###########
 Game #1/7: Portland Trail Blazers @ Los Angeles Lakers
 Result: Loss :(:(:( Loss: $100
@@ -259,7 +264,8 @@ Amount Injected Overall: $1104.17
 Monday: 10/24. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $0.00 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $800.00
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $800.00
 ###########
 Game #1/8: Indiana Pacers @ Philadelphia 76ers
 Result: Win!!! Payout: $13.33
@@ -303,9 +309,9 @@ Amount Injected Overall: $825.81
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 10/25. 5 Game(s)
 You need $500.00. 
-                            You currently have $500.00 in your bankroll, and $-478.93 in your profits.
-                            $-478.93 has been transferred from your profits to your bankroll,
-                            and $250.95 has been injected into the bankroll
+                    You currently have $249.05 in your bankroll, 
+                    and $-478.93 in total returns.
+                    $250.95 has been injected into the bankroll, bringing it to $500.00.
 ###########
 Game #1/5: Detroit Pistons @ Washington Wizards
 Result: Win!!! Payout: $46.51
@@ -340,9 +346,9 @@ Amount Injected Overall: $1076.76
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 10/26. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-665.76 in your profits.
-                            $-665.76 has been transferred from your profits to your bankroll,
-                            and $686.82 has been injected into the bankroll
+                    You currently have $313.18 in your bankroll, 
+                    and $-665.76 in total returns.
+                    $686.82 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: Atlanta Hawks @ Detroit Pistons
 Result: Win!!! Payout: $31.15
@@ -393,7 +399,8 @@ Amount Injected Overall: $1763.58
 Thursday: 10/27. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-143.56 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $256.44
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $400.00
 ###########
 Game #1/4: Dallas Mavericks @ Brooklyn Nets
 Result: Win!!! Payout: $66.67
@@ -425,9 +432,9 @@ Amount Injected Overall: $1163.58
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 10/28. 11 Game(s)
 You need $1100.00. 
-                            You currently have $1100.00 in your bankroll, and $-236.46 in your profits.
-                            $-236.46 has been transferred from your profits to your bankroll,
-                            and $700.00 has been injected into the bankroll
+                    You currently have $400.00 in your bankroll, 
+                    and $-236.46 in total returns.
+                    $700.00 has been injected into the bankroll, bringing it to $1100.00.
 ###########
 Game #1/11: Atlanta Hawks @ Detroit Pistons
 Result: Win!!! Payout: $45.45
@@ -481,7 +488,8 @@ Amount Injected Overall: $1863.58
 Saturday: 10/29. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-586.97 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $113.03
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $700.00
 ###########
 Game #1/7: Miami Heat @ Sacramento Kings
 Result: Loss :(:(:( Loss: $100
@@ -522,9 +530,9 @@ Amount Injected Overall: $1730.00
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 10/30. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-967.41 in your profits.
-                            $-967.41 has been transferred from your profits to your bankroll,
-                            and $480.44 has been injected into the bankroll
+                    You currently have $319.56 in your bankroll, 
+                    and $-967.41 in total returns.
+                    $480.44 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: New Orleans Pelicans @ Los Angeles Clippers
 Result: Loss :(:(:( Loss: $100
@@ -568,9 +576,9 @@ Amount Injected Overall: $2210.44
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 10/31. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-1249.09 in your profits.
-                            $-1249.09 has been transferred from your profits to your bankroll,
-                            and $181.68 has been injected into the bankroll
+                    You currently have $518.32 in your bankroll, 
+                    and $-1249.09 in total returns.
+                    $181.68 has been injected into the bankroll, bringing it to $700.00.
 ###########
 Game #1/7: Sacramento Kings @ Charlotte Hornets
 Result: Win!!! Payout: $63.69
@@ -612,7 +620,8 @@ Amount Injected Overall: $2392.12
 Tuesday: 11/1. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-899.41 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-499.41
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $400.00
 ###########
 Game #1/4: Chicago Bulls @ Brooklyn Nets
 Result: Loss :(:(:( Loss: $100
@@ -644,9 +653,9 @@ Amount Injected Overall: $2092.12
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 11/2. 11 Game(s)
 You need $1100.00. 
-                            You currently have $1100.00 in your bankroll, and $-1149.91 in your profits.
-                            $-1149.91 has been transferred from your profits to your bankroll,
-                            and $775.66 has been injected into the bankroll
+                    You currently have $324.34 in your bankroll, 
+                    and $-1149.91 in total returns.
+                    $775.66 has been injected into the bankroll, bringing it to $1100.00.
 ###########
 Game #1/11: Washington Wizards @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -700,7 +709,8 @@ Amount Injected Overall: $2867.78
 Thursday: 11/3. 2 Game(s)
 You need $200.00. 
                             You currently have $200.00 in your bankroll, and $-1267.08 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-1067.08
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $200.00
 ###########
 Game #1/2: Golden State Warriors @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -726,9 +736,9 @@ Amount Injected Overall: $2084.95
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 11/4. 12 Game(s)
 You need $1200.00. 
-                            You currently have $1200.00 in your bankroll, and $-1328.17 in your profits.
-                            $-1328.17 has been transferred from your profits to your bankroll,
-                            and $1061.09 has been injected into the bankroll
+                    You currently have $138.91 in your bankroll, 
+                    and $-1328.17 in total returns.
+                    $1061.09 has been injected into the bankroll, bringing it to $1200.00.
 ###########
 Game #1/12: New York Knicks @ Philadelphia 76ers
 Result: Win!!! Payout: $95.24
@@ -785,7 +795,8 @@ Amount Injected Overall: $3146.04
 Saturday: 11/5. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-1275.91 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-475.91
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $800.00
 ###########
 Game #1/8: Sacramento Kings @ Orlando Magic
 Result: Win!!! Payout: $52.91
@@ -830,7 +841,8 @@ Amount Injected Overall: $2746.04
 Sunday: 11/6. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-937.70 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-537.70
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $400.00
 ###########
 Game #1/4: Cleveland Cavaliers @ Los Angeles Lakers
 Result: Win!!! Payout: $45.45
@@ -862,9 +874,9 @@ Amount Injected Overall: $2346.04
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 11/7. 15 Game(s)
 You need $1500.00. 
-                            You currently have $1500.00 in your bankroll, and $-883.16 in your profits.
-                            $-883.16 has been transferred from your profits to your bankroll,
-                            and $1100.00 has been injected into the bankroll
+                    You currently have $400.00 in your bankroll, 
+                    and $-883.16 in total returns.
+                    $1100.00 has been injected into the bankroll, bringing it to $1500.00.
 ###########
 Game #1/15: Washington Wizards @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -929,9 +941,9 @@ Amount Injected Overall: $3446.04
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 11/9. 13 Game(s)
 You need $1300.00. 
-                            You currently have $1300.00 in your bankroll, and $-1540.35 in your profits.
-                            $-1540.35 has been transferred from your profits to your bankroll,
-                            and $429.92 has been injected into the bankroll
+                    You currently have $870.08 in your bankroll, 
+                    and $-1540.35 in total returns.
+                    $429.92 has been injected into the bankroll, bringing it to $1300.00.
 ###########
 Game #1/13: Dallas Mavericks @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -991,7 +1003,8 @@ Amount Injected Overall: $3875.96
 Thursday: 11/10. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-1339.11 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-939.11
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $400.00
 ###########
 Game #1/4: Dallas Mavericks @ Washington Wizards
 Result: Loss :(:(:( Loss: $100
@@ -1023,9 +1036,9 @@ Amount Injected Overall: $2975.96
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 11/11. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-1720.83 in your profits.
-                            $-1720.83 has been transferred from your profits to your bankroll,
-                            and $681.10 has been injected into the bankroll
+                    You currently have $118.90 in your bankroll, 
+                    and $-1720.83 in total returns.
+                    $681.10 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: Phoenix Suns @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -1070,7 +1083,8 @@ Amount Injected Overall: $3657.05
 Saturday: 11/12. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-1449.38 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-649.38
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $800.00
 ###########
 Game #1/8: Brooklyn Nets @ Los Angeles Clippers
 Result: Loss :(:(:( Loss: $100
@@ -1115,7 +1129,8 @@ Amount Injected Overall: $3657.05
 Sunday: 11/13. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-1499.84 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-799.84
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $700.00
 ###########
 Game #1/7: Oklahoma City Thunder @ New York Knicks
 Result: Loss :(:(:( Loss: $100
@@ -1157,7 +1172,8 @@ Amount Injected Overall: $3557.05
 Monday: 11/14. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-1502.83 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-802.83
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $700.00
 ###########
 Game #1/7: Toronto Raptors @ Detroit Pistons
 Result: Win!!! Payout: $54.95
@@ -1199,7 +1215,8 @@ Amount Injected Overall: $3557.05
 Tuesday: 11/15. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-1129.91 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-629.91
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $500.00
 ###########
 Game #1/5: Memphis Grizzlies @ New Orleans Pelicans
 Result: Loss :(:(:( Loss: $100
@@ -1234,9 +1251,9 @@ Amount Injected Overall: $3357.05
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 11/16. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-1382.69 in your profits.
-                            $-1382.69 has been transferred from your profits to your bankroll,
-                            and $556.41 has been injected into the bankroll
+                    You currently have $443.59 in your bankroll, 
+                    and $-1382.69 in total returns.
+                    $556.41 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: Minnesota Timberwolves @ Orlando Magic
 Result: Win!!! Payout: $30.30
@@ -1287,7 +1304,8 @@ Amount Injected Overall: $3913.46
 Thursday: 11/17. 3 Game(s)
 You need $300.00. 
                             You currently have $300.00 in your bankroll, and $-1539.88 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-1239.88
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $300.00
 ###########
 Game #1/3: San Antonio Spurs @ Sacramento Kings
 Result: Win!!! Payout: $31.15
@@ -1316,9 +1334,9 @@ Amount Injected Overall: $3370.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 11/18. 11 Game(s)
 You need $1100.00. 
-                            You currently have $1100.00 in your bankroll, and $-1590.55 in your profits.
-                            $-1590.55 has been transferred from your profits to your bankroll,
-                            and $850.67 has been injected into the bankroll
+                    You currently have $249.33 in your bankroll, 
+                    and $-1590.55 in total returns.
+                    $850.67 has been injected into the bankroll, bringing it to $1100.00.
 ###########
 Game #1/11: Miami Heat @ Washington Wizards
 Result: Win!!! Payout: $30.58
@@ -1372,7 +1390,8 @@ Amount Injected Overall: $4221.32
 Saturday: 11/19. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-1572.24 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-1072.24
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $500.00
 ###########
 Game #1/5: Toronto Raptors @ Atlanta Hawks
 Result: Win!!! Payout: $47.62
@@ -1407,9 +1426,9 @@ Amount Injected Overall: $3621.32
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 11/20. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-1441.39 in your profits.
-                            $-1441.39 has been transferred from your profits to your bankroll,
-                            and $300.00 has been injected into the bankroll
+                    You currently have $500.00 in your bankroll, 
+                    and $-1441.39 in total returns.
+                    $300.00 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: New York Knicks @ Phoenix Suns
 Result: Win!!! Payout: $41.67
@@ -1454,7 +1473,8 @@ Amount Injected Overall: $3921.32
 Monday: 11/21. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-1220.84 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-420.84
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $800.00
 ###########
 Game #1/8: Atlanta Hawks @ Cleveland Cavaliers
 Result: Win!!! Payout: $62.89
@@ -1499,7 +1519,8 @@ Amount Injected Overall: $3921.32
 Tuesday: 11/22. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-1289.78 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-889.78
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $400.00
 ###########
 Game #1/4: Brooklyn Nets @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -1531,9 +1552,9 @@ Amount Injected Overall: $3521.32
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 11/23. 12 Game(s)
 You need $1200.00. 
-                            You currently have $1200.00 in your bankroll, and $-1604.96 in your profits.
-                            $-1604.96 has been transferred from your profits to your bankroll,
-                            and $1077.01 has been injected into the bankroll
+                    You currently have $122.99 in your bankroll, 
+                    and $-1604.96 in total returns.
+                    $1077.01 has been injected into the bankroll, bringing it to $1200.00.
 ###########
 Game #1/12: Minnesota Timberwolves @ Indiana Pacers
 Result: Win!!! Payout: $76.92
@@ -1589,9 +1610,9 @@ Amount Injected Overall: $4598.33
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 11/25. 14 Game(s)
 You need $1400.00. 
-                            You currently have $1400.00 in your bankroll, and $-936.05 in your profits.
-                            $-936.05 has been transferred from your profits to your bankroll,
-                            and $200.00 has been injected into the bankroll
+                    You currently have $1200.00 in your bankroll, 
+                    and $-936.05 in total returns.
+                    $200.00 has been injected into the bankroll, bringing it to $1400.00.
 ###########
 Game #1/14: Minnesota Timberwolves @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -1654,7 +1675,8 @@ Amount Injected Overall: $4798.33
 Saturday: 11/26. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-1467.80 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-1067.80
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $400.00
 ###########
 Game #1/4: Dallas Mavericks @ Toronto Raptors
 Result: Loss :(:(:( Loss: $100
@@ -1686,9 +1708,9 @@ Amount Injected Overall: $3995.63
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 11/27. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-1526.66 in your profits.
-                            $-1526.66 has been transferred from your profits to your bankroll,
-                            and $558.86 has been injected into the bankroll
+                    You currently have $341.14 in your bankroll, 
+                    and $-1526.66 in total returns.
+                    $558.86 has been injected into the bankroll, bringing it to $900.00.
 ###########
 Game #1/9: Portland Trail Blazers @ Brooklyn Nets
 Result: Win!!! Payout: $32.26
@@ -1735,9 +1757,9 @@ Amount Injected Overall: $4554.49
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 11/28. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-1144.14 in your profits.
-                            $-1144.14 has been transferred from your profits to your bankroll,
-                            and $100.00 has been injected into the bankroll
+                    You currently have $900.00 in your bankroll, 
+                    and $-1144.14 in total returns.
+                    $100.00 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: Atlanta Hawks @ Philadelphia 76ers
 Result: Win!!! Payout: $74.07
@@ -1788,7 +1810,8 @@ Amount Injected Overall: $4654.49
 Tuesday: 11/29. 3 Game(s)
 You need $300.00. 
                             You currently have $300.00 in your bankroll, and $-1313.50 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-1013.50
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $300.00
 ###########
 Game #1/3: New York Knicks @ Detroit Pistons
 Result: Win!!! Payout: $52.63
@@ -1817,9 +1840,9 @@ Amount Injected Overall: $3954.49
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 11/30. 13 Game(s)
 You need $1300.00. 
-                            You currently have $1300.00 in your bankroll, and $-1471.82 in your profits.
-                            $-1471.82 has been transferred from your profits to your bankroll,
-                            and $1147.37 has been injected into the bankroll
+                    You currently have $152.63 in your bankroll, 
+                    and $-1471.82 in total returns.
+                    $1147.37 has been injected into the bankroll, bringing it to $1300.00.
 ###########
 Game #1/13: Philadelphia 76ers @ Cleveland Cavaliers
 Result: Win!!! Payout: $61.73
@@ -1879,7 +1902,8 @@ Amount Injected Overall: $5101.86
 Thursday: 12/1. 1 Game(s)
 You need $100.00. 
                             You currently have $100.00 in your bankroll, and $-907.68 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-807.68
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $100.00
 ###########
 Game #1/1: Dallas Mavericks @ Detroit Pistons
 Result: Loss :(:(:( Loss: $100
@@ -1902,9 +1926,9 @@ Amount Injected Overall: $3901.86
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 12/2. 11 Game(s)
 You need $1100.00. 
-                            You currently have $1100.00 in your bankroll, and $-1289.75 in your profits.
-                            $-1289.75 has been transferred from your profits to your bankroll,
-                            and $1100.00 has been injected into the bankroll
+                    You currently have $0.00 in your bankroll, 
+                    and $-1289.75 in total returns.
+                    $1100.00 has been injected into the bankroll, bringing it to $1100.00.
 ###########
 Game #1/11: Washington Wizards @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -1958,7 +1982,8 @@ Amount Injected Overall: $5001.86
 Saturday: 12/3. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-1515.80 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-815.80
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $700.00
 ###########
 Game #1/7: Dallas Mavericks @ New York Knicks
 Result: Win!!! Payout: $83.33
@@ -1999,9 +2024,9 @@ Amount Injected Overall: $4827.91
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 12/4. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-1402.04 in your profits.
-                            $-1402.04 has been transferred from your profits to your bankroll,
-                            and $100.00 has been injected into the bankroll
+                    You currently have $700.00 in your bankroll, 
+                    and $-1402.04 in total returns.
+                    $100.00 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: Denver Nuggets @ New Orleans Pelicans
 Result: Win!!! Payout: $74.07
@@ -2046,7 +2071,8 @@ Amount Injected Overall: $4927.91
 Monday: 12/5. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-1216.23 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-416.23
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $800.00
 ###########
 Game #1/8: Milwaukee Bucks @ Orlando Magic
 Result: Win!!! Payout: $18.18
@@ -2091,7 +2117,8 @@ Amount Injected Overall: $4927.91
 Tuesday: 12/6. 3 Game(s)
 You need $300.00. 
                             You currently have $300.00 in your bankroll, and $-1714.88 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-1414.88
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $300.00
 ###########
 Game #1/3: Los Angeles Lakers @ Cleveland Cavaliers
 Result: Win!!! Payout: $45.45
@@ -2120,9 +2147,9 @@ Amount Injected Overall: $4805.21
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 12/7. 11 Game(s)
 You need $1100.00. 
-                            You currently have $1100.00 in your bankroll, and $-1869.42 in your profits.
-                            $-1869.42 has been transferred from your profits to your bankroll,
-                            and $954.55 has been injected into the bankroll
+                    You currently have $145.45 in your bankroll, 
+                    and $-1869.42 in total returns.
+                    $954.55 has been injected into the bankroll, bringing it to $1100.00.
 ###########
 Game #1/11: Los Angeles Clippers @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -2176,7 +2203,8 @@ Amount Injected Overall: $5759.75
 Thursday: 12/8. 3 Game(s)
 You need $300.00. 
                             You currently have $300.00 in your bankroll, and $-1584.58 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-1284.58
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $300.00
 ###########
 Game #1/3: Los Angeles Clippers @ Miami Heat
 Result: Win!!! Payout: $38.17
@@ -2205,9 +2233,9 @@ Amount Injected Overall: $4959.75
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 12/9. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-1681.17 in your profits.
-                            $-1681.17 has been transferred from your profits to your bankroll,
-                            and $700.00 has been injected into the bankroll
+                    You currently have $300.00 in your bankroll, 
+                    and $-1681.17 in total returns.
+                    $700.00 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: Washington Wizards @ Indiana Pacers
 Result: Win!!! Payout: $57.14
@@ -2258,7 +2286,8 @@ Amount Injected Overall: $5659.75
 Saturday: 12/10. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-1525.87 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-725.87
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $800.00
 ###########
 Game #1/8: San Antonio Spurs @ Miami Heat
 Result: Loss :(:(:( Loss: $100
@@ -2303,7 +2332,8 @@ Amount Injected Overall: $5459.75
 Sunday: 12/11. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-1691.53 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-991.53
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $700.00
 ###########
 Game #1/7: Phoenix Suns @ New Orleans Pelicans
 Result: Win!!! Payout: $55.56
@@ -2345,7 +2375,8 @@ Amount Injected Overall: $5436.30
 Monday: 12/12. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-1585.07 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-885.07
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $700.00
 ###########
 Game #1/7: Brooklyn Nets @ Washington Wizards
 Result: Win!!! Payout: $46.51
@@ -2387,7 +2418,8 @@ Amount Injected Overall: $5436.30
 Tuesday: 12/13. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-1599.84 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-1099.84
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $500.00
 ###########
 Game #1/5: Sacramento Kings @ Philadelphia 76ers
 Result: Win!!! Payout: $60.61
@@ -2422,9 +2454,9 @@ Amount Injected Overall: $5236.30
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 12/14. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-1628.86 in your profits.
-                            $-1628.86 has been transferred from your profits to your bankroll,
-                            and $509.79 has been injected into the bankroll
+                    You currently have $490.21 in your bankroll, 
+                    and $-1628.86 in total returns.
+                    $509.79 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: Golden State Warriors @ Indiana Pacers
 Result: Loss :(:(:( Loss: $100
@@ -2475,7 +2507,8 @@ Amount Injected Overall: $5746.09
 Thursday: 12/15. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-2066.33 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-1666.33
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $400.00
 ###########
 Game #1/4: Miami Heat @ Houston Rockets
 Result: Win!!! Payout: $70.92
@@ -2507,9 +2540,9 @@ Amount Injected Overall: $5583.57
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 12/16. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-1907.50 in your profits.
-                            $-1907.50 has been transferred from your profits to your bankroll,
-                            and $600.00 has been injected into the bankroll
+                    You currently have $400.00 in your bankroll, 
+                    and $-1907.50 in total returns.
+                    $600.00 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: Atlanta Hawks @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -2560,7 +2593,8 @@ Amount Injected Overall: $6183.57
 Saturday: 12/17. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-2249.64 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-1549.64
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $700.00
 ###########
 Game #1/7: Washington Wizards @ Los Angeles Clippers
 Result: Win!!! Payout: $52.63
@@ -2602,7 +2636,8 @@ Amount Injected Overall: $6146.29
 Sunday: 12/18. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-1812.11 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-1112.11
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $700.00
 ###########
 Game #1/7: Orlando Magic @ Boston Celtics
 Result: Loss :(:(:( Loss: $100
@@ -2643,9 +2678,9 @@ Amount Injected Overall: $6146.29
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 12/19. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-2120.32 in your profits.
-                            $-2120.32 has been transferred from your profits to your bankroll,
-                            and $289.44 has been injected into the bankroll
+                    You currently have $610.56 in your bankroll, 
+                    and $-2120.32 in total returns.
+                    $289.44 has been injected into the bankroll, bringing it to $900.00.
 ###########
 Game #1/9: Utah Jazz @ Cleveland Cavaliers
 Result: Win!!! Payout: $37.04
@@ -2693,7 +2728,8 @@ Amount Injected Overall: $6435.73
 Tuesday: 12/20. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-2500.34 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-2000.34
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $500.00
 ###########
 Game #1/5: Utah Jazz @ Detroit Pistons
 Result: Win!!! Payout: $71.43
@@ -2728,9 +2764,9 @@ Amount Injected Overall: $6415.76
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 12/21. 11 Game(s)
 You need $1100.00. 
-                            You currently have $1100.00 in your bankroll, and $-2537.03 in your profits.
-                            $-2537.03 has been transferred from your profits to your bankroll,
-                            and $636.69 has been injected into the bankroll
+                    You currently have $463.31 in your bankroll, 
+                    and $-2537.03 in total returns.
+                    $636.69 has been injected into the bankroll, bringing it to $1100.00.
 ###########
 Game #1/11: Detroit Pistons @ Philadelphia 76ers
 Result: Win!!! Payout: $15.38
@@ -2784,7 +2820,8 @@ Amount Injected Overall: $7052.44
 Thursday: 12/22. 2 Game(s)
 You need $200.00. 
                             You currently have $200.00 in your bankroll, and $-2609.85 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-2409.85
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $200.00
 ###########
 Game #1/2: San Antonio Spurs @ New Orleans Pelicans
 Result: Win!!! Payout: $27.40
@@ -2810,9 +2847,9 @@ Amount Injected Overall: $6225.27
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 12/23. 14 Game(s)
 You need $1400.00. 
-                            You currently have $1400.00 in your bankroll, and $-2546.74 in your profits.
-                            $-2546.74 has been transferred from your profits to your bankroll,
-                            and $1200.00 has been injected into the bankroll
+                    You currently have $200.00 in your bankroll, 
+                    and $-2546.74 in total returns.
+                    $1200.00 has been injected into the bankroll, bringing it to $1400.00.
 ###########
 Game #1/14: Los Angeles Clippers @ Philadelphia 76ers
 Result: Win!!! Payout: $60.98
@@ -2875,7 +2912,8 @@ Amount Injected Overall: $7425.27
 Sunday: 12/25. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-2771.62 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-2271.62
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $500.00
 ###########
 Game #1/5: Philadelphia 76ers @ New York Knicks
 Result: Win!!! Payout: $75.76
@@ -2910,9 +2948,9 @@ Amount Injected Overall: $6750.15
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 12/26. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-2536.83 in your profits.
-                            $-2536.83 has been transferred from your profits to your bankroll,
-                            and $200.00 has been injected into the bankroll
+                    You currently have $500.00 in your bankroll, 
+                    and $-2536.83 in total returns.
+                    $200.00 has been injected into the bankroll, bringing it to $700.00.
 ###########
 Game #1/7: Los Angeles Clippers @ Detroit Pistons
 Result: Win!!! Payout: $50.00
@@ -2953,9 +2991,9 @@ Amount Injected Overall: $6950.15
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 12/27. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-2879.09 in your profits.
-                            $-2879.09 has been transferred from your profits to your bankroll,
-                            and $524.86 has been injected into the bankroll
+                    You currently have $475.14 in your bankroll, 
+                    and $-2879.09 in total returns.
+                    $524.86 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: Los Angeles Lakers @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -3005,9 +3043,9 @@ Amount Injected Overall: $7475.01
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 12/28. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-3172.37 in your profits.
-                            $-3172.37 has been transferred from your profits to your bankroll,
-                            and $93.28 has been injected into the bankroll
+                    You currently have $706.72 in your bankroll, 
+                    and $-3172.37 in total returns.
+                    $93.28 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: Phoenix Suns @ Washington Wizards
 Result: Loss :(:(:( Loss: $100
@@ -3051,9 +3089,9 @@ Amount Injected Overall: $7568.29
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 12/29. 6 Game(s)
 You need $600.00. 
-                            You currently have $600.00 in your bankroll, and $-3401.26 in your profits.
-                            $-3401.26 has been transferred from your profits to your bankroll,
-                            and $28.88 has been injected into the bankroll
+                    You currently have $571.12 in your bankroll, 
+                    and $-3401.26 in total returns.
+                    $28.88 has been injected into the bankroll, bringing it to $600.00.
 ###########
 Game #1/6: Cleveland Cavaliers @ Indiana Pacers
 Result: Loss :(:(:( Loss: $100
@@ -3091,9 +3129,9 @@ Amount Injected Overall: $7597.18
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 12/30. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-3412.25 in your profits.
-                            $-3412.25 has been transferred from your profits to your bankroll,
-                            and $311.00 has been injected into the bankroll
+                    You currently have $589.00 in your bankroll, 
+                    and $-3412.25 in total returns.
+                    $311.00 has been injected into the bankroll, bringing it to $900.00.
 ###########
 Game #1/9: Washington Wizards @ Orlando Magic
 Result: Win!!! Payout: $52.63
@@ -3141,7 +3179,8 @@ Amount Injected Overall: $7908.17
 Saturday: 12/31. 9 Game(s)
 You need $900.00. 
                             You currently have $900.00 in your bankroll, and $-3386.48 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-2486.48
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $900.00
 ###########
 Game #1/9: Los Angeles Clippers @ Indiana Pacers
 Result: Loss :(:(:( Loss: $100
@@ -3189,7 +3228,8 @@ Amount Injected Overall: $7908.17
 Sunday: 1/1. 3 Game(s)
 You need $300.00. 
                             You currently have $300.00 in your bankroll, and $-3330.39 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-3030.39
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $300.00
 ###########
 Game #1/3: Boston Celtics @ Denver Nuggets
 Result: Loss :(:(:( Loss: $100
@@ -3218,9 +3258,9 @@ Amount Injected Overall: $7308.17
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 1/2. 11 Game(s)
 You need $1100.00. 
-                            You currently have $1100.00 in your bankroll, and $-3507.73 in your profits.
-                            $-3507.73 has been transferred from your profits to your bankroll,
-                            and $942.86 has been injected into the bankroll
+                    You currently have $157.14 in your bankroll, 
+                    and $-3507.73 in total returns.
+                    $942.86 has been injected into the bankroll, bringing it to $1100.00.
 ###########
 Game #1/11: Phoenix Suns @ New York Knicks
 Result: Win!!! Payout: $72.46
@@ -3274,7 +3314,8 @@ Amount Injected Overall: $8251.03
 Tuesday: 1/3. 3 Game(s)
 You need $300.00. 
                             You currently have $300.00 in your bankroll, and $-3563.97 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-3263.97
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $300.00
 ###########
 Game #1/3: Washington Wizards @ Milwaukee Bucks
 Result: Win!!! Payout: $37.31
@@ -3303,9 +3344,9 @@ Amount Injected Overall: $7507.26
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 1/4. 12 Game(s)
 You need $1200.00. 
-                            You currently have $1200.00 in your bankroll, and $-3726.65 in your profits.
-                            $-3726.65 has been transferred from your profits to your bankroll,
-                            and $1062.69 has been injected into the bankroll
+                    You currently have $137.31 in your bankroll, 
+                    and $-3726.65 in total returns.
+                    $1062.69 has been injected into the bankroll, bringing it to $1200.00.
 ###########
 Game #1/12: Phoenix Suns @ Cleveland Cavaliers
 Result: Win!!! Payout: $48.78
@@ -3362,7 +3403,8 @@ Amount Injected Overall: $8569.95
 Thursday: 1/5. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-4228.15 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-3828.15
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $400.00
 ###########
 Game #1/4: Memphis Grizzlies @ Orlando Magic
 Result: Win!!! Payout: $40.49
@@ -3394,9 +3436,9 @@ Amount Injected Overall: $8271.45
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 1/6. 11 Game(s)
 You need $1100.00. 
-                            You currently have $1100.00 in your bankroll, and $-4033.02 in your profits.
-                            $-4033.02 has been transferred from your profits to your bankroll,
-                            and $700.00 has been injected into the bankroll
+                    You currently have $400.00 in your bankroll, 
+                    and $-4033.02 in total returns.
+                    $700.00 has been injected into the bankroll, bringing it to $1100.00.
 ###########
 Game #1/11: Chicago Bulls @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -3450,7 +3492,8 @@ Amount Injected Overall: $8971.45
 Saturday: 1/7. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-4507.58 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-4007.58
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $500.00
 ###########
 Game #1/5: Boston Celtics @ San Antonio Spurs
 Result: Win!!! Payout: $8.00
@@ -3485,9 +3528,9 @@ Amount Injected Overall: $8846.01
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 1/8. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-4772.18 in your profits.
-                            $-4772.18 has been transferred from your profits to your bankroll,
-                            and $664.60 has been injected into the bankroll
+                    You currently have $235.40 in your bankroll, 
+                    and $-4772.18 in total returns.
+                    $664.60 has been injected into the bankroll, bringing it to $900.00.
 ###########
 Game #1/9: Philadelphia 76ers @ Detroit Pistons
 Result: Win!!! Payout: $46.51
@@ -3535,7 +3578,8 @@ Amount Injected Overall: $9510.61
 Monday: 1/9. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-4094.35 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-3494.35
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $600.00
 ###########
 Game #1/6: New Orleans Pelicans @ Washington Wizards
 Result: Win!!! Payout: $-100.00
@@ -3573,9 +3617,9 @@ Amount Injected Overall: $9210.61
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 1/10. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-4342.00 in your profits.
-                            $-4342.00 has been transferred from your profits to your bankroll,
-                            and $100.00 has been injected into the bankroll
+                    You currently have $600.00 in your bankroll, 
+                    and $-4342.00 in total returns.
+                    $100.00 has been injected into the bankroll, bringing it to $700.00.
 ###########
 Game #1/7: Detroit Pistons @ Philadelphia 76ers
 Result: Win!!! Payout: $6.20
@@ -3616,9 +3660,9 @@ Amount Injected Overall: $9310.61
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 1/11. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-4801.91 in your profits.
-                            $-4801.91 has been transferred from your profits to your bankroll,
-                            and $559.90 has been injected into the bankroll
+                    You currently have $240.10 in your bankroll, 
+                    and $-4801.91 in total returns.
+                    $559.90 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: Minnesota Timberwolves @ Detroit Pistons
 Result: Loss :(:(:( Loss: $100
@@ -3663,7 +3707,8 @@ Amount Injected Overall: $9870.51
 Thursday: 1/12. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-4811.70 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-4211.70
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $600.00
 ###########
 Game #1/6: Oklahoma City Thunder @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -3701,9 +3746,9 @@ Amount Injected Overall: $9680.30
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 1/13. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-4368.22 in your profits.
-                            $-4368.22 has been transferred from your profits to your bankroll,
-                            and $300.00 has been injected into the bankroll
+                    You currently have $600.00 in your bankroll, 
+                    and $-4368.22 in total returns.
+                    $300.00 has been injected into the bankroll, bringing it to $900.00.
 ###########
 Game #1/9: Atlanta Hawks @ Indiana Pacers
 Result: Win!!! Payout: $60.98
@@ -3751,7 +3796,8 @@ Amount Injected Overall: $9980.30
 Saturday: 1/14. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-4367.88 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-3667.88
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $700.00
 ###########
 Game #1/7: Milwaukee Bucks @ Miami Heat
 Result: Win!!! Payout: $56.18
@@ -3792,9 +3838,9 @@ Amount Injected Overall: $9780.30
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 1/15. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-4442.75 in your profits.
-                            $-4442.75 has been transferred from your profits to your bankroll,
-                            and $100.00 has been injected into the bankroll
+                    You currently have $700.00 in your bankroll, 
+                    and $-4442.75 in total returns.
+                    $100.00 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: New York Knicks @ Detroit Pistons
 Result: Win!!! Payout: $28.17
@@ -3838,9 +3884,9 @@ Amount Injected Overall: $9880.30
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 1/16. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-4484.49 in your profits.
-                            $-4484.49 has been transferred from your profits to your bankroll,
-                            and $123.66 has been injected into the bankroll
+                    You currently have $776.34 in your bankroll, 
+                    and $-4484.49 in total returns.
+                    $123.66 has been injected into the bankroll, bringing it to $900.00.
 ###########
 Game #1/9: Boston Celtics @ Charlotte Hornets
 Result: Win!!! Payout: $28.17
@@ -3888,7 +3934,8 @@ Amount Injected Overall: $10003.97
 Tuesday: 1/17. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-4556.82 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-4156.82
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $400.00
 ###########
 Game #1/4: Toronto Raptors @ Milwaukee Bucks
 Result: Loss :(:(:( Loss: $100
@@ -3920,9 +3967,9 @@ Amount Injected Overall: $9576.29
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 1/18. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-4810.95 in your profits.
-                            $-4810.95 has been transferred from your profits to your bankroll,
-                            and $700.00 has been injected into the bankroll
+                    You currently have $200.00 in your bankroll, 
+                    and $-4810.95 in total returns.
+                    $700.00 has been injected into the bankroll, bringing it to $900.00.
 ###########
 Game #1/9: Atlanta Hawks @ Dallas Mavericks
 Result: Loss :(:(:( Loss: $100
@@ -3970,7 +4017,8 @@ Amount Injected Overall: $10276.29
 Thursday: 1/19. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-4835.65 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-4335.65
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $500.00
 ###########
 Game #1/5: Chicago Bulls @ Detroit Pistons
 Result: Win!!! Payout: $33.90
@@ -4005,9 +4053,9 @@ Amount Injected Overall: $9900.99
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 1/20. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-4885.17 in your profits.
-                            $-4885.17 has been transferred from your profits to your bankroll,
-                            and $449.52 has been injected into the bankroll
+                    You currently have $450.48 in your bankroll, 
+                    and $-4885.17 in total returns.
+                    $449.52 has been injected into the bankroll, bringing it to $900.00.
 ###########
 Game #1/9: New Orleans Pelicans @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -4054,9 +4102,9 @@ Amount Injected Overall: $10350.51
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 1/21. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-5196.46 in your profits.
-                            $-5196.46 has been transferred from your profits to your bankroll,
-                            and $111.29 has been injected into the bankroll
+                    You currently have $588.71 in your bankroll, 
+                    and $-5196.46 in total returns.
+                    $111.29 has been injected into the bankroll, bringing it to $700.00.
 ###########
 Game #1/7: Boston Celtics @ Toronto Raptors
 Result: Win!!! Payout: $62.50
@@ -4098,7 +4146,8 @@ Amount Injected Overall: $10461.80
 Sunday: 1/22. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-5059.69 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-4359.69
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $700.00
 ###########
 Game #1/7: Los Angeles Clippers @ Dallas Mavericks
 Result: Loss :(:(:( Loss: $100
@@ -4139,9 +4188,9 @@ Amount Injected Overall: $10461.80
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 1/23. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-5518.91 in your profits.
-                            $-5518.91 has been transferred from your profits to your bankroll,
-                            and $390.84 has been injected into the bankroll
+                    You currently have $309.16 in your bankroll, 
+                    and $-5518.91 in total returns.
+                    $390.84 has been injected into the bankroll, bringing it to $700.00.
 ###########
 Game #1/7: Boston Celtics @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -4182,9 +4231,9 @@ Amount Injected Overall: $10852.64
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 1/24. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-5687.79 in your profits.
-                            $-5687.79 has been transferred from your profits to your bankroll,
-                            and $168.88 has been injected into the bankroll
+                    You currently have $531.12 in your bankroll, 
+                    and $-5687.79 in total returns.
+                    $168.88 has been injected into the bankroll, bringing it to $700.00.
 ###########
 Game #1/7: Chicago Bulls @ Indiana Pacers
 Result: Loss :(:(:( Loss: $100
@@ -4225,9 +4274,9 @@ Amount Injected Overall: $11021.52
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 1/25. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-5763.31 in your profits.
-                            $-5763.31 has been transferred from your profits to your bankroll,
-                            and $375.51 has been injected into the bankroll
+                    You currently have $624.49 in your bankroll, 
+                    and $-5763.31 in total returns.
+                    $375.51 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: Indiana Pacers @ Orlando Magic
 Result: Win!!! Payout: $50.00
@@ -4278,7 +4327,8 @@ Amount Injected Overall: $11397.03
 Thursday: 1/26. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-5327.69 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-4727.69
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $600.00
 ###########
 Game #1/6: Chicago Bulls @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -4316,9 +4366,9 @@ Amount Injected Overall: $10997.03
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 1/27. 5 Game(s)
 You need $500.00. 
-                            You currently have $500.00 in your bankroll, and $-5905.20 in your profits.
-                            $-5905.20 has been transferred from your profits to your bankroll,
-                            and $259.70 has been injected into the bankroll
+                    You currently have $240.30 in your bankroll, 
+                    and $-5905.20 in total returns.
+                    $259.70 has been injected into the bankroll, bringing it to $500.00.
 ###########
 Game #1/5: Milwaukee Bucks @ Indiana Pacers
 Result: Win!!! Payout: $39.22
@@ -4353,9 +4403,9 @@ Amount Injected Overall: $11256.73
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 1/28. 11 Game(s)
 You need $1100.00. 
-                            You currently have $1100.00 in your bankroll, and $-5980.59 in your profits.
-                            $-5980.59 has been transferred from your profits to your bankroll,
-                            and $675.39 has been injected into the bankroll
+                    You currently have $424.61 in your bankroll, 
+                    and $-5980.59 in total returns.
+                    $675.39 has been injected into the bankroll, bringing it to $1100.00.
 ###########
 Game #1/11: Denver Nuggets @ Philadelphia 76ers
 Result: Win!!! Payout: $68.97
@@ -4409,7 +4459,8 @@ Amount Injected Overall: $11932.12
 Sunday: 1/29. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-6138.79 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5738.79
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $400.00
 ###########
 Game #1/4: Miami Heat @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -4441,9 +4492,9 @@ Amount Injected Overall: $11390.32
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 1/30. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-6174.39 in your profits.
-                            $-6174.39 has been transferred from your profits to your bankroll,
-                            and $435.60 has been injected into the bankroll
+                    You currently have $364.40 in your bankroll, 
+                    and $-6174.39 in total returns.
+                    $435.60 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: Orlando Magic @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -4488,7 +4539,8 @@ Amount Injected Overall: $11825.92
 Tuesday: 1/31. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-5647.25 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5147.25
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $500.00
 ###########
 Game #1/5: Miami Heat @ Cleveland Cavaliers
 Result: Loss :(:(:( Loss: $100
@@ -4523,9 +4575,9 @@ Amount Injected Overall: $11525.92
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 2/1. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-5996.89 in your profits.
-                            $-5996.89 has been transferred from your profits to your bankroll,
-                            and $386.07 has been injected into the bankroll
+                    You currently have $413.93 in your bankroll, 
+                    and $-5996.89 in total returns.
+                    $386.07 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: Portland Trail Blazers @ Memphis Grizzlies
 Result: Loss :(:(:( Loss: $100
@@ -4570,7 +4622,8 @@ Amount Injected Overall: $11911.99
 Thursday: 2/2. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-6039.60 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5339.60
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $700.00
 ###########
 Game #1/7: Los Angeles Lakers @ Indiana Pacers
 Result: Win!!! Payout: $62.50
@@ -4611,9 +4664,9 @@ Amount Injected Overall: $11854.70
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 2/3. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-5679.74 in your profits.
-                            $-5679.74 has been transferred from your profits to your bankroll,
-                            and $100.00 has been injected into the bankroll
+                    You currently have $700.00 in your bankroll, 
+                    and $-5679.74 in total returns.
+                    $100.00 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: Sacramento Kings @ Indiana Pacers
 Result: Loss :(:(:( Loss: $100
@@ -4657,9 +4710,9 @@ Amount Injected Overall: $11954.70
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 2/4. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-6208.15 in your profits.
-                            $-6208.15 has been transferred from your profits to your bankroll,
-                            and $448.48 has been injected into the bankroll
+                    You currently have $451.52 in your bankroll, 
+                    and $-6208.15 in total returns.
+                    $448.48 has been injected into the bankroll, bringing it to $900.00.
 ###########
 Game #1/9: Washington Wizards @ Brooklyn Nets
 Result: Loss :(:(:( Loss: $100
@@ -4707,7 +4760,8 @@ Amount Injected Overall: $12403.18
 Sunday: 2/5. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-6008.16 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5408.16
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $600.00
 ###########
 Game #1/6: Orlando Magic @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -4745,9 +4799,9 @@ Amount Injected Overall: $12103.18
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 2/6. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-6423.99 in your profits.
-                            $-6423.99 has been transferred from your profits to your bankroll,
-                            and $500.00 has been injected into the bankroll
+                    You currently have $300.00 in your bankroll, 
+                    and $-6423.99 in total returns.
+                    $500.00 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: Cleveland Cavaliers @ Washington Wizards
 Result: Win!!! Payout: $60.61
@@ -4792,7 +4846,8 @@ Amount Injected Overall: $12603.18
 Tuesday: 2/7. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-6038.41 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5438.41
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $600.00
 ###########
 Game #1/6: New York Knicks @ Orlando Magic
 Result: Win!!! Payout: $83.33
@@ -4830,9 +4885,9 @@ Amount Injected Overall: $12403.18
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 2/8. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-6256.03 in your profits.
-                            $-6256.03 has been transferred from your profits to your bankroll,
-                            and $324.83 has been injected into the bankroll
+                    You currently have $575.17 in your bankroll, 
+                    and $-6256.03 in total returns.
+                    $324.83 has been injected into the bankroll, bringing it to $900.00.
 ###########
 Game #1/9: Detroit Pistons @ Cleveland Cavaliers
 Result: Win!!! Payout: $25.32
@@ -4880,7 +4935,8 @@ Amount Injected Overall: $12728.01
 Thursday: 2/9. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-6043.56 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5643.56
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $400.00
 ###########
 Game #1/4: Denver Nuggets @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -4912,9 +4968,9 @@ Amount Injected Overall: $12228.01
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 2/10. 11 Game(s)
 You need $1100.00. 
-                            You currently have $1100.00 in your bankroll, and $-6292.36 in your profits.
-                            $-6292.36 has been transferred from your profits to your bankroll,
-                            and $842.56 has been injected into the bankroll
+                    You currently have $257.44 in your bankroll, 
+                    and $-6292.36 in total returns.
+                    $842.56 has been injected into the bankroll, bringing it to $1100.00.
 ###########
 Game #1/11: Phoenix Suns @ Indiana Pacers
 Result: Loss :(:(:( Loss: $100
@@ -4968,7 +5024,8 @@ Amount Injected Overall: $13070.58
 Saturday: 2/11. 9 Game(s)
 You need $900.00. 
                             You currently have $900.00 in your bankroll, and $-6396.44 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5496.44
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $900.00
 ###########
 Game #1/9: Philadelphia 76ers @ Brooklyn Nets
 Result: Win!!! Payout: $68.97
@@ -5016,7 +5073,8 @@ Amount Injected Overall: $12974.66
 Sunday: 2/12. 2 Game(s)
 You need $200.00. 
                             You currently have $200.00 in your bankroll, and $-6146.29 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5946.29
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $200.00
 ###########
 Game #1/2: Memphis Grizzlies @ Boston Celtics
 Result: Win!!! Payout: $62.50
@@ -5042,9 +5100,9 @@ Amount Injected Overall: $12274.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 2/13. 11 Game(s)
 You need $1100.00. 
-                            You currently have $1100.00 in your bankroll, and $-6192.87 in your profits.
-                            $-6192.87 has been transferred from your profits to your bankroll,
-                            and $900.00 has been injected into the bankroll
+                    You currently have $200.00 in your bankroll, 
+                    and $-6192.87 in total returns.
+                    $900.00 has been injected into the bankroll, bringing it to $1100.00.
 ###########
 Game #1/11: Houston Rockets @ Philadelphia 76ers
 Result: Win!!! Payout: $10.00
@@ -5098,7 +5156,8 @@ Amount Injected Overall: $13174.66
 Tuesday: 2/14. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-6181.01 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5681.01
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $500.00
 ###########
 Game #1/5: Boston Celtics @ Milwaukee Bucks
 Result: Win!!! Payout: $20.96
@@ -5133,9 +5192,9 @@ Amount Injected Overall: $12574.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 2/15. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-5952.75 in your profits.
-                            $-5952.75 has been transferred from your profits to your bankroll,
-                            and $500.00 has been injected into the bankroll
+                    You currently have $500.00 in your bankroll, 
+                    and $-5952.75 in total returns.
+                    $500.00 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: San Antonio Spurs @ Charlotte Hornets
 Result: Win!!! Payout: $52.63
@@ -5186,7 +5245,8 @@ Amount Injected Overall: $13074.66
 Thursday: 2/16. 3 Game(s)
 You need $300.00. 
                             You currently have $300.00 in your bankroll, and $-5663.38 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5363.38
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $300.00
 ###########
 Game #1/3: Milwaukee Bucks @ Chicago Bulls
 Result: Win!!! Payout: $35.71
@@ -5215,9 +5275,9 @@ Amount Injected Overall: $12374.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Thursday: 2/23. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-5756.45 in your profits.
-                            $-5756.45 has been transferred from your profits to your bankroll,
-                            and $600.00 has been injected into the bankroll
+                    You currently have $300.00 in your bankroll, 
+                    and $-5756.45 in total returns.
+                    $600.00 has been injected into the bankroll, bringing it to $900.00.
 ###########
 Game #1/9: Boston Celtics @ Indiana Pacers
 Result: Win!!! Payout: $28.57
@@ -5265,7 +5325,8 @@ Amount Injected Overall: $12974.66
 Friday: 2/24. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-5688.73 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-4888.73
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $800.00
 ###########
 Game #1/8: New York Knicks @ Washington Wizards
 Result: Win!!! Payout: $100.00
@@ -5310,7 +5371,8 @@ Amount Injected Overall: $12874.66
 Saturday: 2/25. 7 Game(s)
 You need $700.00. 
                             You currently have $700.00 in your bankroll, and $-5180.26 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-4480.26
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $700.00
 ###########
 Game #1/7: Toronto Raptors @ Detroit Pistons
 Result: Win!!! Payout: $31.25
@@ -5351,9 +5413,9 @@ Amount Injected Overall: $12774.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 2/26. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-5336.38 in your profits.
-                            $-5336.38 has been transferred from your profits to your bankroll,
-                            and $200.00 has been injected into the bankroll
+                    You currently have $700.00 in your bankroll, 
+                    and $-5336.38 in total returns.
+                    $200.00 has been injected into the bankroll, bringing it to $900.00.
 ###########
 Game #1/9: Phoenix Suns @ Milwaukee Bucks
 Result: Win!!! Payout: $68.03
@@ -5401,7 +5463,8 @@ Amount Injected Overall: $12974.66
 Monday: 2/27. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-4805.84 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-4405.84
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $400.00
 ###########
 Game #1/4: Miami Heat @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -5433,9 +5496,9 @@ Amount Injected Overall: $12474.66
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 2/28. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-5367.00 in your profits.
-                            $-5367.00 has been transferred from your profits to your bankroll,
-                            and $865.52 has been injected into the bankroll
+                    You currently have $134.48 in your bankroll, 
+                    and $-5367.00 in total returns.
+                    $865.52 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: Los Angeles Lakers @ Memphis Grizzlies
 Result: Win!!! Payout: $25.00
@@ -5485,9 +5548,9 @@ Amount Injected Overall: $13340.18
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 3/1. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-5504.56 in your profits.
-                            $-5504.56 has been transferred from your profits to your bankroll,
-                            and $37.55 has been injected into the bankroll
+                    You currently have $862.45 in your bankroll, 
+                    and $-5504.56 in total returns.
+                    $37.55 has been injected into the bankroll, bringing it to $900.00.
 ###########
 Game #1/9: Phoenix Suns @ Charlotte Hornets
 Result: Win!!! Payout: $19.23
@@ -5535,7 +5598,8 @@ Amount Injected Overall: $13377.73
 Thursday: 3/2. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-5619.84 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5219.84
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $400.00
 ###########
 Game #1/4: Toronto Raptors @ Washington Wizards
 Result: Loss :(:(:( Loss: $100
@@ -5567,9 +5631,9 @@ Amount Injected Overall: $12993.01
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 3/3. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-5854.90 in your profits.
-                            $-5854.90 has been transferred from your profits to your bankroll,
-                            and $835.06 has been injected into the bankroll
+                    You currently have $164.94 in your bankroll, 
+                    and $-5854.90 in total returns.
+                    $835.06 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: Orlando Magic @ Charlotte Hornets
 Result: Win!!! Payout: $59.52
@@ -5620,7 +5684,8 @@ Amount Injected Overall: $13828.08
 Saturday: 3/4. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-5721.15 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5121.15
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $600.00
 ###########
 Game #1/6: Toronto Raptors @ Washington Wizards
 Result: Win!!! Payout: $68.97
@@ -5658,9 +5723,9 @@ Amount Injected Overall: $13428.08
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 3/5. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-5706.65 in your profits.
-                            $-5706.65 has been transferred from your profits to your bankroll,
-                            and $400.00 has been injected into the bankroll
+                    You currently have $600.00 in your bankroll, 
+                    and $-5706.65 in total returns.
+                    $400.00 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: Phoenix Suns @ Dallas Mavericks
 Result: Win!!! Payout: $75.76
@@ -5711,7 +5776,8 @@ Amount Injected Overall: $13828.08
 Monday: 3/6. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-5871.69 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5271.69
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $600.00
 ###########
 Game #1/6: Boston Celtics @ Cleveland Cavaliers
 Result: Win!!! Payout: $28.57
@@ -5749,9 +5815,9 @@ Amount Injected Overall: $13552.43
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 3/7. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-5579.28 in your profits.
-                            $-5579.28 has been transferred from your profits to your bankroll,
-                            and $200.00 has been injected into the bankroll
+                    You currently have $600.00 in your bankroll, 
+                    and $-5579.28 in total returns.
+                    $200.00 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: Milwaukee Bucks @ Orlando Magic
 Result: Win!!! Payout: $80.00
@@ -5795,9 +5861,9 @@ Amount Injected Overall: $13752.43
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 3/8. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-5821.18 in your profits.
-                            $-5821.18 has been transferred from your profits to your bankroll,
-                            and $141.91 has been injected into the bankroll
+                    You currently have $558.09 in your bankroll, 
+                    and $-5821.18 in total returns.
+                    $141.91 has been injected into the bankroll, bringing it to $700.00.
 ###########
 Game #1/7: Atlanta Hawks @ Washington Wizards
 Result: Win!!! Payout: $69.93
@@ -5839,7 +5905,8 @@ Amount Injected Overall: $13894.34
 Thursday: 3/9. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-5689.72 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5089.72
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $600.00
 ###########
 Game #1/6: Houston Rockets @ Indiana Pacers
 Result: Win!!! Payout: $21.74
@@ -5877,9 +5944,9 @@ Amount Injected Overall: $13794.34
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 3/10. 6 Game(s)
 You need $600.00. 
-                            You currently have $600.00 in your bankroll, and $-5762.33 in your profits.
-                            $-5762.33 has been transferred from your profits to your bankroll,
-                            and $6.88 has been injected into the bankroll
+                    You currently have $593.12 in your bankroll, 
+                    and $-5762.33 in total returns.
+                    $6.88 has been injected into the bankroll, bringing it to $600.00.
 ###########
 Game #1/6: Portland Trail Blazers @ Philadelphia 76ers
 Result: Win!!! Payout: $30.30
@@ -5917,9 +5984,9 @@ Amount Injected Overall: $13801.21
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Saturday: 3/11. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-5880.61 in your profits.
-                            $-5880.61 has been transferred from your profits to your bankroll,
-                            and $518.28 has been injected into the bankroll
+                    You currently have $481.72 in your bankroll, 
+                    and $-5880.61 in total returns.
+                    $518.28 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: New York Knicks @ Los Angeles Clippers
 Result: Win!!! Payout: $48.31
@@ -5970,7 +6037,8 @@ Amount Injected Overall: $14319.50
 Sunday: 3/12. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-5348.26 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-4748.26
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $600.00
 ###########
 Game #1/6: Brooklyn Nets @ Denver Nuggets
 Result: Loss :(:(:( Loss: $100
@@ -6008,9 +6076,9 @@ Amount Injected Overall: $13919.50
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 3/13. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-5634.75 in your profits.
-                            $-5634.75 has been transferred from your profits to your bankroll,
-                            and $120.32 has been injected into the bankroll
+                    You currently have $579.68 in your bankroll, 
+                    and $-5634.75 in total returns.
+                    $120.32 has been injected into the bankroll, bringing it to $700.00.
 ###########
 Game #1/7: Indiana Pacers @ Detroit Pistons
 Result: Loss :(:(:( Loss: $100
@@ -6051,9 +6119,9 @@ Amount Injected Overall: $14039.81
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 3/14. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-5733.18 in your profits.
-                            $-5733.18 has been transferred from your profits to your bankroll,
-                            and $198.43 has been injected into the bankroll
+                    You currently have $601.57 in your bankroll, 
+                    and $-5733.18 in total returns.
+                    $198.43 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: Detroit Pistons @ Washington Wizards
 Result: Win!!! Payout: $11.11
@@ -6097,9 +6165,9 @@ Amount Injected Overall: $14238.24
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 3/15. 7 Game(s)
 You need $700.00. 
-                            You currently have $700.00 in your bankroll, and $-5926.08 in your profits.
-                            $-5926.08 has been transferred from your profits to your bankroll,
-                            and $92.90 has been injected into the bankroll
+                    You currently have $607.10 in your bankroll, 
+                    and $-5926.08 in total returns.
+                    $92.90 has been injected into the bankroll, bringing it to $700.00.
 ###########
 Game #1/7: Memphis Grizzlies @ Miami Heat
 Result: Win!!! Payout: $54.05
@@ -6141,7 +6209,8 @@ Amount Injected Overall: $14331.14
 Thursday: 3/16. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-5343.35 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-4843.35
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $500.00
 ###########
 Game #1/5: Denver Nuggets @ Detroit Pistons
 Result: Win!!! Payout: $6.67
@@ -6176,9 +6245,9 @@ Amount Injected Overall: $14131.14
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 3/17. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-5759.47 in your profits.
-                            $-5759.47 has been transferred from your profits to your bankroll,
-                            and $424.76 has been injected into the bankroll
+                    You currently have $375.24 in your bankroll, 
+                    and $-5759.47 in total returns.
+                    $424.76 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: Philadelphia 76ers @ Charlotte Hornets
 Result: Win!!! Payout: $20.00
@@ -6223,7 +6292,8 @@ Amount Injected Overall: $14555.90
 Saturday: 3/18. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-5623.11 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-4823.11
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $800.00
 ###########
 Game #1/8: Denver Nuggets @ New York Knicks
 Result: Loss :(:(:( Loss: $100
@@ -6267,9 +6337,9 @@ Amount Injected Overall: $14555.90
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 3/19. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-6068.52 in your profits.
-                            $-6068.52 has been transferred from your profits to your bankroll,
-                            and $377.22 has been injected into the bankroll
+                    You currently have $422.78 in your bankroll, 
+                    and $-6068.52 in total returns.
+                    $377.22 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: Denver Nuggets @ Brooklyn Nets
 Result: Win!!! Payout: $66.67
@@ -6314,7 +6384,8 @@ Amount Injected Overall: $14933.12
 Monday: 3/20. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-5953.51 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5353.51
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $600.00
 ###########
 Game #1/6: Chicago Bulls @ Philadelphia 76ers
 Result: Loss :(:(:( Loss: $100
@@ -6352,9 +6423,9 @@ Amount Injected Overall: $14733.12
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 3/21. 6 Game(s)
 You need $600.00. 
-                            You currently have $600.00 in your bankroll, and $-6340.31 in your profits.
-                            $-6340.31 has been transferred from your profits to your bankroll,
-                            and $329.29 has been injected into the bankroll
+                    You currently have $270.71 in your bankroll, 
+                    and $-6340.31 in total returns.
+                    $329.29 has been injected into the bankroll, bringing it to $600.00.
 ###########
 Game #1/6: Washington Wizards @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -6392,9 +6463,9 @@ Amount Injected Overall: $15062.41
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 3/22. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-6407.69 in your profits.
-                            $-6407.69 has been transferred from your profits to your bankroll,
-                            and $467.38 has been injected into the bankroll
+                    You currently have $532.62 in your bankroll, 
+                    and $-6407.69 in total returns.
+                    $467.38 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: Denver Nuggets @ Washington Wizards
 Result: Win!!! Payout: $26.67
@@ -6445,7 +6516,8 @@ Amount Injected Overall: $15529.80
 Thursday: 3/23. 4 Game(s)
 You need $400.00. 
                             You currently have $400.00 in your bankroll, and $-5973.09 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5573.09
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $400.00
 ###########
 Game #1/4: New York Knicks @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -6477,9 +6549,9 @@ Amount Injected Overall: $14929.80
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 3/24. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-6124.73 in your profits.
-                            $-6124.73 has been transferred from your profits to your bankroll,
-                            and $600.00 has been injected into the bankroll
+                    You currently have $400.00 in your bankroll, 
+                    and $-6124.73 in total returns.
+                    $600.00 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: San Antonio Spurs @ Washington Wizards
 Result: Win!!! Payout: $26.67
@@ -6530,7 +6602,8 @@ Amount Injected Overall: $15529.80
 Saturday: 3/25. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-5766.95 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5166.95
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $600.00
 ###########
 Game #1/6: Indiana Pacers @ Atlanta Hawks
 Result: Win!!! Payout: $22.22
@@ -6568,9 +6641,9 @@ Amount Injected Overall: $15129.80
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 3/26. 9 Game(s)
 You need $900.00. 
-                            You currently have $900.00 in your bankroll, and $-6157.53 in your profits.
-                            $-6157.53 has been transferred from your profits to your bankroll,
-                            and $495.28 has been injected into the bankroll
+                    You currently have $404.72 in your bankroll, 
+                    and $-6157.53 in total returns.
+                    $495.28 has been injected into the bankroll, bringing it to $900.00.
 ###########
 Game #1/9: Dallas Mavericks @ Charlotte Hornets
 Result: Loss :(:(:( Loss: $100
@@ -6617,9 +6690,9 @@ Amount Injected Overall: $15625.07
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Monday: 3/27. 8 Game(s)
 You need $800.00. 
-                            You currently have $800.00 in your bankroll, and $-6432.00 in your profits.
-                            $-6432.00 has been transferred from your profits to your bankroll,
-                            and $174.47 has been injected into the bankroll
+                    You currently have $625.53 in your bankroll, 
+                    and $-6432.00 in total returns.
+                    $174.47 has been injected into the bankroll, bringing it to $800.00.
 ###########
 Game #1/8: Dallas Mavericks @ Indiana Pacers
 Result: Win!!! Payout: $35.97
@@ -6664,7 +6737,8 @@ Amount Injected Overall: $15799.55
 Tuesday: 3/28. 6 Game(s)
 You need $600.00. 
                             You currently have $600.00 in your bankroll, and $-6214.94 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5614.94
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $600.00
 ###########
 Game #1/6: Boston Celtics @ Washington Wizards
 Result: Loss :(:(:( Loss: $100
@@ -6702,9 +6776,9 @@ Amount Injected Overall: $15599.55
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wednesday: 3/29. 10 Game(s)
 You need $1000.00. 
-                            You currently have $1000.00 in your bankroll, and $-6348.47 in your profits.
-                            $-6348.47 has been transferred from your profits to your bankroll,
-                            and $425.00 has been injected into the bankroll
+                    You currently have $575.00 in your bankroll, 
+                    and $-6348.47 in total returns.
+                    $425.00 has been injected into the bankroll, bringing it to $1000.00.
 ###########
 Game #1/10: Milwaukee Bucks @ Indiana Pacers
 Result: Win!!! Payout: $14.29
@@ -6755,7 +6829,8 @@ Amount Injected Overall: $16024.55
 Thursday: 3/30. 2 Game(s)
 You need $200.00. 
                             You currently have $200.00 in your bankroll, and $-5888.69 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5688.69
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $200.00
 ###########
 Game #1/2: Boston Celtics @ Milwaukee Bucks
 Result: Loss :(:(:( Loss: $100
@@ -6781,9 +6856,9 @@ Amount Injected Overall: $15224.55
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 3/31. 13 Game(s)
 You need $1300.00. 
-                            You currently have $1300.00 in your bankroll, and $-6318.58 in your profits.
-                            $-6318.58 has been transferred from your profits to your bankroll,
-                            and $1300.00 has been injected into the bankroll
+                    You currently have $0.00 in your bankroll, 
+                    and $-6318.58 in total returns.
+                    $1300.00 has been injected into the bankroll, bringing it to $1300.00.
 ###########
 Game #1/13: Orlando Magic @ Washington Wizards
 Result: Win!!! Payout: $48.78
@@ -6843,7 +6918,8 @@ Amount Injected Overall: $16524.55
 Saturday: 4/1. 2 Game(s)
 You need $200.00. 
                             You currently have $200.00 in your bankroll, and $-6256.11 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-6056.11
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $200.00
 ###########
 Game #1/2: Dallas Mavericks @ Miami Heat
 Result: Loss :(:(:( Loss: $100
@@ -6869,9 +6945,9 @@ Amount Injected Overall: $15424.55
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 4/2. 13 Game(s)
 You need $1300.00. 
-                            You currently have $1300.00 in your bankroll, and $-6333.29 in your profits.
-                            $-6333.29 has been transferred from your profits to your bankroll,
-                            and $1145.95 has been injected into the bankroll
+                    You currently have $154.05 in your bankroll, 
+                    and $-6333.29 in total returns.
+                    $1145.95 has been injected into the bankroll, bringing it to $1300.00.
 ###########
 Game #1/13: Toronto Raptors @ Charlotte Hornets
 Result: Win!!! Payout: $6.67
@@ -6930,9 +7006,9 @@ Amount Injected Overall: $16570.49
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tuesday: 4/4. 13 Game(s)
 You need $1300.00. 
-                            You currently have $1300.00 in your bankroll, and $-6468.41 in your profits.
-                            $-6468.41 has been transferred from your profits to your bankroll,
-                            and $135.12 has been injected into the bankroll
+                    You currently have $1164.88 in your bankroll, 
+                    and $-6468.41 in total returns.
+                    $135.12 has been injected into the bankroll, bringing it to $1300.00.
 ###########
 Game #1/13: Cleveland Cavaliers @ Orlando Magic
 Result: Win!!! Payout: $60.61
@@ -6992,7 +7068,8 @@ Amount Injected Overall: $16705.61
 Wednesday: 4/5. 8 Game(s)
 You need $800.00. 
                             You currently have $800.00 in your bankroll, and $-6500.66 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5700.66
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $800.00
 ###########
 Game #1/8: Brooklyn Nets @ Detroit Pistons
 Result: Win!!! Payout: $16.39
@@ -7037,7 +7114,8 @@ Amount Injected Overall: $16237.86
 Thursday: 4/6. 5 Game(s)
 You need $500.00. 
                             You currently have $500.00 in your bankroll, and $-6486.54 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-5986.54
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $500.00
 ###########
 Game #1/5: Cleveland Cavaliers @ Orlando Magic
 Result: Loss :(:(:( Loss: $100
@@ -7072,9 +7150,9 @@ Amount Injected Overall: $15937.86
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Friday: 4/7. 11 Game(s)
 You need $1100.00. 
-                            You currently have $1100.00 in your bankroll, and $-6605.34 in your profits.
-                            $-6605.34 has been transferred from your profits to your bankroll,
-                            and $711.74 has been injected into the bankroll
+                    You currently have $388.26 in your bankroll, 
+                    and $-6605.34 in total returns.
+                    $711.74 has been injected into the bankroll, bringing it to $1100.00.
 ###########
 Game #1/11: Houston Rockets @ Charlotte Hornets
 Result: Win!!! Payout: $50.00
@@ -7128,7 +7206,8 @@ Amount Injected Overall: $16649.61
 Saturday: 4/8. 3 Game(s)
 You need $300.00. 
                             You currently have $300.00 in your bankroll, and $-6944.54 in your profits.
-                            $0.00 has been transferred from your profits to your bankroll
+                            This adds up to $-6644.54
+                            $0.00 has been transferred from your profits to your bankroll, bringing it to $300.00
 ###########
 Game #1/3: Denver Nuggets @ Utah Jazz
 Result: Loss :(:(:( Loss: $100
@@ -7157,9 +7236,9 @@ Amount Injected Overall: $16188.80
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sunday: 4/9. 15 Game(s)
 You need $1500.00. 
-                            You currently have $1500.00 in your bankroll, and $-7032.87 in your profits.
-                            $-7032.87 has been transferred from your profits to your bankroll,
-                            and $1288.33 has been injected into the bankroll
+                    You currently have $211.67 in your bankroll, 
+                    and $-7032.87 in total returns.
+                    $1288.33 has been injected into the bankroll, bringing it to $1500.00.
 ###########
 Game #1/15: Philadelphia 76ers @ Brooklyn Nets
 Result: Win!!! Payout: $-100.00

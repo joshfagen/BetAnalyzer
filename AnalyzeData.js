@@ -9,7 +9,8 @@ export default async function analyzeData(){
     
     // let result = createResult(result, bankroll, unitSize, wagerType, conditions)
     let unit = 100
-    let wagerType = 'risking'
+    let wagerType = 'to win'
+    let strategy = ['ML', 'Dog']
     let bankroll = 0
     let profits = 0
     let wins = 0
@@ -29,9 +30,23 @@ export default async function analyzeData(){
             let amountNeeded = 0
             let amountInjectedDaily = 0
             if(wagerType == 'risking') amountNeeded = unit * gamedaysCopy[i].sameDayGames.length 
+            else {
+                if(strategy.join(' ') == 'ML Fav'){
+                    for(let j = 0; j < gamedaysCopy[i].sameDayGames.length; j++){
+                        let payout = Math.max((gamedaysCopy[i].sameDayGames[j].prediction.awayML * -1), 
+                                              (gamedaysCopy[i].sameDayGames[j].prediction.homeML * -1))*(unit/100) 
+                        amountNeeded += payout
+                    }
+                }
+                
+            }
+            let profitsAddedToBankroll = 0;
             if(profits > 0){
                 if(amountNeeded > (bankroll + profits)){
-                    amountInjectedDaily = amountNeeded - (bankroll + profits)
+                    bankroll += profits
+                    profitsAddedToBankroll = profits
+                    profits = 0
+                    amountInjectedDaily = amountNeeded - bankroll
                     amountInjectedTotal += amountInjectedDaily
                     bankroll += amountInjectedDaily
                 } 
@@ -56,13 +71,23 @@ export default async function analyzeData(){
             textFile += '\n'
 
             if(amountInjectedDaily > 0){
-                if(profits > 0) {
-                     textFile += `You need $${amountNeeded.toFixed(2)}. 
-                    You currently have $${(bankroll - amountInjectedDaily).toFixed(2)} in your bankroll
-                    and $${profits.toFixed(2)} in your profits, making a total of $${(bankroll - amountInjectedDaily + profits).toFixed(2)}
-                    $${profits.toFixed(2)} has been transferred from your profits to your bankroll,
-                    and $${amountInjectedDaily.toFixed(2)} has been injected into the bankroll, bringing it to $${(bankroll + profits).toFixed(2)}.`
+                if(profitsAddedToBankroll > 0 || profits > 0) {
+                    if(profitsAddedToBankroll > 0) {
+                        textFile += `You need $${amountNeeded.toFixed(2)}. 
+                        You currently have $${(bankroll - amountInjectedDaily-profitsAddedToBankroll).toFixed(2)} in your bankroll
+                        and $${profitsAddedToBankroll.toFixed(2)} in your profits, making a total of $${(bankroll - amountInjectedDaily + profits).toFixed(2)}
+                        $${profitsAddedToBankroll.toFixed(2)} has been transferred from your profits to your bankroll,
+                        and $${amountInjectedDaily.toFixed(2)} has been injected into the bankroll, bringing it to $${bankroll.toFixed(2)}.`
 
+                    }else {
+                        textFile += `You need $${amountNeeded.toFixed(2)}. 
+                        You currently have $${(bankroll - amountInjectedDaily-profits).toFixed(2)} in your bankroll
+                        and $${profits.toFixed(2)} in your profits, making a total of $${(bankroll - amountInjectedDaily + profits).toFixed(2)}
+                        $${profits.toFixed(2)} has been transferred from your profits to your bankroll,
+                        and $${amountInjectedDaily.toFixed(2)} has been injected into the bankroll, bringing it to $${(bankroll + profits).toFixed(2)}.`
+    
+                    }
+                     
                 } else {
                     textFile += `You need $${amountNeeded.toFixed(2)}. 
                     You currently have $${(bankroll - amountInjectedDaily).toFixed(2)} in your bankroll, 
@@ -89,21 +114,50 @@ export default async function analyzeData(){
                 textFile += `###########`
                 textFile += '\n'
                 
-                //For Fav ML
-                // if(game.results.moneyline.result == 'Fav'){
-                //     textFile += `Game #${j+1}/${gamedaysCopy[i].sameDayGames.length}: ${game.general.away} @ ${game.general.home}`
-                //     textFile += '\n'
-                //     textFile += `Result: Win!!! Payout: $${(unit / (game.results.moneyline.payout * -1) * 100).toFixed(2)}`
-                //     dailyWins += unit / (game.results.moneyline.payout * -1) * 100
-                //     dailyWinCount++
-                // } else {
-                //     textFile += `Game #${j+1}/${gamedaysCopy[i].sameDayGames.length}: ${game.general.away} @ ${game.general.home}`
-                //     textFile += '\n'
-                //     textFile += `Result: Loss :(:(:( Loss: $${unit}`
-                //     dailyLosses += unit
-                //     bankroll -= unit
-                //     dailyLossCount++
-                // }
+                // For Fav ML
+                if(game.results.moneyline.result == 'Fav'){
+                    if(wagerType == 'to win'){
+                        textFile += `Game #${j+1}/${gamedaysCopy[i].sameDayGames.length}: ${game.general.away} @ ${game.general.home}`
+                        textFile += '\n'
+                        textFile += `Bet Amount: $${Math.max((game.prediction.awayML*-1), (game.prediction.homeML*-1)).toFixed(2)}`
+                        textFile += '\n'
+                        textFile += `Result: Win!!! Payout: $${unit.toFixed(2)}`
+                        dailyWins += unit
+                        dailyWinCount++    
+                    } else {
+                        if(wagerType == 'risk'){
+                            textFile += `Game #${j+1}/${gamedaysCopy[i].sameDayGames.length}: ${game.general.away} @ ${game.general.home}`
+                            textFile += '\n'
+                            textFile += `Result: Win!!! Payout: $${(unit / (game.results.moneyline.payout * -1) * 100).toFixed(2)}`
+                            dailyWins += unit / (game.results.moneyline.payout * -1) * 100
+                            dailyWinCount++
+                        }
+                    }
+                    
+                } else {
+                    if(wagerType == 'to win'){
+                        let lossAmount = (Math.max((gamedaysCopy[i].sameDayGames[j].prediction.awayML * -1), 
+                                        (gamedaysCopy[i].sameDayGames[j].prediction.homeML * -1))*(unit/100))
+                        textFile += `Game #${j+1}/${gamedaysCopy[i].sameDayGames.length}: ${game.general.away} @ ${game.general.home}`
+                        textFile += '\n'
+                        textFile += `Bet Amount: $${Math.max((game.prediction.awayML*-1), (game.prediction.homeML*-1)).toFixed(2)}`
+                        textFile += '\n'
+                        textFile += `Result: Loss :(:(:( Loss: $${lossAmount.toFixed(2)}`
+                        dailyLosses += lossAmount
+                        bankroll -= lossAmount
+                        dailyLossCount++
+                    }else {
+                        if(wagerType == 'risk'){
+                            textFile += `Game #${j+1}/${gamedaysCopy[i].sameDayGames.length}: ${game.general.away} @ ${game.general.home}`
+                            textFile += '\n'
+                            textFile += `Result: Loss :(:(:( Loss: $${unit}`
+                            dailyLosses += unit
+                            bankroll -= unit
+                            dailyLossCount++
+                        }
+                  }
+                    
+                }
 
                 //For Underdog ML
                 // if(game.results.moneyline.result == 'Dog'){
@@ -176,26 +230,26 @@ export default async function analyzeData(){
                 // }
 
                 //For Under
-                if(game.results.total.result == 'Under'){
-                    textFile += `Game #${j+1}/${gamedaysCopy[i].sameDayGames.length}: ${game.general.away} @ ${game.general.home}`
-                    textFile += '\n'
-                    textFile += `Result: Win!!! Payout: $${(unit / (game.results.total.payout * -1) * 100).toFixed(2)}`
-                    dailyWins += unit / (game.results.total.payout * -1) * 100
-                    dailyWinCount++
-                } else {
-                    if(game.results.total.result == 'Over'){
-                        textFile += `Game #${j+1}/${gamedaysCopy[i].sameDayGames.length}: ${game.general.away} @ ${game.general.home}`
-                        textFile += '\n'
-                        textFile += `Result: Loss :(:(:( Loss: $${unit}`
-                        dailyLosses += unit
-                        bankroll -= unit
-                        dailyLossCount++
-                    } else {
-                        textFile += `Game #${j+1}/${gamedaysCopy[i].sameDayGames.length}: ${game.general.away} @ ${game.general.home}`
-                        textFile += '\n'
-                        textFile += `Result: Push`
-                    }                    
-                }
+                // if(game.results.total.result == 'Under'){
+                //     textFile += `Game #${j+1}/${gamedaysCopy[i].sameDayGames.length}: ${game.general.away} @ ${game.general.home}`
+                //     textFile += '\n'
+                //     textFile += `Result: Win!!! Payout: $${(unit / (game.results.total.payout * -1) * 100).toFixed(2)}`
+                //     dailyWins += unit / (game.results.total.payout * -1) * 100
+                //     dailyWinCount++
+                // } else {
+                //     if(game.results.total.result == 'Over'){
+                //         textFile += `Game #${j+1}/${gamedaysCopy[i].sameDayGames.length}: ${game.general.away} @ ${game.general.home}`
+                //         textFile += '\n'
+                //         textFile += `Result: Loss :(:(:( Loss: $${unit}`
+                //         dailyLosses += unit
+                //         bankroll -= unit
+                //         dailyLossCount++
+                //     } else {
+                //         textFile += `Game #${j+1}/${gamedaysCopy[i].sameDayGames.length}: ${game.general.away} @ ${game.general.home}`
+                //         textFile += '\n'
+                //         textFile += `Result: Push`
+                //     }                    
+                // }
             }
 
             
@@ -206,7 +260,7 @@ export default async function analyzeData(){
             winCount += dailyWinCount
             losses += dailyLosses
             lossCount += dailyLossCount
-            profits = wins-losses
+            profits = wins - losses
             textFile += '\n'
             textFile += `Daily Wins: ${dailyWinCount} game(s) out of ${gamedaysCopy[i].sameDayGames.length}. 
                          Daily %: ${(dailyWinCount/gamedaysCopy[i].sameDayGames.length*100).toFixed(3)}%. 

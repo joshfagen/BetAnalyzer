@@ -1,10 +1,7 @@
-import collectData from "./CollectData.js";
-import analyzeData from "./AnalyzeData.js";
+
 import fs, * as FileSystem from "fs-extra";
 
-// analyzeData();
-// analyzeData(bankroll, unitSize, wagerType, conditions)
-// collectData();
+
 let file = './json/Gamedays/Gamedays.json'
 
 fs.readJson(file, (err, obj) => {

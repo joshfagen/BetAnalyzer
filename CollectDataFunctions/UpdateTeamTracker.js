@@ -1,34 +1,51 @@
-import * as fileSystem from 'fs-extra';
+import fs from 'fs-extra';
 
-export default async function updateTeamTracker(gameDay, teamTracker, currentDate){
+// export default async function updateTeamTracker(gameDay, teamTracker, currentDate){
+async function updateTeamTracker(){
+    
+    let file = '../json/TeamTrackers/TeamTracker.json'
+    
+    fs.readJson(file, (err, obj) => {
+        let teamTrackerNew = []
+        if (err) return console.log(err);
+        for(let i = 0; i < Object.keys(obj).length; i++){
+            teamTrackerNew.push(obj[Object.keys(obj)[i]])
+        }
+        for(let i = 0; i < teamTrackerNew.length; i++){
+            //Game-by-Game logic goes here
+        }
+        
+    });
+    
+    
     //Update gameTracker object. Check first to see if entry exists in gameTracker Object
  
-    for(let i = 0; i < gameDay.sameDayGames.length; i++){
-        try{
+    // for(let i = 0; i < gameDay.sameDayGames.length; i++){
+    //     try{
             
-            if(!teamTracker[gameDay.sameDayGames[i].general.away]){
-                teamTracker[gameDay.sameDayGames[i].general.away] = {}
-                teamTracker[gameDay.sameDayGames[i].general.away].games = []
+    //         if(!teamTracker[gameDay.sameDayGames[i].general.away]){
+    //             teamTracker[gameDay.sameDayGames[i].general.away] = {}
+    //             teamTracker[gameDay.sameDayGames[i].general.away].games = []
 
-            } 
-            if(!teamTracker[gameDay.sameDayGames[i].general.home]) {
-                teamTracker[gameDay.sameDayGames[i].general.home] = {}
-                teamTracker[gameDay.sameDayGames[i].general.home].games = []
-            }
+    //         } 
+    //         if(!teamTracker[gameDay.sameDayGames[i].general.home]) {
+    //             teamTracker[gameDay.sameDayGames[i].general.home] = {}
+    //             teamTracker[gameDay.sameDayGames[i].general.home].games = []
+    //         }
 
-            let thisGameAway = {}
-            let thisGameHome = {}
+    //         let thisGameAway = {}
+    //         let thisGameHome = {}
 
-            thisGameAway.date = currentDate
-            thisGameHome.date = currentDate
-            thisGameAway.context = 'A'
-            thisGameHome.context = 'H'
-            gameDay.sameDayGames[i].actual.awayFinalScore > gameDay.sameDayGames[i].actual.homeFinalScore ?
-                (thisGameAway.outcome = 'W', thisGameHome.outcome = 'L') : (thisGameAway.outcome = 'L', thisGameHome.outcome = 'W')
+    //         thisGameAway.date = currentDate
+    //         thisGameHome.date = currentDate
+    //         thisGameAway.context = 'A'
+    //         thisGameHome.context = 'H'
+    //         gameDay.sameDayGames[i].actual.awayFinalScore > gameDay.sameDayGames[i].actual.homeFinalScore ?
+    //             (thisGameAway.outcome = 'W', thisGameHome.outcome = 'L') : (thisGameAway.outcome = 'L', thisGameHome.outcome = 'W')
 
-            thisGameAway.pointDifferential= gameDay.sameDayGames[i].actual.awayFinalScore - gameDay.sameDayGames[i].actual.homeFinalScore
+    //         thisGameAway.pointDifferential= gameDay.sameDayGames[i].actual.awayFinalScore - gameDay.sameDayGames[i].actual.homeFinalScore
 
-            thisGameHome.pointDifferential = gameDay.sameDayGames[i].actual.homeFinalScore - gameDay.sameDayGames[i].actual.awayFinalScore
+    //         thisGameHome.pointDifferential = gameDay.sameDayGames[i].actual.homeFinalScore - gameDay.sameDayGames[i].actual.awayFinalScore
 
             // teamTracker[gameDay.sameDayGames[i].general.away].games.length > 0 ?
             //     thisGameAway.pointDifferentialRunning = 
@@ -127,21 +144,23 @@ export default async function updateTeamTracker(gameDay, teamTracker, currentDat
             //     }
             // }
 
-            teamTracker[gameDay.sameDayGames[i].general.away].games.push(thisGameAway)
-            teamTracker[gameDay.sameDayGames[i].general.home].games.push(thisGameHome)
-        } catch(err){
-            console.log(err)
-            console.log(`${i}: ${JSON.stringify(gameDay.sameDayGames[i], null, 2)}`)
-            let errorsText = `Error_${gameDay.sameDayGames[i].general.away}_at_${gameDay.sameDayGames[i].home}`
-                let errorsFile =  `./json/TeamTrackers/${errorsText}.json`
-                fileSystem.outputFile(errorsFile, JSON.stringify(gameDay.sameDayGames[i], null, 2), (error) => {
-                    if(error) console.log(error)
-                })
-            continue
-        }
+        //     teamTracker[gameDay.sameDayGames[i].general.away].games.push(thisGameAway)
+        //     teamTracker[gameDay.sameDayGames[i].general.home].games.push(thisGameHome)
+        // } catch(err){
+        //     console.log(err)
+        //     console.log(`${i}: ${JSON.stringify(gameDay.sameDayGames[i], null, 2)}`)
+        //     let errorsText = `Error_${gameDay.sameDayGames[i].general.away}_at_${gameDay.sameDayGames[i].home}`
+        //         let errorsFile =  `./json/TeamTrackers/${errorsText}.json`
+        //         fileSystem.outputFile(errorsFile, JSON.stringify(gameDay.sameDayGames[i], null, 2), (error) => {
+        //             if(error) console.log(error)
+        //         })
+        //     continue
+        // }
     
-    }
+    // }
 
-    return teamTracker
+    // return teamTracker
 
+// }
 }
+updateTeamTracker()

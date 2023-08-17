@@ -9,14 +9,53 @@ async function updateTeamTracker(){
         let teamTrackerNew = []
         if (err) return console.log(err);
         for(let i = 0; i < Object.keys(obj).length; i++){
-            teamTrackerNew.push(obj[Object.keys(obj)[i]])
+            teamTrackerNew.push({
+                "team": Object.keys(obj)[i],
+                "games": obj[Object.keys(obj)[i]].games
+            })
+            for (let j = 0; j < teamTrackerNew[i].length; j++){
+                //move date to one day before
+                teamTrackerNew[i].games[j].date = teamTrackerNew[i].games[j].date - 1
+            }
+            
         }
-        for(let i = 0; i < teamTrackerNew.length; i++){
-            //Game-by-Game logic goes here
-        }
+        fs.readJson('../json/Gamedays/Gamedays.json', (err, obj) => {
+            if (err) return console.log(err);
+            for(let i = 0; i < obj.length; i++){
+                //Game-by-Game logic goes here
+                for(let j = 0; j < obj[i].sameDayGames.length; j++){
+                    let game = obj[i].sameDayGames[j]
+                    let [homeTeam, gameNumberHome, awayTeam, gameNumberAway] = 
+                        [game.general.home, game.general.gameNumberHome, game.general.away, game.general.gameNumberAway] 
+                    // What's the method to find a key-value pair in an array?
+                    let [homeTeamIndex, awayTeamIndex] = 
+                        [teamTrackerNew.findIndex(x => x.team == homeTeam), teamTrackerNew.findIndex(x => x.team == awayTeam)]
+                    
+                    let [dogOrFavHome, dogOrFavAway] = ['', '']
+                    game.prediction.fav == 'H' ? [dogOrFavHome = 'fav', dogOrFavAway = 'dog'] : [dogOrFavHome = 'dog', dogOrFavAway = 'fav']
+                    
+                    teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1] = {
+                        "date": game.general.date,
+                        "opponent": game.general.away,
+                        "context": teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1].context,
+                        "favOrDog": dogOrFavHome,
+                        "outcome": teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1].outcome,
+                        "pointDifferential": teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1].pointDifferential
+                    }
+                    teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1] = {
+                        "date": game.general.date,
+                        "opponent": game.general.home,
+                        "context": teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1].context,
+                        "favOrDog": dogOrFavAway,
+                        "outcome": teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1].outcome,
+                        "pointDifferential": teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1].pointDifferential
+                    }
+                }
+            }
+            console.log(JSON.stringify(teamTrackerNew[0], null, 2))
+        })
         
     });
-    
     
     //Update gameTracker object. Check first to see if entry exists in gameTracker Object
  

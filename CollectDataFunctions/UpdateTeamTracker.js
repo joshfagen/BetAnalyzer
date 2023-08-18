@@ -13,10 +13,7 @@ async function updateTeamTracker(){
                 "team": Object.keys(obj)[i],
                 "games": obj[Object.keys(obj)[i]].games
             })
-            for (let j = 0; j < teamTrackerNew[i].length; j++){
-                //move date to one day before
-                teamTrackerNew[i].games[j].date = teamTrackerNew[i].games[j].date - 1
-            }
+           
             
         }
         fs.readJson('../json/Gamedays/Gamedays.json', (err, obj) => {
@@ -34,22 +31,25 @@ async function updateTeamTracker(){
                     let [dogOrFavHome, dogOrFavAway] = ['', '']
                     game.prediction.fav == 'H' ? [dogOrFavHome = 'fav', dogOrFavAway = 'dog'] : [dogOrFavHome = 'dog', dogOrFavAway = 'fav']
                     
-                    teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1] = {
-                        "date": game.general.date,
-                        "opponent": game.general.away,
-                        "context": teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1].context,
-                        "favOrDog": dogOrFavHome,
-                        "outcome": teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1].outcome,
-                        "pointDifferential": teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1].pointDifferential
+                    if(!Number.isNaN(gameNumberAway - 1)) {
+                        teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1] = {
+                            "date": game.general.date,
+                            "opponent": game.general.away,
+                            "context": "H",
+                            "favOrDog": dogOrFavHome,
+                            "outcome": teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1].outcome,
+                            "pointDifferential": teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1].pointDifferential
+                        }
+                        teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1] = {
+                            "date": game.general.date,
+                            "opponent": game.general.home,
+                            "context": "A",
+                            "favOrDog": dogOrFavAway,
+                            "outcome": teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1].outcome,
+                            "pointDifferential": teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1].pointDifferential
+                        }
                     }
-                    teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1] = {
-                        "date": game.general.date,
-                        "opponent": game.general.home,
-                        "context": teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1].context,
-                        "favOrDog": dogOrFavAway,
-                        "outcome": teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1].outcome,
-                        "pointDifferential": teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1].pointDifferential
-                    }
+                    
                 }
             }
             console.log(JSON.stringify(teamTrackerNew[0], null, 2))

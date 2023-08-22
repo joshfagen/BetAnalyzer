@@ -44,6 +44,8 @@ async function updateTeamTracker(){
                             "context": "H",
                             "favOrDog": dogOrFavHome,
                             "outcome": teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1].outcome,
+                            "pointsScoredFor": game.actual.homeFinalScore,
+                            "pointsScoredAgainst": game.actual.awayFinalScore,
                             "pointDifferential": teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1].pointDifferential,
                             "pointDifferentialRunning": pointDifferentialRunning
                         }
@@ -59,46 +61,21 @@ async function updateTeamTracker(){
                             "context": "A",
                             "favOrDog": dogOrFavAway,
                             "outcome": teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1].outcome,
+                            "pointsScoredFor": game.actual.awayFinalScore,
+                            "pointsScoredAgainst": game.actual.homeFinalScore,
                             "pointDifferential": teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1].pointDifferential,
                             "pointDifferentialRunning": pointDifferentialRunning
                         }
                     }
                     
                 }
+                console.log(JSON.stringify(teamTrackerNew, null, 2))
             }
         })
         
     });
     
-    //Update gameTracker object. Check first to see if entry exists in gameTracker Object
- 
-    // for(let i = 0; i < gameDay.sameDayGames.length; i++){
-    //     try{
-            
-    //         if(!teamTracker[gameDay.sameDayGames[i].general.away]){
-    //             teamTracker[gameDay.sameDayGames[i].general.away] = {}
-    //             teamTracker[gameDay.sameDayGames[i].general.away].games = []
-
-    //         } 
-    //         if(!teamTracker[gameDay.sameDayGames[i].general.home]) {
-    //             teamTracker[gameDay.sameDayGames[i].general.home] = {}
-    //             teamTracker[gameDay.sameDayGames[i].general.home].games = []
-    //         }
-
-    //         let thisGameAway = {}
-    //         let thisGameHome = {}
-
-    //         thisGameAway.date = currentDate
-    //         thisGameHome.date = currentDate
-    //         thisGameAway.context = 'A'
-    //         thisGameHome.context = 'H'
-    //         gameDay.sameDayGames[i].actual.awayFinalScore > gameDay.sameDayGames[i].actual.homeFinalScore ?
-    //             (thisGameAway.outcome = 'W', thisGameHome.outcome = 'L') : (thisGameAway.outcome = 'L', thisGameHome.outcome = 'W')
-
-    //         thisGameAway.pointDifferential= gameDay.sameDayGames[i].actual.awayFinalScore - gameDay.sameDayGames[i].actual.homeFinalScore
-
-    //         thisGameHome.pointDifferential = gameDay.sameDayGames[i].actual.homeFinalScore - gameDay.sameDayGames[i].actual.awayFinalScore
-
+   
             // teamTracker[gameDay.sameDayGames[i].general.away].games.length > 0 ?
             //     thisGameAway.pointDifferentialRunning = 
             //     teamTracker[gameDay.sameDayGames[i].general.away].games[gameDay.sameDayGames[i].general.gameNumberAway - 2].pointDifferentialRunning + thisGameAway.pointDifferential

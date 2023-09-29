@@ -5,97 +5,163 @@ async function updateTeamTracker(){
     
     let file = '../json/TeamTrackers/TeamTracker.json'
     
-    fs.readJson(file, (err, obj) => {
-        let teamTrackerNew = []
-        if (err) return console.log(err);
-        for(let i = 0; i < Object.keys(obj).length; i++){
-            teamTrackerNew.push({
-                "team": Object.keys(obj)[i],
-                "games": obj[Object.keys(obj)[i]].games
-            })
-           
-            
-        }
+    fs.readJson(file, (err, obj1) => {
+       
         fs.readJson('../json/Gamedays/Gamedays.json', (err, obj) => {
+            let teamTrackerNew = []
+            if (err) return console.log(err);
+            for(let i = 0; i < Object.keys(obj1).length; i++){
+                teamTrackerNew.push({
+                    "team": Object.keys(obj1)[i],
+                    "games": []
+                })
+                
+            }
             if (err) return console.log(err);
             for(let i = 0; i < obj.length; i++){
                 //Game-by-Game logic goes here
+                
                 for(let j = 0; j < obj[i].sameDayGames.length; j++){
                     let game = obj[i].sameDayGames[j]
                     let [homeTeam, gameNumberHome, awayTeam, gameNumberAway] = 
                         [game.general.home, game.general.gameNumberHome, game.general.away, game.general.gameNumberAway] 
-                    // What's the method to find a key-value pair in an array?
                     let [homeTeamIndex, awayTeamIndex] = 
                         [teamTrackerNew.findIndex(x => x.team == homeTeam), teamTrackerNew.findIndex(x => x.team == awayTeam)]
                     
                     let [dogOrFavHome, dogOrFavAway] = ['', '']
                     game.prediction.fav == 'H' ? [dogOrFavHome = 'fav', dogOrFavAway = 'dog'] : [dogOrFavHome = 'dog', dogOrFavAway = 'fav']
-                    
-                    if(!Number.isNaN(gameNumberHome - 1)) {
-                        let pointDifferentialRunning;
-                        gameNumberHome == 1 ? 
-                        pointDifferentialRunning = 0 : 
-                        pointDifferentialRunning = teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1].pointDifferential 
-                        + teamTrackerNew[homeTeamIndex].games[gameNumberHome - 2].pointDifferentialRunning
+                    try {
                         
-                        teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1] = {
+                        let homeWinOrLoss
+                        game.actual.homeFinalScore > game.actual.awayFinalScore ? homeWinOrLoss = 'W' : homeWinOrLoss = 'L'
+
+                        let awayWinOrLoss
+                        game.actual.homeFinalScore > game.actual.awayFinalScore ? awayWinOrLoss = 'L' : awayWinOrLoss = 'W'
+
+                        let pointDifferentialRunningHome = 0
+                        let pointDifferentialRunningAway = 0
+                        if(teamTrackerNew[homeTeamIndex].games.length > 0){
+                            for(let m = 0; m < teamTrackerNew[homeTeamIndex].games.length; m++){
+                                pointDifferentialRunningHome += teamTrackerNew[homeTeamIndex].games[m].pointDifferential
+                            }
+                        }
+
+                        if(teamTrackerNew[awayTeamIndex].games.length > 0){
+                            for(let m = 0; m < teamTrackerNew[awayTeamIndex].games.length; m++){
+                                pointDifferentialRunningAway += teamTrackerNew[awayTeamIndex].games[m].pointDifferential
+                            }
+                        }       
+                        let homestandIncluding
+                        let roadtripIncluding 
+                        teamTrackerNew[homeTeamIndex].games.length > 0 ?
+                            homestandIncluding = teamTrackerNew[homeTeamIndex].games[teamTrackerNew[homeTeamIndex].games.length - 1].homestandIncluding + 1
+                             : homestandIncluding = 0
+                            
+                        teamTrackerNew[awayTeamIndex].games.length > 0 ?
+                        roadtripIncluding = teamTrackerNew[awayTeamIndex].games[teamTrackerNew[awayTeamIndex].games.length - 1].roadtripIncluding + 1
+                        : roadtripIncluding = 0
+
+                        let gameHistoryStringHome
+                        let gameHistoryStringAway
+                        let streakHome = 0
+                        let streakAway = 0
+                        gameHistoryStringHome = `-`
+                    
+                        if(gameNumberHome >= 2){
+                            gameHistoryStringHome = teamTrackerNew[homeTeamIndex].games[gameNumberHome - 2].gameHistory
+                            
+                            gameHistoryStringHome += `${teamTrackerNew[homeTeamIndex].games[gameNumberHome - 2].outcome}-`
+                            let count = 0
+                            let lastGameResult
+                            for(let i = gameHistoryStringHome.length - 2; i >= 1; i-=2){
+                                if(count == 0){
+                                    lastGameResult = gameHistoryStringHome[i]
+                                    count++  
+                                } else {
+                                    if(gameHistoryStringHome[i] == lastGameResult) count++
+                                    else break
+                                }                                  
+                            }
+                            if(lastGameResult == 'L') count *= -1
+                            streakHome = count
+                        }
+                        gameHistoryStringAway = `-`
+                    
+                        if(gameNumberAway >= 2){
+                           
+                            gameHistoryStringAway = teamTrackerNew[awayTeamIndex].games[gameNumberAway - 2].gameHistory
+                            
+                            gameHistoryStringAway += `${teamTrackerNew[awayTeamIndex].games[gameNumberAway - 2].outcome}-`
+                            let count = 0
+                            let lastGameResult
+                            for(let i = gameHistoryStringAway.length - 2; i >= 1; i-=2){
+                                if(count == 0){
+                                    lastGameResult = gameHistoryStringAway[i]
+                                    count++  
+                                } else {
+                                    if(gameHistoryStringAway[i] == lastGameResult) count++
+                                    else break
+                                }                                       
+                            }
+                            if(lastGameResult == 'L') count *= -1
+                            streakAway = count
+                        }
+                        let teamTrackerHomeObj = {
                             "date": game.general.date,
                             "opponent": game.general.away,
                             "context": "H",
                             "favOrDog": dogOrFavHome,
-                            "outcome": teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1].outcome,
+                            "outcome": homeWinOrLoss,
                             "pointsScoredFor": game.actual.homeFinalScore,
                             "pointsScoredAgainst": game.actual.awayFinalScore,
-                            "pointDifferential": teamTrackerNew[homeTeamIndex].games[gameNumberHome - 1].pointDifferential,
-                            "pointDifferentialRunning": pointDifferentialRunning
+                            "pointDifferential": game.actual.homeFinalScore - game.actual.awayFinalScore,
+                            "pointDifferentialRunning": pointDifferentialRunningHome,
+                            "homestandIncluding": homestandIncluding,
+                            "roadtripIncluding": 0,
+                            "gameHistory": `${gameHistoryStringHome}`,
+                            "streak": streakHome
                         }
 
-                        gameNumberAway == 1 ? 
-                        pointDifferentialRunning = 0 : 
-                        pointDifferentialRunning = teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1].pointDifferential 
-                        + teamTrackerNew[awayTeamIndex].games[gameNumberAway - 2].pointDifferentialRunning
-
-                        teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1] = {
+                        let teamTrackerAwayObj = {
                             "date": game.general.date,
                             "opponent": game.general.home,
                             "context": "A",
                             "favOrDog": dogOrFavAway,
-                            "outcome": teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1].outcome,
+                            "outcome": awayWinOrLoss,
                             "pointsScoredFor": game.actual.awayFinalScore,
                             "pointsScoredAgainst": game.actual.homeFinalScore,
-                            "pointDifferential": teamTrackerNew[awayTeamIndex].games[gameNumberAway - 1].pointDifferential,
-                            "pointDifferentialRunning": pointDifferentialRunning
-                        }
+                            "pointDifferential": game.actual.awayFinalScore - game.actual.homeFinalScore,
+                            "pointDifferentialRunning": pointDifferentialRunningAway,
+                            "homestandIncluding": 0,
+                            "roadtripIncluding": roadtripIncluding,
+                            "gameHistory": `${gameHistoryStringAway}`,
+                            "streak": streakAway
+
+                        }  
+                        teamTrackerNew[homeTeamIndex].games.push(teamTrackerHomeObj)
+                        teamTrackerNew[awayTeamIndex].games.push(teamTrackerAwayObj)
+                        
+                        
+                    } catch (error) {
+                        console.log(error)
                     }
+            
                     
                 }
-                console.log(JSON.stringify(teamTrackerNew, null, 2))
+                
             }
+            let teamTrackerNewFile = './json/teamTrackerNew.json'
+            fs.outputFile(teamTrackerNewFile, JSON.stringify(teamTrackerNew, null, 2), (error) => {
+                        if(error) console.log(error)
+            })
         })
         
     });
     
    
-            // teamTracker[gameDay.sameDayGames[i].general.away].games.length > 0 ?
-            //     thisGameAway.pointDifferentialRunning = 
-            //     teamTracker[gameDay.sameDayGames[i].general.away].games[gameDay.sameDayGames[i].general.gameNumberAway - 2].pointDifferentialRunning + thisGameAway.pointDifferential
-            //     : thisGameAway.pointDifferentialRunning = thisGameAway.pointDifferential
+       
 
-            // if(currentDate.getDate() == 21){
-            //     console.log(JSON.stringify(gameDay.sameDayGames[i]))
-            // }
-            // teamTracker[gameDay.sameDayGames[i].general.home].games.length > 0 ?
-            // thisGameHome.pointDifferentialRunning = 
-            // teamTracker[gameDay.sameDayGames[i].general.home].games[gameDay.sameDayGames[i].general.gameNumberHome - 2].pointDifferentialRunning + thisGameHome.pointDifferential
-            // : thisGameHome.pointDifferentialRunning = thisGameHome.pointDifferential
-
-            // teamTracker[gameDay.sameDayGames[i].general.away].games.length > 0 ?
-            //     [thisGameAway.roadTripIncluding, thisGameAway.homestandIncluding] = 
-            //     [teamTracker[gameDay.sameDayGames[i].general.away].games[gameDay.sameDayGames[i].general.gameNumberAway - 2].roadTripIncluding + 1, 0] : [1, 0]
-
-            // teamTracker[gameDay.sameDayGames[i].general.home].games.length > 0 ?
-            // [thisGameHome.homestandIncluding, thisGameHome.roadTripIncluding] = 
-            // [teamTracker[gameDay.sameDayGames[i].general.home].games[gameDay.sameDayGames[i].general.gameNumberHome - 2].homestandIncluding + 1, 0] : [1, 0]
+            
 
             // thisGameAway.streaks = {}
             // thisGameHome.streaks = {}
